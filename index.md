@@ -5,9 +5,7 @@ Introducing Marketing
 
 Professor John Burnett is the author/co-author of twenty books and over 60 academic articles. He recently retired after 41 years as a professor of marketing and lives in Carlsbad, California. For the last twenty years much of his focus has been on marketing for nonprofits. The result has been numerous workshops, the creation of several marketing plans, and the book entitled, *Nonprofit Marketing Best Practices*.
 
-Consequently, he is particularly proud offering his book, *Introducing Marketing*, to the Global Text organization. He finds the possibility of millions of the worlds'
-
-impoverished to have access to his book as being quite remarkable!
+Consequently, he is particularly proud offering his book, *Introducing Marketing*, to the Global Text organization. He finds the possibility of millions of the worlds' impoverished to have access to his book as being quite remarkable!
 
 Through good economic times and bad, marketing remains the pivotal function in any business. Determining and satisfying the needs of customers through products that have value and accessibility and whose features are clearly communicated is the general purpose of any business. It is also a fundamental definition of marketing. This text introduces students to the marketing strategies and tools that practitioners use to market their products.
 
@@ -29,9 +27,7 @@ Technology is altering many marketing practices. The World Wide Web. databases, 
 **CURRENT EXAMPLES FROM ALL TYPES AND SIZES OF BUSINESS** 
 
 
-This book demonstrates how companies use marketing. Specific examples appear not only in text discussions, but also in the chapter openers, the "Integrated Marketing"
-
-and "Newsline" boxes, and the end of chapter cases. Examples and stories bring theory to life, demonstrating the relevance of the reading. The example subjects are vivid, current, and varied. They range from Fortune 500 companies to smaller, privately held businesses. The text also focuses on international companies of all sizes.
+This book demonstrates how companies use marketing. Specific examples appear not only in text discussions, but also in the chapter openers, the "Integrated Marketing" and "Newsline" boxes, and the end of chapter cases. Examples and stories bring theory to life, demonstrating the relevance of the reading. The example subjects are vivid, current, and varied. They range from Fortune 500 companies to smaller, privately held businesses. The text also focuses on international companies of all sizes.
 
 Learning is not always about success stories. Diagnosing problems and failures is an important aspect of critical thinking, and examples of such are introduced to challenge students to learn from others' mistakes and better manage real-world problems.
 
