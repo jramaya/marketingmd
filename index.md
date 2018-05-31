@@ -768,7 +768,7 @@ For the consumer goods marketer, the various marketing components are relatively
 
 The characteristics of a marketing organization include:
 
-1. maintenance of contact with consumers {#maintenance-of-contact-with-consumers .calibre5}              -
+1. maintenance of contact with consumers 
 
 2. objective comparison of existing capabilities with ability to meet
 
@@ -778,15 +778,15 @@ present and future consumer needs
 
 to all consumer groups
 
-4. thorough understanding of strengths and weaknesses of {#thorough-understanding-of-strengths-and-weaknesses-of .calibre5 title="4. thorough understanding of strengths and weaknesses of, competitors"}                   --
+4. thorough understanding of strengths and weaknesses of 
 
 ### competitors 
 
-5. understanding of the capabilities of other non-marketing {#understanding-of-the-capabilities-of-other-non-marketing .calibre5 title="5. understanding of the capabilities of other non-marketing, marketing functions"}                    --
+5. understanding of the capabilities of other non-marketing 
 
 ### marketing functions 
 
-6. attempts at familiarity with the community {#attempts-at-familiarity-with-the-community .calibre5 title="6. attempts at familiarity with the community, The types of marketing:"}                
+6. attempts at familiarity with the community 
 
 ### The types of marketing: 
 
@@ -800,7 +800,7 @@ to all consumer groups
 
 5. local, regional, national, and international marketing
 
-6. consumer goods marketing and business-to-business marketing {#consumer-goods-marketing-and-business-to-business-marketing .calibre5}                     --
+6. consumer goods marketing and business-to-business marketing 
 
 **1.3.5 Strategic Components of Marketing** 
 
@@ -920,7 +920,7 @@ Once a plan is put into action, a marketing manager must still gather informatio
 
 opportunities.
 
-1.4 KEYS TO MARKETING SUCCESS {#keys-to-marketing-success .calibre5}          -- 
+1.4 KEYS TO MARKETING SUCCESS 
 
 
  A prime guideline for marketing success is to realize that establishing customer satisfaction should be the company's number-one priority. The only people who really know what customers want are the customers themselves. A company that realizes this will develop a marketing mentality that facilitates information gathering and maintains effective communication with the primary reason for the company's
@@ -1079,7 +1079,7 @@ online marketing?
 
 provide for users? Specifically, marketers?
 
-1.5 SUMMARY {#summary .calibre5}    -- 
+1.5 SUMMARY
 
 
  This introductory chapter described marketing as one of the major strategic tools available to the business organization. It began with a basic definition and expanded to a set of propositions of marketing. Simply, marketing is based on the mission statement of the organization; is dependent on the effective management of other functional areas; contains a functional area guided by its own philosophy; is the functional area that is concerned with market exchanges; and is likely to be successful when the philosophy, tasks, and manner of implementing available technology are coordinated and complimentary.
@@ -1088,7 +1088,7 @@ The chapter also discussed several characteristics shared by organizations that 
 
 The chapter concluded with a discussion of the four levels of strategic management with considerations applicable to marketing: corporate, functional, marketing, and marketing mix.
 
-1.6 KEY TERMS {#key-terms .calibre5}     - 
+1.6 KEY TERMS
 
 
  **Marketing** The process of planning and executing the conception, pricing, and distribution of ideas, goods, and services to create exchanges that satisfy individual and organizational objectives.
@@ -1103,7 +1103,7 @@ The chapter concluded with a discussion of the four levels of strategic manageme
 
 **Marketing concept** Understanding the consumer and working from the customer back rather than factory forward.
 
-1.7 QUESTIONS {#questions .calibre5}     - 
+1.7 QUESTIONS
 
 
  * How would you have defined marketing before you read this chapter? How does that definition differ from the definition provided?
@@ -1130,8 +1130,7 @@ organization.
 
 communication.
 
-1.8 PROJECT {#project .calibre5}    -- 
-
+1.8 PROJECT
 
  Survey 10 nonbusiness students and ask them to provide a definition of marketing.
 
@@ -1174,7 +1173,7 @@ Loyalty meant the company could build and sell more motorcycles without having t
 
 * Would you consider Harley to be a marketing organization? Why or why not?
 
-1.10 REFERENCES {#references .calibre5}       
+1.10 REFERENCES 
 
 
  1. *Dictionary of Marketing Terms*, Peter D. Bennett, Ed., American Marketing Association, 1988, p. 54.
@@ -1186,7 +1185,7 @@ Loyalty meant the company could build and sell more motorcycles without having t
 4. Shelby D. Hunt and John J. Burnett, "The Macromarketing/Micromarketing Dichotomy: A Taxonomical Model," *Journal of Marketing*, Summer 1982 pp. 11-26.
 
 
-Chapter 2 UNDERSTANDING AND {#chapter-2-understanding-and .calibre5 title="Chapter 2 UNDERSTANDING AND, **APPROACHING THE MARKET**"}          
+Chapter 2 UNDERSTANDING AND 
 
 ### **APPROACHING THE MARKET** 
 
@@ -1208,7 +1207,7 @@ approach toward markets
 
 market
 
-2.1 THE WEB SEGMENT {#the-web-segment .calibre5}       - 
+2.1 THE WEB SEGMENT 
 
 
  Online advertising is still a relatively tiny market, but an increasing number of companies are vying for the right to tell advertisers and their ad agencies where and how to responsibly spend their limited pool of Web ad dollars.
@@ -1329,7 +1328,7 @@ Since resellers operate under unique business characteristics, they must be
 
 approached carefully. Producers are always cognizant of the fact that successful marketing to resellers is just as important as successful marketing to consumers.
 
-2.5 APPROACHING THE MARKET {#approaching-the-market-1 .calibre5}         -- 
+2.5 APPROACHING THE MARKET 
 
 
  All the parties in an exchange usually have the ability to select their exchange partner(s). For the customer, whether consumer, industrial buyer, institution, or reseller, product choices are made daily. *For a product provider, the person(s) or* *organization(s) selected as potential customers are referred to as the **target market**.* A product provider might ask: given that my product will not be needed and/or wanted by all people in the market, and given that my organization has certain strengths and weaknesses, which target group within the market should I select? The process is depicted in [Figure 2.3.](#calibre_link-37)
@@ -2018,7 +2017,7 @@ Here, you can create folders in three separate areas:
 
 2. Favorites
 
-3. Portfolio {#portfolio .calibre5}     
+3. Portfolio 
 
 In the **News** section, you can search for news items in the Interactive
 
@@ -2136,7 +2135,7 @@ acknowledgement that markets contain submarkets known as segments, which must be
 
 **Economic accessibility** Members of a market segment must be reachable and profitable.
 
-2.8 QUESTIONS {#questions-1 .calibre5}     - 
+2.8 QUESTIONS 
 
 
  * What makes the concept of market segmentation different from that of product differentiation?
@@ -2199,7 +2198,7 @@ something unique. So Mullen and his cohorts devised a successful program that co
 
 * Discuss other possible bases for segmentation that Rolling Rock could have used.
 
-2.11 REFERENCES {#references-1 .calibre5}       
+2.11 REFERENCES 
 
 
  1. Alvin A. Achenbaum, "Advertising Doesn't Manipulate Consumerism," *Journal of* *Advertising Research*, April 1972, p. 7.
@@ -2242,7 +2241,7 @@ something unique. So Mullen and his cohorts devised a successful program that co
 
 *Harvard Business Review*, May-June 1984, pp. 104-110.
 
-Chapter 3 MARKETING RESEARCH: AN {#chapter-3-marketing-research-an .calibre5 title="Chapter 3 MARKETING RESEARCH: AN, **AID TO DECISION MAKING**"}           --
+Chapter 3 MARKETING RESEARCH: AN 
 
 ### **AID TO DECISION MAKING**
 
@@ -2257,7 +2256,7 @@ Having completed this chapter, you should:
 
 employed
 
-3.1 DISCOVERING WHY THEY CHEW {#discovering-why-they-chew .calibre5}          -- 
+3.1 DISCOVERING WHY THEY CHEW 
 
 
  Juicy Fruit Gum, the oldest brand of the Wm. Wrigley Jr. Company, was not chewing up the teen market, gum's top demographic. In 1997, the company found itself under pressure from competitors. Sales and market share were down. How could Wrigley make more kids chomp on Juicy Fruit?
@@ -2297,7 +2296,7 @@ In this chapter, we provide an overview of the marketing research process. We st
 
 research is applicable throughout the marketing planning process.
 
-3.3 THE NATURE AND IMPORTANCE OF MARKETING {#the-nature-and-importance-of-marketing .calibre5 title="3.3 THE NATURE AND IMPORTANCE OF MARKETING, **RESEARCH**"}               
+3.3 THE NATURE AND IMPORTANCE OF MARKETING 
 
 ### **RESEARCH**
 
@@ -2447,7 +2446,7 @@ marketing research.
 
 2. *Sources*: Rachel Rosenthal. "New Products Reign as Research Priority," *Advertising Age*, August 8. 1994, p. 26; Robert McMath, "To Test or Not To Test," *American Demographics*, June 1998, p. 64; John McManus, "Mission Invisible," *American Demographics*, March 1999, p. 6.
 
-3.5 PROCEDURES AND TECHNIQUES IN MARKETING {#procedures-and-techniques-in-marketing .calibre5 title="3.5 PROCEDURES AND TECHNIQUES IN MARKETING, **RESEARCH**"}               
+3.5 PROCEDURES AND TECHNIQUES IN MARKETING 
 
 ### **RESEARCH**
 
@@ -2765,12 +2764,12 @@ undertaken. Agreement by the management group that the kinds of information
 
 anticipated will assist in the solving of a marketing problem is helpful in obtaining approval for the project and in restraining management expectations as to the scope and purpose of the project.
 
-3.6 CONDUCTING THE RESEARCH {#conducting-the-research .calibre5}           
+3.6 CONDUCTING THE RESEARCH 
 
 
  The attention devoted in the previous paragraphs to the design of the research plan might leave the impression that once a marketing research project has been carefully designed, the job is almost done. Clearly, this is not the case. The implementation of a research plan is seldom an easy task. Often a research program requires extra effort from already-busy personnel in the company. In other cases, outsiders must be recruited, hired, and trained. In either situation, carrying a marketing research plan is difficult and requires very close supervision and control. To the extent that the plan has been well conceived, supervision and control are restricted to making sure that the research activities called for in the plan are carried out according to schedule and in the manner prescribed.
 
-3.7 PROCESSING THE DATA {#processing-the-data .calibre5}        -- 
+3.7 PROCESSING THE DATA 
 
 
  Processing the data obtained in a market survey involves transforming the
@@ -3043,7 +3042,7 @@ selected.
 
 **Data processing** Procedures for sorting, assembling, and reporting data.
 
-3.11 QUESTIONS {#questions-2 .calibre5}     -- 
+3.11 QUESTIONS 
 
 
  * Marketing research is sometimes referred to as a "problem-solving tool." Explain what is meant by this statement.
@@ -3086,7 +3085,7 @@ you have conducted to evaluate the success of this new product introduction?
 
  Design a short questionnaire (no more than 10 questions) intended to reveal whether or not another student is a good prospect for a new laptop computer. Assume the purpose of this questionnaire is to obtain information that could be used to help increase sales of laptops to college students. Would you use the same questions on a mail questionnaire as in a personal interview? If not, what questions would you use if you were going to mail the questionnaires?
 
-3.13 CASE APPLICATION {#case-application-2 .calibre5}        
+3.13 CASE APPLICATION 
 
 **3.13.1 RESEARCH SAVES THE DAY AT CASE** 
 
@@ -3121,7 +3120,7 @@ The bottom line: All this market-driven "asking" is a far cry from the Case's re
 
 * How could they gather secondary data on product category?
 
-3.14 REFERENCES {#references-2 .calibre5}       
+3.14 REFERENCES 
 
 
  1. Ralph H. Sprague, Jr. and Hugh J. Watson, *Decision Support Systems: Putting Theory* *Into Practice*, Englewood Cliffs, N.J.: Prentice-Hall, 1986, p. 1
@@ -3165,7 +3164,7 @@ market behavior;
 
 * and examine how organizations make purchase decisions.
 
-4.1 TILL DEATH DO US PART {#till-death-do-us-part .calibre5}         - 
+4.1 TILL DEATH DO US PART 
 
 
  At 13:58 on Wednesday, May 5, in Houston's St. Luke's Episcopal Hospital, a consumer was born. Her name was Alyssa J Nedell and by the time she went home three days later, some of America's biggest marketers were pursuing her with samples, coupons, and assorted freebies. Proctor & Gamble hoped its Pampers brand would win the battle for Alyssa's bottom. Johnson & Johnson offered a tiny sample of its baby soap.
@@ -3855,7 +3854,7 @@ Marketers have two choices: either they can change consumers' attitudes to be co
 
 reasonable choice, as when a firm is introducing a truly new product or an unusual new use for an existing one. Marketers should nevertheless face the fact that it is extremely difficult to change consumers' attitudes. If there is to be change, it is most likely to occur when people are open-minded in their beliefs or when an existing attitude is of weak intensity; that is, when there is little information to support the attitude or very little ego involvement on the individual's part. The stronger a person's loyalty to a certain brand, for example, the more difficult it is to change that attitude.
 
-4.5 ORGANIZATIONAL BUYER BEHAVIOR {#organizational-buyer-behavior .calibre5}             
+4.5 ORGANIZATIONAL BUYER BEHAVIOR 
 
 
  Those who supply goods and services to consumer markets are themselves in need of goods and services to run their business. These organizations producers, resellers, and government make up vast marketing organizations that buy a large variety of products, including equipment, raw material, and labor and other services. Some organizations sell exclusively to other organizations and never come into contact with consumer buyers.
@@ -4126,9 +4125,9 @@ unique individual.
 
 **Review**
 
-1. Organizational buyer behavior is different from consumer {#organizational-buyer-behavior-is-different-from-consumer .calibre5 title="1. Organizational buyer behavior is different from consumer, behavior:"}                    --
+1. Organizational buyer behavior is different from consumer 
 
-### behavior: {#behavior-1 .sigilnotintoc}
+### behavior: 
 
 a. Many individuals make the buying decision.
 
@@ -4254,7 +4253,7 @@ consumer buyer behavior? Organizational buyer behavior?
 
 try to influence buyer behavior?
 
-4.6 SUMMARY {#summary-3 .calibre5}    -- 
+4.6 SUMMARY 
 
 
  In this chapter, the rudiments of buyer behavior were presented. The chapter is divided into two parts: consumer behavior and organizational behavior. In the case of consumer behavior, the discussion began with six stages in the consumer decision-making process. These stages include need identification, information search and processing, evaluation of alternatives, product/service/outlet selection, purchase and postpurchase behavior.
@@ -4267,7 +4266,7 @@ The final section of the chapter dealt with issues germane to how organizations 
 
 began with a description of the characteristics of organizational buying. The section concluded with a description or the stages followed in organizational buying. These stages were problem recognition, general need description, product specification, supplier's search, proposal solicitation, supplier selection, order-routine specification, and performance review.
 
-4.7 KEY TERMS {#key-terms-3 .calibre5}     - 
+4.7 KEY TERMS 
 
 
  **Market** A group of potential buyers with needs and wants and the purchasing power to satisfy them.
@@ -4306,7 +4305,7 @@ marketplace.
 
 **Lifestyle** A profile of an individual as reflected in their attitudes, interests and opinions.
 
-4.8 QUESTIONS {#questions-3 .calibre5}     - 
+4.8 QUESTIONS 
 
 
  * Discuss several reasons why marketers continue to have a hard time
@@ -4347,7 +4346,7 @@ could use this type of individual in prompting a decision.
 
  Locate an individual who has purchased a new automobile during the last year. Using the six-step decision-making process, ask this person to indicate how he or she accomplished each step.
 
-4.10 CASE APPLICATION {#case-application-3 .calibre5}        
+4.10 CASE APPLICATION 
 
 **4.10.1 CUSTOMER SATISFACTION STILL MATTERS** 
 
@@ -4374,7 +4373,7 @@ Jaded coach passengers, however, are not expecting first-class treatment anytime
 
 * Should the airlines focus on business travelers or consumers? Why?
 
-4.11 REFERENCES {#references-3 .calibre5}       
+4.11 REFERENCES 
 
 
  1. Henry Assael, *Consumer Behavior and Marketing Action*, 3rd ed., Boston: Kent Publishing, 1987, p. 84.
@@ -4430,7 +4429,7 @@ issues, economic/political issues, technology and social trends.
 
 * Relate these external factors t o the marketing planning process.
 
-5.1 THE CAR INDUSTRY AND TECHNOLOGY {#the-car-industry-and-technology .calibre5}            -- 
+5.1 THE CAR INDUSTRY AND TECHNOLOGY 
 
 
  The EV1 is an electric car built by US based General Motors, marketed under the Saturn brand. The EV1 was introduced to California and Arizona in 1996 with an estimated USD 25 million marketing campaign.
@@ -4467,7 +4466,7 @@ Production of electric vehicles was undertaken in response to voter mandates, a 
 
 * They are currently best as a second vehicle. 1
 
-5.2 INTRODUCTION {#introduction-4 .calibre5}      - 
+5.2 INTRODUCTION 
 
 
  When marketing organizations plan strategically, the key question is: "Does the strategic planning process raise the overall level of the organization's effectiveness, and does it provide the new strategic direction that is required for the future?" A good strategic plan must help marketing organizations recognize the interrelationships among various forces in the business environment. These interrelationships must be accounted for if the organization is to be capable of implementing its vision.
@@ -4500,7 +4499,7 @@ opportunities and threats looming. Marketers must be able to prioritize these op
 
 Only after the marketing environment is thoroughly understood can an organization spot trends and determine whether they represent market opportunities or market threats.
 
-5.3 EXTERNAL FACTORS THAT AFFECT PLANNING {#external-factors-that-affect-planning .calibre5}              -- 
+5.3 EXTERNAL FACTORS THAT AFFECT PLANNING 
 
 
  There are many marketplace changes occurring that marketers cannot control but affect what marketers do. Faced with these environmental uncertainties, successful marketers will be those who recognize the changes that are occurring and who make effective adjustments.
@@ -5614,7 +5613,7 @@ utilized to help organizations take advantage of market
 
 opportunities? Divert threats?
 
-5.4 SUMMARY {#summary-4 .calibre5}    -- 
+5.4 SUMMARY 
 
 
  In this chapter, the importance of understanding environmental forces was discussed.
@@ -5625,7 +5624,7 @@ Changes affect the way marketers go about providing want-and need-satisfying pro
 
 Information about external forces must be gathered for each stage of the strategic marketing planning process. The purpose of collecting and analyzing information is to reduce the uncertainty associated with marketing decision making. While experience is an important resource, new problems or old problems that need new solutions require marketers to stay abreast of marketplace developments so that they can continue to offer successful products and service to the marketplace.
 
-5.5 KEY TERMS {#key-terms-4 .calibre5}     - 
+5.5 KEY TERMS 
 
 
  **External enviornment** Forces external to the organization that affect organization and marketing decision making.
@@ -5650,7 +5649,7 @@ Information about external forces must be gathered for each stage of the strateg
 
 **Regulators** The set of laws, agencies, and policies established to ensure that marketers compete legally in their efforts to provide want-and need-satisfying products and services.
 
-5.6 QUESTIONS {#questions-4 .calibre5}     - 
+5.6 QUESTIONS 
 
 
  * Describe the role of external analysis in the strategic marketing planning process.
@@ -5675,7 +5674,7 @@ marketing strategists for companies that have typically mass marketed products.
 
 * Briefly describe the impact that each of the following has on marketing activity: regulators, the economy, and technology.
 
-5.7 PROJECT {#project-4 .calibre5}    -- 
+5.7 PROJECT 
 
 
  Since Pathfinder touched down on Mars, much has been learned about the Red
@@ -5729,7 +5728,7 @@ Some industry experts are predicting an industry shakeout. Their reasoning is th
 
 4. Robert I. Samuelson, "The Joy of Deregulation," *Newsweek*, (February 3, 1997), p.
 
-39. {#section .calibre5}  
+39. 
 
 5. Alan R. Andreasen "Social Marketing: It's Definition and Domain," *Journal of Public* *Policy & Marketing*, Vol. 13(1), Spring 1994, 108-114.
 
@@ -5743,7 +5742,7 @@ Some industry experts are predicting an industry shakeout. Their reasoning is th
 
 9. "The Power to Create Competitive Advantage," *Roper Starch Worldwide*, 2000.
 
-Chapter 6 MARKETING IN GLOBAL {#chapter-6-marketing-in-global .calibre5 title="Chapter 6 MARKETING IN GLOBAL, **MARKETS**"}          --
+Chapter 6 MARKETING IN GLOBAL 
 
 ### **MARKETS** 
 
@@ -5770,7 +5769,7 @@ which has advantages and disadvantages
 
 domestic marketing mix strategies
 
-6.1 GOOD LUCK GETTING INTO CHINA {#good-luck-getting-into-china .calibre5}           -- 
+6.1 GOOD LUCK GETTING INTO CHINA 
 
 
  It is a wet morning in Old Shanghai, and Dell salesman Peter Chan is selling hard. As the Yangtze River flows by the Bund district a few floors below, Chan is getting into a flow of his own. His subject: computers and the unique benefits of Dell's direct-selling model. His customer: Xiao Jian Yi, deputy general Manager of China Pacific Insurance, a fast-growing state-owned insurance company. The audience: three of Xiao's
@@ -5794,7 +5793,7 @@ One thing is for sure: the Dell model is working in China. As long as China's PC
 
 The purpose of this chapter is to introduce you to the scope and complexity of going global with a marketing effort. In the following sections, we define global marketing and examine various aspects of the global marketing environment. Against this background, we then look at the ways in which companies typically become involved in global markets, and introduce you to the global marketing management process.
 
-6.3 DEFINING INTERNATIONAL MARKETING {#defining-international-marketing .calibre5}              
+6.3 DEFINING INTERNATIONAL MARKETING 
 
 
  Now that the world has entered the next millennium, we are seeing the emergence of an interdependent global economy that is characterized by faster communication, transportation, and financial flows, all of which are creating new marketing
@@ -5847,7 +5846,7 @@ Thus Toyota Motors started out as a domestic marketer, eventually exported its c
 
 Ultimately, the successful marketer is the one who is best able to manipulate the controllable tools of the marketing mix within the uncontrollable environment. The principal reason for failure in international marketing results from a company not conducting the necessary research, and as a consequence, misunderstanding the differences and nuances of the marketing environment within the country that has been targeted.
 
-6.4 STANDARDIZATION AND CUSTOMIZATION {#standardization-and-customization .calibre5}             - 
+6.4 STANDARDIZATION AND CUSTOMIZATION 
 
 
  In 1983, Harvard marketing professor Theodore Levitt wrote an article entitled, "The Globalization of Markets," and nothing about marketing has been the same since.2
@@ -5880,7 +5879,7 @@ Too often, executives view global marketing as an either/or proposition either f
 
 agreements on a product ideas there is no reason for this extreme view. In applying the global marketing concept and making it work, flexibility is essential. The big issue today is not whether to go global, but how to tailor the global marketing concept to fit each business and how to make it work.
 
-6.5 REASONS FOR ENTERING INTERNATIONAL MARKETS {#reasons-for-entering-international-markets .calibre5}                - 
+6.5 REASONS FOR ENTERING INTERNATIONAL MARKETS 
 
 
  Many marketers have found the international marketplace to be extremely hostile. A study by Baker and Kynak,4 for example, found that less than 20 per cent of firms in Texas with export potential actually carried out business in international markets. But although many firms view international markets with trepidation, others still make the decision to go international. Why?
@@ -5909,7 +5908,7 @@ Other empirical studies over a number of years have pointed to a wide variety of
 
 saturation of the domestic market, which leads firms either to seek other less competitive markets or to take on the competitor in its home markets; the emergence of new markets, particularly in the developing world; government incentives to export; tax incentives offered by foreign governments to establish manufacturing plants in their countries in order to create jobs; the availability of cheaper or more skilled labor; and an attempt to minimize the risks of a recession in home country and spread risk.6
 
-6.6 REASONS TO AVOID INTERNATIONAL MARKETS {#reasons-to-avoid-international-markets .calibre5}                
+6.6 REASONS TO AVOID INTERNATIONAL MARKETS 
 
 
  Despite attractive opportunities, most businesses do not enter foreign markets. The reasons given for not going international are numerous. The biggest barrier to entering foreign markets is seen to be a fear by these companies that their products are not marketable overseas, and a consequent preoccupation with the domestic market. The following points were highlighted by the findings in the previously mentioned study by Barker and Kaynak, who listed the most important barriers:7
@@ -5938,7 +5937,7 @@ saturation of the domestic market, which leads firms either to seek other less c
 
 It is the combination of these factors that determines not only whether companies become involved in international markets, but also the degree of involvement.
 
-6.7 THE STAGES OF GOING INTERNATIONAL {#the-stages-of-going-international .calibre5}             - 
+6.7 THE STAGES OF GOING INTERNATIONAL 
 
 
  Earlier in our discussion on definitions, we identified several terms that relate to how committed a firm is to being international. Here we expand on these concepts and explain the rationale behind this process. Two points should be noted. First, the process tends to be ranked in order of "least risk and investment" to "greatest involvement". Second, these are not necessarily sequential steps, even though exporting is apparently most common as an initial entry.
@@ -6049,7 +6048,7 @@ competition with Heineken, partly because the American beer market has been flat
 
 They are doing so by forming alliances with global breweries such as Molson, Corona, and Dos Equis. Heineken has responded to the challenge, heavily promoting products such as Amstel Light and Murphy's Irish Stout. Heineken has also begun developing an alliance with Asia Pacific Breweries, the maker of Tiger Beer.
 
-6.8 THE INTERNATIONAL MARKETING PLAN {#the-international-marketing-plan .calibre5}              
+6.8 THE INTERNATIONAL MARKETING PLAN 
 
 
  It should be apparent by now that companies and organizations planning to compete effectively in world markets need a clear and well-focused international marketing plan that is based on a thorough understanding of the markets in which the company is introducing its products. The challenge, then, of international marketing is to ensure that any international strategy has the discipline of thorough research, and an understanding and accurate evaluation of what is required to achieve the competitive advantage. As such, the decision sequence in international marketing (see [Figure 6.1)](#calibre_link-140)
@@ -6239,7 +6238,7 @@ appropriate approach
 
 4. implementing the strategy through the use of a variety of tactics and procedures to set prices
 
-5. managing prices and financing international transactions {#managing-prices-and-financing-international-transactions .calibre5}                    --
+5. managing prices and financing international transactions 
 
 Perhaps the most critical factor to be considered when developing a pricing strategy in international markets, however, is how the customers and competitors will respond.
 
@@ -6841,7 +6840,7 @@ marketing decisions?
 
 countries will influence international trade?
 
-6.10 SUMMARY {#summary-5 .calibre5}      
+6.10 SUMMARY 
 
 
  Most American firms have discovered that many opportunities exist in international marketing, as evidenced by the vast amount of goods exported by US-based firms.
@@ -6862,7 +6861,7 @@ When a firm chooses to market its products internationally, it must decide wheth
 
 Others use a standardized marketing mix. In making the decision to customize or standardize, there is a wide range of possibilities for adapting a firm's product, price, promotion, and distribution strategies.
 
-6.11 KEY TERMS {#key-terms-5 .calibre5}     -- 
+6.11 KEY TERMS 
 
 
  **International marketing** The marketing of a company's products and/or services outside of that company's home nation.
@@ -6903,7 +6902,7 @@ manufacturing process, brand name, or sales knowledge in return for some payment
 
 **Product adaptation** A product is changed to meet individual foreign target market needs.
 
-6.12 QUESTIONS {#questions-5 .calibre5}     -- 
+6.12 QUESTIONS 
 
 
  * What are the reasons a firm might engage in exporting?
@@ -6926,12 +6925,12 @@ manufacturing process, brand name, or sales knowledge in return for some payment
 
 * Why does direct investment in foreign markets afford marketers the greatest degree of control over international marketing activities?
 
-6.13 PROJECT {#project-5 .calibre5}      
+6.13 PROJECT 
 
 
  Identify a US-made product that is currently sold in the US. Develop a marketing plan for this product, assuming they plan to export to Canada.
 
-6.14 CASE APPLICATION {#case-application-5 .calibre5}        
+6.14 CASE APPLICATION 
 
 **6.14.1 UNILEVER'S GLOBAL BRAND** 
 
@@ -6966,7 +6965,7 @@ per cent the same as condoms. 4
 
 Will these costs present problems?
 
-6.15 REFERENCES {#references-5 .calibre5}       
+6.15 REFERENCES 
 
 
  1. Isobel Doole, Robin Lowe, and Chris Philips, *International Marketing Strategy*, International Thompson Business Press: London, 1999, pp. 14-15.
@@ -6995,9 +6994,9 @@ Will these costs present problems?
 
 12. TT Nagle, *The Strategies and Tactics of Pricing*, Prentice-Han, Inc. Englewood Cliffs, N.J.,1999.
 
-Chapter 7 INTRODUCING AND {#chapter-7-introducing-and .calibre5 title="Chapter 7 INTRODUCING AND, **MANAGING THE PRODUCT**"}         -
+Chapter 7 INTRODUCING AND 
 
-### **MANAGING THE PRODUCT** {#managing-the-product .sigilnotintoc} 
+### **MANAGING THE PRODUCT** 
 
 
  **LEARNING OBJECTIVES**
@@ -7026,7 +7025,7 @@ resolution of factors that have an impact on the product
 
 system
 
-7.1 JAPANESE CARS ON THE DECLINE {#japanese-cars-on-the-decline .calibre5}           -- 
+7.1 JAPANESE CARS ON THE DECLINE 
 
 
  Japan's auto dealers have tried just about everything to revive sales. One Toyota Motor Corporation dealership in Tokyo throws monthly festivals in its parking lot and offers discounts of as much as USD 2,500 on new models. But potential customers such as Kai Matsuda, a smartly dressed 28 year old, is not buying. Sure, after spending a recent Sunday touring Toyota's swank four-story Amlux showroom in Tokyo,
@@ -7047,7 +7046,7 @@ asks Edward Brogan, automotive analyst at Salomon Brothers Inc.
 
 In this chapter we will look at the special challenges that the marketing of products possess. Moreover, we will delineate the unique characteristics associated with products as they pass through the various stages of their lives. Particular attention will be given to the kinds of decisions that are necessary through this process. 1
 
-7.2 INTRODUCTION {#introduction-6 .calibre5}      - 
+7.2 INTRODUCTION 
 
 
  This chapter begins our discussion of the functional areas of marketing. Why do we begin our discussion with product rather than with promotion, distribution, or pricing?
@@ -7095,7 +7094,7 @@ The outer ring of the product is referred to as the *promised product.* Every pr
 
 Having discussed the components of a product, it is now relevant to examine ways of classifying products in order to facilitate the design of appropriate product strategies.
 
-7.4 CLASSIFICATION OF PRODUCTS {#classification-of-products .calibre5}            
+7.4 CLASSIFICATION OF PRODUCTS 
 
 
  It should be apparent that the process of developing successful marketing programs for individual products is extremely difficult. In response to this difficulty, a variety of classification systems have evolved that, hopefully, suggest appropriate strategies. The two most common classifications are: (a) consumer goods versus industrial goods, and (b) goods products (i.e. durables and nondurables) versus service products.
@@ -7208,7 +7207,7 @@ service products (i.e. those on the extreme ends of the continuum) tend to refle
 
 strategies. Admittedly, offering an exceptional product at the right price, through the most accessible channels, promoted extensively and accurately, should work for any type of product. The goods/services classification provides the same useful insights provided by the consumer/industrial classification discussed earlier.
 
-7.5 PRODUCT PLANNING AND STRATEGY FORMULATION {#product-planning-and-strategy-formulation .calibre5}                 
+7.5 PRODUCT PLANNING AND STRATEGY FORMULATION 
 
 
  The ultimate purpose of this chapter is to introduce the idea that products are planned and that a whole series of decisions go into this planning process from the moment the product idea is first conceptualized to the day it is finally deleted. The particular label placed on the company's plan for marketing its product is the *product* *strategy.* It is part of the marketing strategy and should harmonize with it. Like the marketing strategy, it contains three important elements: (1) the determination of product objectives, (2) the development of product plans that will help reach product objectives, and (3) the development of strategies appropriate for the introduction and management of products.
@@ -7935,9 +7934,9 @@ X
 
 4
 
-1.2 {#section-1 .calibre5 title="1.2, **-easy to use**"}  
+1.2 
 
-### **-easy to use** {#easy-to-use .sigilnotintoc}
+### **-easy to use** 
 
 .1
 
@@ -7957,9 +7956,9 @@ X
 
 4
 
-1.2 {#section-2 .calibre5 title="1.2, **effective sales**"}  
+1.2 
 
-### **effective sales** {#effective-sales .sigilnotintoc}
+### **effective sales** 
 
 **appeals**
 
@@ -8021,9 +8020,9 @@ X
 
 5
 
-1.5 {#section-3 .calibre5 title="1.5, **product in**"}  
+1.5 
 
-### **product in** {#product-in .sigilnotintoc}
+### **product in** 
 
 **large volumes**
 
@@ -8055,9 +8054,9 @@ X
 
 4
 
-1.2 {#section-4 .calibre5 title="1.2, **investment**"}  
+1.2 
 
-### **investment** {#investment .sigilnotintoc}
+### **investment** 
 
 **Product can**
 
@@ -8085,9 +8084,9 @@ X
 
 4
 
-1.2 {#section-5 .calibre5 title="1.2, **be produced**"}  
+1.2 
 
-### **be produced** {#be-produced .sigilnotintoc}
+### **be produced** 
 
 **Table 7.1: Screening product ideas**
 
@@ -8139,7 +8138,7 @@ X
 
 **Total score**
 
-12.4 {#section-6 .calibre5}  -
+12.4 
 
 **Table 7.1: Screening product ideas**
 
@@ -8357,7 +8356,7 @@ products.
 
 7. test marketing
 
-8. commercialization {#commercialization .calibre5}       --
+8. commercialization 
 
 **The Wall Street Journal (wsj.com)**
 
@@ -8453,7 +8452,7 @@ Interactive Journal to find articles about these companies and
 
 products.
 
-7.6 SUMMARY {#summary-6 .calibre5}    -- 
+7.6 SUMMARY 
 
 
  The ability of the organization to consistently produce new products and effectively manage existing products looms as one of the most important and difficult tasks faced by the company. This chapter provides an overview of the components that constitute a product, and the product planning process.
@@ -8494,7 +8493,7 @@ products. Or they can use the external route: mergers and acquisitions, licenses
 
 **Position** A strategic management decision that determines the place a product should occupy in a given market.
 
-7.8 QUESTIONS {#questions-6 .calibre5}     - 
+7.8 QUESTIONS 
 
 
  * What overriding objectives should be kept in mind when designing a product
@@ -8526,12 +8525,12 @@ discussed in the chapter?
 
 * Describe the steps in the new product development process. Are all these steps necessary?
 
-7.9 PROJECT {#project-6 .calibre5}    -- 
+7.9 PROJECT 
 
 
  Identify a product that you feel is in the maturity or decline stage. Determine the characteristics of this product in light of the discussion throughout this chapter. Write a three to five page analysis.
 
-7.10 CASE APPLICATION {#case-application-6 .calibre5}        
+7.10 CASE APPLICATION 
 
 **7.10.1 HERSHEY CHOCOLATE MILK** 
 
@@ -8564,7 +8563,7 @@ For Hershey, the taste of success is sweet.
 
 * Describe any potential problems.
 
-7.11 REFERENCES {#references-6 .calibre5}       
+7.11 REFERENCES 
 
 
  1. L.P. Bucklin, "Retail Strategy and the Classification of Consumer Goods *," Journal of* *Marketing*, January 1963, pp. 53-54.
@@ -8603,9 +8602,9 @@ Stephanie Thompson, "Brand Buddies," *Brandweek*, February 23, 1998, pp. 22-30.
 
 13. Abbie Griffin, "PDMA Research on New Product Development Practices: Updating Trends and Benchmarking Best Practices *," Journal of Product Innovation* Management, Vol. 14, November 1997, pp. 429-458.
 
-Chapter 8 COMMUNICATING TO {#chapter-8-communicating-to .calibre5 title="Chapter 8 COMMUNICATING TO, **MASS MARKETS**"}         --
+Chapter 8 COMMUNICATING TO 
 
-### **MASS MARKETS** {#mass-markets .sigilnotintoc} 
+### **MASS MARKETS** 
 
 
  **LEARNING OBJECTIVES**
@@ -8669,7 +8668,7 @@ We'll change it a little here, a little there, and, before you know it, it'll be
 
 says Walsh. "You don't win by wimping out." 1
 
-8.2 INTRODUCTION {#introduction-7 .calibre5}      - 
+8.2 INTRODUCTION 
 
 
  The case example clearly points to one of the most difficult problems facing
@@ -8692,7 +8691,7 @@ This chapter introduces the concept of IMC, a framework for organizing the persu
 
 This chapter also provides a discussion of four of the IMC mix elements advertising, sales promotion, public relations, and personal selling. We begin our discussion with an explanation of the role IMC plays in the marketing strategy.
 
-8.3 THE ROLE OF IMC {#the-role-of-imc .calibre5}       - 
+8.3 THE ROLE OF IMC 
 
 
  The heart of every transactional exchange is communication between parties. The buyer seeks certain basic information about product features, price, quality, support service, reputation of the seller, and so forth. All this information is intended to assess how close each alternative is to meeting desired needs and wants. We seek
@@ -8837,7 +8836,7 @@ has emerged due to the confusion with the term "sales promotion" and the failure
 
 will become a salient part of marketing communication. (More was said about IMC in the previous "Integrated Marketing".)
 
-8.4 THE MEANING OF MARKETING COMMUNICATION {#the-meaning-of-marketing-communication .calibre5}                
+8.4 THE MEANING OF MARKETING COMMUNICATION 
 
 
  Defining the concept of marketing communication (MC) is not an easy task, because in a real sense, everything the company does has communication potential. The price placed on a product communicates something very specific about the product. A company that chooses to distribute their products strictly through discount stores tells 2. Sources: Don E. Schultz, "A New IMC Mantra," *The Marketing News*, May 26, 1997, p. 8; Richard Linnett, "Full Court Press," *Adweek*, January 31, 2000, pp. 3-6; Don E. Schultz, "Structural Straight Jackets Stifle Integrated Success," *The Marketing News*, March 1, 1999, p. 8; Don E. Schultz, "How to Create Your Own Worst Enemy," *The* *Marketing News*, July 3, 2000, p. 10.
@@ -8868,7 +8867,7 @@ different forms, such as sales calls by a field representative (field selling), 
 
 purchasing and dealer effectiveness. These activities include displays, shows and exhibitions, demonstrations, and various nonrecurring selling efforts not in the ordinary routine. As the provision for an additional incentive to buy, these tools can be directed at consumers, the trade, or the manufacturer's own sales force.
 
-8.5 THE OBJECTIVES OF MARKETING COMMUNICATION {#the-objectives-of-marketing-communication .calibre5}                 
+8.5 THE OBJECTIVES OF MARKETING COMMUNICATION 
 
 
  The basic objectives of marketing communication have been reduced to three more meaningful directives: (a) to communicate, (b) to compete, and (c) to convince. The primary purpose of MC is to *communicate ideas to target audiences*. This is done through advertising, personal selling, sales promotion, and/or public relations.
@@ -8889,7 +8888,7 @@ In conclusion, effective marketing communication should present useful ideas
 
 (information) in a manner that makes them clearly understood (communicate), cause the consumer to believe the message is true (convince), and is as appealing or more appealing than the message delivered by competitors (compete).
 
-8.6 HOW WE COMMUNICATE {#how-we-communicate .calibre5}        - 
+8.6 HOW WE COMMUNICATE 
 
 
  Because communication is such an integral part of effective marketing, it is important that we provide a basic understanding of its process. Our starting point is a basic definition of human communication: a process in which two or more persons attempt to consciously or unconsciously influence each other through the use of symbols or words in order to satisfy their respective needs.
@@ -9023,7 +9022,7 @@ marketing communication is depicted in [Figure 8.2.](#calibre_link-208)
 
 **Fig. 8.2: The flow of marketing communication**
 
-8.7 DESIGNING AN IMC STRATEGY {#designing-an-imc-strategy .calibre5}          -- 
+8.7 DESIGNING AN IMC STRATEGY 
 
 
  The design of an effective IMC strategy is a very difficult and time-consuming process that requires the efforts of many members of the marketing staff. Although there has been a great deal of variety in designing this process, the steps depicted in [Figure 8.3] are most common.
@@ -9214,7 +9213,7 @@ communication efforts built around a single theme or idea and
 
 designed to reach a predetermined goal.
 
-8.8 UNDERSTANDING ADVERTISING {#understanding-advertising .calibre5}          -- 
+8.8 UNDERSTANDING ADVERTISING 
 
 
  Undoubtedly, advertising is the promotional element that most consumers feel they know the best and hold strong opinions about. This is a result of the visibility and intrusiveness of advertising. In fact, most people have little understanding of advertising.
@@ -9761,7 +9760,7 @@ consumers with a sample of dynamically updated content housed on the music
 
 retailer's site. When the consumer clicks an arrow on the ad, it expands to show the top 10 songs in CDNow's top 100 Billboard Chart.5
 
-8.9 SALES PROMOTION AND PUBLIC RELATIONS {#sales-promotion-and-public-relations .calibre5}              - 
+8.9 SALES PROMOTION AND PUBLIC RELATIONS 
 
 
  For several years, sales promotion and public relations have been often
@@ -10647,7 +10646,7 @@ programs that keep pace with the rapid changes in technology?
 
 What skills are employers seeking for these positions?
 
-8.10 SUMMARY {#summary-7 .calibre5}      
+8.10 SUMMARY 
 
 
  Marketing communication remains one of the most visible and controversial aspects of marketing. Everyday we see hundreds of ads, redeem coupons, are approached by a variety of salespeople, and are told by countless companies how good they are. This chapter introduces the persuasive arm of marketing communication. In it we suggest that since everything about a company is going to communicate something, it would be beneficial to have as much control over this process as possible. Other reasons for planning the communication effort are also discussed, as are the primary objectives: (a) to communicate, (b) to convince, and (c) to compete. The systems model of communication is discussed to clarify the general communications process.
@@ -10662,7 +10661,7 @@ misunderstood and misused. The second part of this chapter develops some basic c
 
 Professional selling has been defined as personal contact aimed at successfully persuading prospects to buy products or services from which they can derive suitable benefits. Selling is a major force in our economy, both in terms of employment and its impact on the success of various organizations. The product, customer, competition, and environment must all be considered in determining the relative emphasis to place on personal selling in the promotional mix. The activities of a salesperson can be broken into a series of steps called the sales process. Not all of the steps are required for every sale, but the complete process includes prospecting, preapproach, planning the presentation, delivering the presentation, handling objectives, closing, and follow-up.
 
-8.11 KEY TERMS {#key-terms-7 .calibre5}     -- 
+8.11 KEY TERMS 
 
 
  **Advertising (consumer's perspective)** One of several incoming messages directed at the consumer, the salience of which is influenced by the emotional, physical, and need state of the individual, and the benefit of which can be information, motivation, and entertainment.
@@ -10719,7 +10718,7 @@ implementing planned programs of action that serve both the organization's and t
 
 **IMC mix** Various combinations of elements in a promotional plan: advertising, sales promotion, personal selling, public relations.
 
-8.12 QUESTIONS {#questions-7 .calibre5}     -- 
+8.12 QUESTIONS 
 
 
  * List the basic objectives of marketing communication. Why is it often difficult for promoters to reach their objectives? Provide some valid reasons why marketers should pursue these objectives.
@@ -10756,12 +10755,12 @@ responsibilities should be mentioned in the job description for this position?
 
 * List and describe the various types of appeals. Develop an appeal, as well as tactics to operationalize this appeal, for Old Spice Shave Cream.
 
-8.13 PROJECT {#project-7 .calibre5}      
+8.13 PROJECT 
 
 
  Can you cite some examples of how either advertising or another form of marketing communication led you to purchase a product that did not satisfy a need? Could any form of MC (marketing communications) or gimmick lead you to repurchase it? Has MC enabled you to find a product which satisfies a personal need? How might future MC keep you loyal to a product? Write a two to three page response.
 
-8.14 CASE APPLICATION {#case-application-7 .calibre5}        
+8.14 CASE APPLICATION 
 
 **8.14.1 THE MICRORECORDER** 
 
@@ -10804,7 +10803,7 @@ The products had arrived from Korea. The media schedule had been set. Shipping p
 
 * Suggest three alternative creative executions of the recommended strategy for a print advertisement.
 
-8.15 REFERENCES {#references-7 .calibre5}       
+8.15 REFERENCES 
 
 
  1. Don E. Schultz, Stanley I. Tannenbaum and Robert F. Lauterborn, *Integrated* *Marketing Communications*, 1993, Chicago: NTC Business Books.
@@ -10817,7 +10816,7 @@ The products had arrived from Korea. The media schedule had been set. Shipping p
 
 4. Terrance A. Shimp, *Advertising Promotion*, Fifth ed., 2000, The Dryden Press, p.
 
-561. {#section-7 .calibre5}  -
+561. 
 
 5. Ann M. Mack, "Banner Daze," *Adweek*, May 22, 2000, p.86.
 
@@ -10829,7 +10828,7 @@ The products had arrived from Korea. The media schedule had been set. Shipping p
 
 9. Don E. Schultz, "Make Communications Worth the Profits," *The Marketing News*, January 15, 2001, p. 13.
 
-Chapter 9 PRICING THE PRODUCT {#chapter-9-pricing-the-product .calibre5}          -- 
+Chapter 9 PRICING THE PRODUCT 
 
 
  **LEARNING OBJECTIVES**
@@ -10846,7 +10845,7 @@ society
 
 * the alternative pricing approaches available to the manager
 
-9.1 THE MCDONALD'S EFFECT {#the-mcdonalds-effect .calibre5}         -- 
+9.1 THE MCDONALD'S EFFECT 
 
 
  McDonald's is one humongous company. With 21,000 restaurants in 101 countries, it is everywhere which is why the global economy is sometimes called McWorld. Back home in America, the executives that run this vast empire are not feeling very lordly.
@@ -10865,7 +10864,7 @@ Apparently they took no notice of the fallout when Phillip Morris announced deep
 
 In theory, McDonald's plan will payoff, because customers only get the discount if they buy a drink and french-fries, too. Yet that gimmick-within-a-gimmick threatens to undermine pricier "Extra Value Meals," one of the most successful marketing initiatives. Consumers expecting cut-rate combos will not go back to paying full price, especially if other fast-feeders discount their package deals. 1
 
-9.2 INTRODUCTION {#introduction-8 .calibre5}      - 
+9.2 INTRODUCTION 
 
 
  From a customer's point of view, value is the sole justification for price. Many times customers lack an understanding of the cost of materials and other costs that go into the making of a product. But those customers can understand what that product does for them in the way of providing value. It is on this basis that customers make decisions about the purchase of a product.
@@ -10975,7 +10974,7 @@ product can represent a challenge, as there is often no historical basis for pri
 
 of existing products. As a result, marketers face pressures to price products to recover costs more quickly. Prices must be set for early successes including fast sales growth, quick market penetration, and fast recovery of research and development costs.
 
-9.4 PRICING OBJECTIVES {#pricing-objectives .calibre5}        - 
+9.4 PRICING OBJECTIVES 
 
 
  Firms rely on price to cover the cost of production, to pay expenses, and to provide the profit incentive necessary to continue to operate the business. We might think of these factors as helping organizations to: (a) survive, (b) earn a profit, (c) generate sales, (d) secure an adequate share of the market, and (e) gain an appropriate image.
@@ -11028,7 +11027,7 @@ convey the message to the community that the firm offers good value, that it is 
 
 ◦ image
 
-9.5 DEVELOPING A PRICING STRATEGY {#developing-a-pricing-strategy .calibre5}             
+9.5 DEVELOPING A PRICING STRATEGY 
 
 
  While pricing a product or service may seem to be a simple process, it is not. As an illustration of the typical pricing process, consider the following quote: "Pricing is guesswork. It is usually assumed that marketers use scientific methods to determine the price of their products. Nothing could be further from the truth. In almost every case, the process of decision is one of guesswork."2
@@ -11187,7 +11186,7 @@ redesigning products for ease and speed of manufacturing or reducing costly feat
 
 discounts in favor of stable, everyday low prices (ELP). In all cases, these companies are seeking shelter from pricing pressures that come from the discount mania that has been common in the US for the last two decades.
 
-9.6 New Product Pricing {#new-product-pricing .calibre5}        -- 
+9.6 New Product Pricing 
 
 
  A somewhat different pricing situation relates to new product pricing. With a totally new product, competition does not exist or is minimal. What price level should be set in such cases? Two general strategies are most common: penetration and skimming.
@@ -11260,7 +11259,7 @@ as it becomes available in their areas. *3*
 
 *Advertising Age, August 2, 1999, pp. 12-13.*
 
-9.7 PRICE LINES {#price-lines .calibre5}       
+9.7 PRICE LINES 
 
 
  You are already familiar with price lines. Ties may be priced at USD 15, USD 17, USD
@@ -11279,7 +11278,7 @@ years ago. You can buy a USD 20 tie today, but it is unlikely that today's USD 2
 
 system is suggested.
 
-9.8 PRICE FLEXIBILITY {#price-flexibility .calibre5}         
+9.8 PRICE FLEXIBILITY 
 
 
  Another pricing decision relates to the extent of price flexibility. A flexible pricing policy means that the price is bid or negotiated separately for each exchange. This is a common practice when selling to organizational markets where each transaction is typically quite large. In such cases, the buyer may initiate the process by asking for bidding on a product or service that meets certain specifications. Alternatively, a buyer may select a supplier and attempt to negotiate the best possible price. Marketing effectiveness in many industrial markets requires a certain amount of price flexibility.
@@ -11380,7 +11379,7 @@ Executives at Priceline say they are on the right track and that they
 
 are building a broad-based discounting powerhouse. *4*
 
-9.9 PRICE BUNDLING {#price-bundling .calibre5}        
+9.9 PRICE BUNDLING 
 
 
  A very popular pricing strategy, *price bundling*, is to group similar or complementary products and to charge a total price that is lower if they were sold
@@ -11389,7 +11388,7 @@ separately. Comcast, Direct TV, and Telstra all follow this strategy by combinin
 
 computer experts are putting together an effective product package and they are paying less. The underlying assumption of this pricing strategy is that the increased sales generated will more than compensate for a lower profit margin. It may also be a way of selling a less popular product by combining it with popular ones. Clearly, industries such as financial services and telecommunications are big users of this.
 
-9.10 PSYCHOLOGICAL ASPECTS OF PRICING {#psychological-aspects-of-pricing .calibre5}             - 
+9.10 PSYCHOLOGICAL ASPECTS OF PRICING 
 
 
  Price, as is the case with certain other elements in the marketing mix, appears to have meaning to many buyers that goes beyond a simple utilitarian statement. Such
@@ -11454,7 +11453,7 @@ pricing, or odd pricing, play on the psychological perspectives of
 
 the consumer.
 
-9.11 ALTERNATIVE APPROACHES TO DETERMINING PRICE {#alternative-approaches-to-determining-price .calibre5}                  
+9.11 ALTERNATIVE APPROACHES TO DETERMINING PRICE 
 
 
  Price determination decisions can be based on a number of factors, including cost, demand, competition, value, or some combination of factors. However, while many marketers are aware that they should consider these factors, pricing remains
@@ -11577,7 +11576,7 @@ Approaches to determining price include:
 
 * value-based approaches to pricing
 
-9.12 The Future of Pricing {#the-future-of-pricing .calibre5}         -- 
+9.12 The Future of Pricing 
 
 
  For too long, pricing decisions have been dominated by economists, discounters, and financial analysts. While making a reasonable profit remains a necessity, pricing must become a more strategic element of marketing. Smarter pricing, as portrayed by the value-based strategy, appears to represent the future. A case in point is the Ford Motor Company, which managed to earn USD 7.2 billion in 2000, more than any
@@ -11682,7 +11681,7 @@ companies compete with traditional "brick and mortar" companies
 
 in pricing?
 
-9.13 SUMMARY {#summary-8 .calibre5}      
+9.13 SUMMARY 
 
 
  The chapter begins by defining price from the perspective of the consumer, society, and the business. Each contributes to our understanding of price and positions it as a competitive advantage.
@@ -11691,7 +11690,7 @@ The objectives of price are five-fold: (a) survival, (b) profit, (c) sales, (d) 
 
 Several pricing tactics were discussed. They include new product pricing, price lining, price flexibility, price bundling, and the psychological aspects of pricing. The chapter concludes with a description of the three alternative approaches to pricing: cost-oriented, demand-oriented, and value-based.
 
-9.14 KEY TERMS {#key-terms-8 .calibre5}     -- 
+9.14 KEY TERMS 
 
 
  **Demand curve** Quantity demanded at various price levels.
@@ -11724,7 +11723,7 @@ Several pricing tactics were discussed. They include new product pricing, price 
 
 **Value-based pricing** What that product is worth to that customer at that point in time.
 
-9.15 QUESTIONS {#questions-8 .calibre5}     -- 
+9.15 QUESTIONS 
 
 
  * Why is price an important part of the marketing mix?
@@ -11749,12 +11748,12 @@ purpose of each?
 
 * What advantage might a uniform delivered price have for a seller?
 
-9.16 PROJECT {#project-8 .calibre5}      
+9.16 PROJECT 
 
 
  Interview a marketing person responsible for pricing in their organization. Assess the type of pricing strategy they use and why. Write a three to five page report.
 
-9.17 CASE APPLICATION {#case-application-8 .calibre5}        
+9.17 CASE APPLICATION 
 
 **9.17.1 UNITED TECHTRONICS** 
 
@@ -11807,7 +11806,7 @@ Mr. Cowing was considering a number of alternative suggested retail prices. He s
 
 * What should be the base price for the new product?
 
-9.18 REFERENCES {#references-8 .calibre5}       
+9.18 REFERENCES 
 
 
  1. Thomas Nagle, "Pricing as Creative Marketing," *Business Horizons*, July-August 1983, pp.14-19.
@@ -11826,9 +11825,9 @@ Proceedings of the Southern Marketing Association 1975, pp. 55-57.
 
 **Fig. 9.7: A traditional retail ad.**
 
-Chapter 10 CHANNEL CONCEPTS: {#chapter-10-channel-concepts .calibre5 title="Chapter 10 CHANNEL CONCEPTS:, **DISTRIBUTING THE PRODUCT**"}          -
+Chapter 10 CHANNEL CONCEPTS: 
 
-### **DISTRIBUTING THE PRODUCT** {#distributing-the-product .sigilnotintoc} 
+### **DISTRIBUTING THE PRODUCT** 
 
 
  **LEARNING OBJECTIVES**
@@ -11847,7 +11846,7 @@ present in most channels
 
 * understand the tasks assigned to various channel institutions
 
-10.1 SAM SIGHTINGS ARE EVERYWHERE {#sam-sightings-are-everywhere .calibre5}             
+10.1 SAM SIGHTINGS ARE EVERYWHERE 
 
 
  We began this book with some insights on Elvis Presley and related marketing
@@ -11860,14 +11859,14 @@ Today, Wal-Mart is the largest seller of underwear, soap, toothpaste, children's
 
 So how do you beat a behemoth like Wal-Mart? One retail expert tackled this question in his autobiography. He suggests 10 ways to accomplish this goal: (a) have a strong commitment to your business; (b) involve your staff in decision making; (c) listen to your staff and your customers; (d) learn how to communicate; (e) appreciate a good job; (f) have fun; (g) set high goals for staff; (h) promise a lot, but deliver more; (i) watch your expenses; and (j) find out what the competition is doing and do something different. The author of this autobiography: *Made in America*-Sam Walton. 1
 
-10.2 INTRODUCTION {#introduction-9 .calibre5}      -- 
+10.2 INTRODUCTION 
 
 
  This scenario highlights the importance of identifying the most efficient and effective manner in which to place a product into the hands of the customer. This mechanism of connecting the producer with the customer is referred to as the *channel of* *distribution*. Earlier we referred to the creation of time and place utility. This is the primary purpose of the channel. It is an extremely complex process, and in the case of many companies, it is the only element of marketing where cost savings are still possible.
 
 In this chapter, we will look at the evolution of the channel of distribution. We shall see that several basic functions have emerged that are typically the responsibility of a channel member. Also, it will become clear that channel selection not a static, once-and-for-all choice, but that it is a dynamic part of marketing planning. As was true for the product, the channel must be managed in order to work. Unlike the product, the channel is composed of individuals and groups that exhibit unique traits that might be in conflict, and that have a constant need to be motivated. These issues will also be addressed. Finally, the institutions or members of the channel will be introduced and discussed.
 
-10.3 THE DUAL FUNCTIONS OF CHANNELS {#the-dual-functions-of-channels .calibre5}            -- 
+10.3 THE DUAL FUNCTIONS OF CHANNELS 
 
 
  Just as with the other elements of the firm's marketing program, distribution activities are undertaken to facilitate the exchange between marketers and consumers. There are two basic functions performed between the manufacturer and the ultimate
@@ -11884,7 +11883,7 @@ The key role that distribution plays is satisfying a firm's customers and achiev
 
 exchange i.e. the channel increases in importance.
 
-10.4 THE EVOLUTION OF THE MARKETING CHANNEL {#the-evolution-of-the-marketing-channel .calibre5}               - 
+10.4 THE EVOLUTION OF THE MARKETING CHANNEL 
 
 
  As consumers, we have clearly taken for granted that when we go to a supermarket the shelves will be filled with products we want; when we are thirsty there will be a Coke machine or bar around the corner; and, when we do not have time to shop, we can pick-up the telephone and order from the J.C. Penney catalog or through the Internet. Of course, if we give it some thought, we realize that this magic is not a given, and that hundreds of thousands of people plan, organize, and labor long hours so that this modern convenience is available to you, the consumer. It has not always been this way, and it is still not this way in many other countries. Perhaps a little anthropological discussion will help our understanding.
@@ -11907,7 +11906,7 @@ Finally, channels should have certain distribution objectives guiding their acti
 
 The structure and management of the marketing channel is thus in part a function of a firm's distribution objective. It is also a part of the marketing objectives, especially the need to make an acceptable profit. Channels usually represent the largest costs in marketing a product.
 
-10.5 FLOWS IN MARKETING CHANNELS {#flows-in-marketing-channels .calibre5}           -- 
+10.5 FLOWS IN MARKETING CHANNELS 
 
 
  One traditional framework that has been used to express the channel mechanism is the concept of flow. These flows, touched upon in [Figure 10.2](#calibre_link-266), reflect the many linkages that tie channel members and other agencies together in the distribution of goods and services. From the perspective of the channel manager, there are five important flows.
@@ -11930,7 +11929,7 @@ These flows are illustrated for Perrier Water in [Figure 10.2.](#calibre_link-26
 
 The *product flow* refers to the movement of the physical product from the manufacturer through all the parties who take physical possession of the product until it reaches the ultimate consumer. The *negotiation flow* encompasses the institutions that are associated with the actual exchange processes. The *ownership flow* shows the movement of title through the channel. *Information flow* identifies the individuals who participate in the flow of information either up or down the channel. Finally, the *promotion flow* refers to the flow of persuasive communication in the form of advertising, personal selling, sales promotion, and public relations.
 
-10.6 FUNCTIONS OF THE CHANNEL {#functions-of-the-channel .calibre5}          -- 
+10.6 FUNCTIONS OF THE CHANNEL 
 
 
  The primary purpose of any channel of distribution is to bridge the gap between the producer of a product and the user of it, whether the parties are located in the same community or in different countries thousands of miles apart. The channel is
@@ -12576,7 +12575,7 @@ products/services. The various types of wholesalers include:
 
 ◦ facilitators
 
-10.8 ORGANIZING THE CHANNEL {#organizing-the-channel .calibre5}           
+10.8 ORGANIZING THE CHANNEL 
 
 
  Either through a planned process or through a natural evolution, channels of
@@ -12631,7 +12630,7 @@ labeled a *horizontal channel system*. For example, two small manufacturers migh
 
 transportation rates that each could not obtain separately. Another common scenario is for a large retailer to buyout several competing small retailers in order to gain entry into certain markets or with certain customers.
 
-10.9 THE CHANNEL MANAGEMENT PROCESS {#the-channel-management-process .calibre5}            -- 
+10.9 THE CHANNEL MANAGEMENT PROCESS 
 
 
  Evidence suggests that a channel should be managed just like the product, promotion, and pricing functions . This channel management process contains five steps.
@@ -12843,7 +12842,7 @@ Sometimes a producer decides that an entirely new channel needs to be added, or 
 
 photographer market. This would mean designing a different channel, and learning about a different set of intermediaries.
 
-10.10 THE HUMAN ASPECT OF DISTRIBUTION {#the-human-aspect-of-distribution .calibre5}             -- 
+10.10 THE HUMAN ASPECT OF DISTRIBUTION 
 
 
  A channel of distribution by its very nature is made up of people. Ideally, a channel member should coordinate his or her efforts with other members in such a way that the performance of the total distribution system to which he or she belongs is enhanced. This is rarely the case. Part of this lack of cooperation is due to the organization structure of many channels, which encourages a channel member to be concerned only with channel members immediately adjacent to them, from whom
@@ -13010,7 +13009,7 @@ types of technology can organizations use to improve channel
 
 management?
 
-10.11 SUMMARY {#summary-9 .calibre5}     - 
+10.11 SUMMARY 
 
 
  The complex mechanism of connecting the producer with the consumer is referred to as the *channel of distribution*. This chapter has looked at the evolution of the channel, as well as theoretical explanations for the distribution channel phenomenon. Five
@@ -13035,7 +13034,7 @@ Channels exhibit behavior, as people do, and this behavior needs to be coordinat
 
 objectives, (c) specify the channel tasks, (d) select the appropriate channel from available alternatives and (e) evaluate the results. The chapter concludes with a discussion of the legal factor's impact on channels.
 
-10.12 KEY TERMS {#key-terms-9 .calibre5}       
+10.12 KEY TERMS 
 
 
  **Exchange function** Sales of the product to the various members of the channel of distribution.
@@ -13062,7 +13061,7 @@ objectives, (c) specify the channel tasks, (d) select the appropriate channel fr
 
 **Channel power** A willingness to use force in a relationship.
 
-10.13 QUESTIONS {#questions-9 .calibre5}       
+10.13 QUESTIONS 
 
 
  * Discuss the difference between the theories of the sorting concept and the
@@ -13091,12 +13090,12 @@ cooperatives with retailers? What the advantages to retailers?
 
 * Discuss situations in which channel conflict may be desirable. How should conflict that produces negative effects be managed?
 
-10.14 PROJECT {#project-9 .calibre5}     - 
+10.14 PROJECT 
 
 
  Starting with a well-known manufacturer, trace the various channel intermediaries employed. Draw a channel diagram.
 
-10.15 CASE APPLICATION {#case-application-9 .calibre5}        -
+10.15 CASE APPLICATION 
 
 **10.15.1 CONNECTING CHANNEL MEMBERS** 
 
@@ -13123,7 +13122,7 @@ demographics, purchase behavior in a category, and measures of loyalty by accoun
 
 * How will role determination be determined?
 
-10.16 REFERENCES {#references-9 .calibre5}      - 
+10.16 REFERENCES 
 
 
  1. Wroe Alderson, "Factors Governing the Development of Marketing Channels," in R.M. Clewett (ed.), *Marketing Channels for Manufactured Products*, Homewood, IL: Richard D. Irwin, 1954, pp. 5-22.
@@ -13139,9 +13138,9 @@ demographics, purchase behavior in a category, and measures of loyalty by accoun
 **Photo Credits** 
 
 
- ::: {.calibre6} :::
+ ::: 
 
-Chapter 1 {#chapter-1 .calibre5}    
+Chapter 1 
 
 [Figure 1.1](#calibre_link-6): ©Elvis Presley Enterprises, Inc. Reproduced with permission. [Figure 1.2](#calibre_link-8):
 
@@ -13153,33 +13152,33 @@ Ball Park Franks. [Figure 1.5: From Sprint Business Homepage, www.sprintbiz.com.
 
 Courtesy Sprint. Reproduced with permission.
 
-::: {.calibre6} :::
+::: 
 
-Chapter 2 {#chapter-2 .calibre5}    
+Chapter 2 
 
 [Figure 2.1](#calibre_link-35): Courtesy Olympus America, Inc. [Figure 2.2: ©2001 Partnership for a Drug-](#calibre_link-36)
 
 Free America®. [Figure 2.4](#calibre_link-316): Courtesy JBL, Inc.
 
-::: {.calibre6} :::
+::: 
 
-Chapter 4 {#chapter-4 .calibre5}    
+Chapter 4 
 
 [Figure 4.3](#calibre_link-317): Courtesy DISH NETWORK. ©2001 EchoStar Corporation. All rights reserved.
 
 [Figure 4.4](#calibre_link-318): Courtesy UPS.
 
-::: {.calibre6} :::
+::: 
 
-Chapter 7 {#chapter-7 .calibre5}    
+Chapter 7 
 
 [Figure 7.2](#calibre_link-168): From the Stuart Weitzman ad campaign, "A Little Obsessed with Shoes," by Korey Kay and Partners. Reproduced with permission. [Figure 7.6: Courtesy ©2001](#calibre_link-182)
 
 America's Dairy Farmers and Milk Processors.
 
-::: {.calibre6} :::
+::: 
 
-Chapter 8 {#chapter-8 .calibre5}    
+Chapter 8 
 
 [Figure 8.5](#calibre_link-219): Courtesy Days Inns Worldwide, Inc. [Figure 8.6: Courtesy Howe Marketing](#calibre_link-219)
 
@@ -13189,22 +13188,22 @@ FreeSamples.com. [Figure 8.9: ©2001 United States Conference of Catholic Bishop
 
 [Figure 8.10](#calibre_link-321): BUILD A HOME AMERICATM is a trademark of KF Holdings. Reproduced with permission.
 
-::: {.calibre6} :::
+::: 
 
-Chapter 9 {#chapter-9 .calibre5}    
+Chapter 9 
 
 [Figure 9.3](#calibre_link-244): Courtesy Days Inns Worldwide, Inc. [Figure 9.5: Courtesy Palm, lnc.](#calibre_link-250)[Figure 9.](#calibre_link-253)
 
 [6: ©2001 GM Corp.lCampbell-Ewald.](#calibre_link-253)[Figure 9.7: Courtesy Aaron Office Furniture.](#calibre_link-261)
 
-::: {.calibre6} :::
+::: 
 
-Chapter 10 {#chapter-10 .calibre5}    -
+Chapter 10 
 
 [Figure 10.5](#calibre_link-322): Reprinted courtesy Aurthur Andersen LLP. ©2001 Andersen. All rights reserved. Reproduced with permission.
 
-[]{#outline}
+[]
 
-Document Outline {#document-outline .calibre8} ================
+Document Outline 
 
 - [ABOUT THE AUTHOR](#calibre_link-1) - [PREFACE](#calibre_link-2) - [BALANCED COVERAGE](#calibre_link-2) - [INTERNATIONAL AND TECHNOLOGY COVERAGE](#calibre_link-2) - [CURRENT EXAMPLES FROM ALL TYPES AND SIZES OF BUSINESS](#calibre_link-3) - [A CLEAR, EFFECTIVE ORGANIZATION](#calibre_link-3) - [HELPFUL PEDAGOGY](#calibre_link-3) - [ACKNOWLEDGMENTS](#calibre_link-4) - [1 INTRODUCING MARKETING](#calibre_link-5) - [» LEARNING OBJECTIVES](#calibre_link-5) - [1.1 ELVIS-ALIVE AND WELL](#calibre_link-5) - [1.2 INTRODUCTION](#calibre_link-6) - [1.3 MARKETING: DEFINITION AND JUSTIFICATION](#calibre_link-7) - [1.3.1 Defining Marketing](#calibre_link-7) - [» Newsline: Picture your mission](#calibre_link-8) - [1.3.2 Justification for Study](#calibre_link-9) - [» Review](#calibre_link-10) - [1.3.3 Characteristics of a Marketing Organization](#calibre_link-10) - [1.3.3.1 Consumer Content](#calibre_link-11) - [1.3.3.2 Company Capabilities](#calibre_link-12) - [1.3.3.3 Communication](#calibre_link-12) - [1.3.3.4 Competition](#calibre_link-13) - [» Integrated marketing](#calibre_link-14) - [1.3.3.5 Cross-Functional Contact](#calibre_link-15) - [1.3.3.6 Community Contact](#calibre_link-16) - [1.3.4 The Role of Marketing in the Firm: A Basis for Classification](#calibre_link-16) - [1.3.4.1 Macromarketing Versus Micromarketing](#calibre_link-17) - [1.3.4.2 Service Marketing Versus Goods Marketing](#calibre_link-18) - [1.3.4.3 For-profit Marketing Versus Nonprofit Marketing](#calibre_link-19) - [1.3.4.4 Mass Marketing, Direct Marketing, and Internet Marketing](#calibre_link-19) - [1.3.4.5 Local, Regional, National, International, and Global Marketers](#calibre_link-20) - [1.3.4.6 Consumer Goods Marketing and Business-to-Business (Industrial) Marketing](#calibre_link-20) - [» Review](#calibre_link-21) - [1.3.5 Strategic Components of Marketing](#calibre_link-21) - [1.3.5.1 Functional-Level Considerations](#calibre_link-22) - [1.3.5.2 The Marketing Plan](#calibre_link-23) - [1.3.5.3 The Marketing Mix](#calibre_link-23) - [1.3.5.4 The Budget](#calibre_link-24) - [1.3.5.5 Evaluating Results](#calibre_link-25) - [1.4 KEYS TO MARKETING SUCCESS](#calibre_link-25) - [» Review](#calibre_link-26) - [» The Wall Street Journal (wsj.com)](#calibre_link-26) - [» Questions](#calibre_link-27) - [1.5 SUMMARY](#calibre_link-27) - [1.6 KEY TERMS](#calibre_link-27) - [1.7 QUESTIONS](#calibre_link-28) - [1.8 PROJECT](#calibre_link-28) - [1.9 CASE APPLICATION](#calibre_link-29) - [1.9.1 THE HOG IS ALIVE AND WELL](#calibre_link-29) - [1.10 REFERENCES](#calibre_link-30) - [2 UNDERSTANDING AND APPROACHING THE MARKET](#calibre_link-31) - [» LEARNING OBJECTIVES](#calibre_link-31) - [2.1 THE WEB SEGMENT](#calibre_link-31) - [2.2 INTRODUCTION](#calibre_link-32) - [2.3 DEFINING THE MARKET](#calibre_link-32) - [2.3.1 The Market Is People](#calibre_link-32) - [2.3.2 The Market Is a Place](#calibre_link-33) - [2.3.3 The Market Is an Economic Entity](#calibre_link-34) - [2.4 TYPES OF MARKETS](#calibre_link-34) - [2.4.1 Consumer Markets](#calibre_link-34) - [2.4.2 Industrial Markets](#calibre_link-35) - [2.4.3 Institutional Markets](#calibre_link-36) - [2.4.4 Reseller Markets](#calibre_link-36) - [2.5 APPROACHING THE MARKET](#calibre_link-37) - [2.5.1 The Undifferentiated Market (Market Aggregation)](#calibre_link-37) - [2.5.2 Product Differentiation](#calibre_link-38) - [2.5.3 The Segmented Market](#calibre_link-39) - [2.5.3.1 Segmentation Strategies](#calibre_link-40) - [» Review](#calibre_link-40) - [2.5.3.2 Bases of Segmentation](#calibre_link-41) - [2.5.3.3 Segmenting Ultimate Consumers](#calibre_link-42) - [» Integrated marketing](#calibre_link-43) - [2.5.3.4 Segmenting Organizational Markets](#calibre_link-44) - [2.5.3.4.1 Single-base and Multibase Segmentation](#calibre_link-45) - [2.5.3.4.2 Qualifying Customers in Market Segments](#calibre_link-45) - [2.5.4 The Strategy of Market Segmentation](#calibre_link-46) - [» Newsline: Youth segments](#calibre_link-47) - [2.5.4.1 The Concept of Positioning](#calibre_link-48) - [2.5.4.2 The Future of the Marketplace](#calibre_link-48) - [» Review](#calibre_link-48) - [» The Wall Street Journal (wsj.com)](#calibre_link-49) - [» Questions](#calibre_link-50) - [2.6 SUMMARY](#calibre_link-50) - [2.7 KEY TERMS](#calibre_link-51) - [2.8 QUESTIONS](#calibre_link-52) - [2.9 PROJECT](#calibre_link-53) - [2.10 CASE APPLICATION](#calibre_link-53) - [2.10.1 ROLLING ROCK FINDS ITS NICHE](#calibre_link-53) - [2.11 REFERENCES](#calibre_link-54) - [3 MARKETING RESEARCH: AN AID TO DECISION MAKING](#calibre_link-55) - [» LEARNING OBJECTIVES](#calibre_link-55) - [3.1 DISCOVERING WHY THEY CHEW](#calibre_link-55) - [3.2 INTRODUCTION](#calibre_link-56) - [3.3 THE NATURE AND IMPORTANCE OF MARKETING RESEARCH](#calibre_link-57) - [3.4 WHAT NEEDS RESEARCHING IN MARKETING?](#calibre_link-57) - [» Newsline: How execs use research](#calibre_link-58) - [» Review](#calibre_link-59) - [3.5 PROCEDURES AND TECHNIQUES IN MARKETING RESEARCH](#calibre_link-60) - [3.5.1 Making a Preliminary Investigation](#calibre_link-61) - [3.5.1.1 Determining the Purpose and Scope of the Research](#calibre_link-61) - [3.5.1.2 The Informal Assessment](#calibre_link-62) - [3.5.2 Creating the Research Design](#calibre_link-63) - [3.5.2.1 Choosing the Approach](#calibre_link-63) - [3.5.2.2 Determining the Types of Data Needed](#calibre_link-64) - [3.5.2.3 Locating the Sources of Data](#calibre_link-65) - [3.5.2.4 Choosing the Method of Collecting Data](#calibre_link-66) - [» Newsline: Where's the beef?](#calibre_link-67) - [3.5.2.5 Selecting the Sample](#calibre_link-68) - [3.5.2.6 Anticipating the Results/Making the Report](#calibre_link-68) - [3.6 CONDUCTING THE RESEARCH](#calibre_link-69) - [3.7 PROCESSING THE DATA](#calibre_link-69) - [3.8 THE VALUE OF MARKETING RESEARCH](#calibre_link-70) - [» Integrated marketing](#calibre_link-70) - [» The Wall Street Journal (wsj.com)](#calibre_link-71) - [» Questions](#calibre_link-72) - [» Review](#calibre_link-73) - [3.9 SUMMARY](#calibre_link-73) - [3.10 KEY TERMS](#calibre_link-74) - [3.11 QUESTIONS](#calibre_link-74) - [3.12 PROJECT](#calibre_link-75) - [3.13 CASE APPLICATION](#calibre_link-75) - [3.13.1 RESEARCH SAVES THE DAY AT CASE](#calibre_link-75) - [3.14 REFERENCES](#calibre_link-76) - [4 UNDERSTANDING BUYER BEHAVIOR](#calibre_link-77) - [» LEARNING OBJECTIVES](#calibre_link-77) - [4.1 TILL DEATH DO US PART](#calibre_link-77) - [4.2 INTRODUCTION](#calibre_link-78) - [4.3 BUYER BEHAVIOR AND EXCHANGE](#calibre_link-79) - [4.4 BUYER BEHAVIOR AS PROBLEM SOLVING](#calibre_link-80) - [4.4.1 The Decision Process](#calibre_link-80) - [4.4.1.1 Need Identification](#calibre_link-81) - [4.4.1.2 Information Search and Processing](#calibre_link-82) - [» Integrated marketing](#calibre_link-83) - [4.4.1.3 Information Processing](#calibre_link-83) - [4.4.1.4 Identification and Evaluation of Alternatives](#calibre_link-84) - [4.4.1.5 Product/Service/Outlet Selection](#calibre_link-85) - [4.4.1.6 The Purchase Decision](#calibre_link-85) - [» Newsline: Follow the consumer and see what happens](#calibre_link-86) - [4.4.1.7 Postpurchase Behavior](#calibre_link-87) - [» Review](#calibre_link-87) - [4.4.2 Influencing Factors of Consumer Behavior](#calibre_link-88) - [4.4.2.1 Situational Influences](#calibre_link-89) - [4.4.2.1.1 Buying Task](#calibre_link-89) - [4.4.2.1.2 Market Offerings](#calibre_link-90) - [4.4.2.1.3 Demographic Influences](#calibre_link-90) - [4.4.2.2 External Influences](#calibre_link-91) - [4.4.2.2.1 Culture](#calibre_link-91) - [4.4.2.2.2 Social Class](#calibre_link-91) - [4.4.2.2.3 Reference Groups](#calibre_link-92) - [4.4.2.2.4 Family](#calibre_link-93) - [4.4.2.3 Internal Influences](#calibre_link-94) - [4.4.2.3.1 Learning and Socialization](#calibre_link-94) - [4.4.2.3.2 Motivation](#calibre_link-95) - [4.4.2.3.3 Lifestyle](#calibre_link-96) - [» Review](#calibre_link-97) - [4.5 ORGANIZATIONAL BUYER BEHAVIOR](#calibre_link-98) - [4.5.1 Characteristics of Organizational Buying](#calibre_link-98) - [4.5.2 Stages in Organizational Buying](#calibre_link-99) - [» Newsline: The future of the consumer](#calibre_link-100) - [» Review](#calibre_link-101) - [» The Wall Street Journal (wsj.com)](#calibre_link-102) - [» Questions](#calibre_link-103) - [4.6 SUMMARY](#calibre_link-103) - [4.7 KEY TERMS](#calibre_link-103) - [4.8 QUESTIONS](#calibre_link-104) - [4.9 PROJECT](#calibre_link-105) - [4.10 CASE APPLICATION](#calibre_link-105) - [4.10.1 CUSTOMER SATISFACTION STILL MATTERS](#calibre_link-105) - [4.11 REFERENCES](#calibre_link-106) - [5 EXTERNAL CONSIDERATIONS IN MARKETING](#calibre_link-107) - [» LEARNING OBJECTIVES](#calibre_link-107) - [5.1 THE CAR INDUSTRY AND TECHNOLOGY](#calibre_link-107) - [5.2 INTRODUCTION](#calibre_link-108) - [5.3 EXTERNAL FACTORS THAT AFFECT PLANNING](#calibre_link-109) - [5.3.1 External Surprises](#calibre_link-109) - [5.3.2 Competitors](#calibre_link-110) - [5.3.3 Legal/Ethical Factors](#calibre_link-111) - [5.3.3.1 Product Liability](#calibre_link-112) - [5.3.3.2 Deregulation](#calibre_link-113) - [5.3.3.3 Consumer Protection](#calibre_link-114) - [5.3.4 Economic/Political Issues](#calibre_link-115) - [5.3.4.1 Consumer Buying Power](#calibre_link-115) - [» Newsline: Everyone seems to have money](#calibre_link-116) - [5.3.4.2 The Business Cycle](#calibre_link-117) - [5.3.4.2.1 Prosperity](#calibre_link-117) - [5.3.4.2.2 Recession](#calibre_link-117) - [5.3.4.2.3 Depression](#calibre_link-117) - [5.3.4.2.4 Recovery](#calibre_link-118) - [5.3.5 Technology](#calibre_link-118) - [» Integrated marketing](#calibre_link-119) - [5.3.6 Social Trends](#calibre_link-120) - [5.3.6.1 Demographic Changes](#calibre_link-120) - [5.3.6.2 Demographic Groupings](#calibre_link-121) - [5.3.6.2.1 The Baby Boom](#calibre_link-122) - [5.3.6.2.2 Generation X](#calibre_link-122) - [5.3.6.2.3 The Baby Boomlet](#calibre_link-123) - [5.3.6.3 Cultures and Subcultures](#calibre_link-123) - [» Review](#calibre_link-124) - [5.3.6.4 Understanding Other Cultures Around the World](#calibre_link-125) - [5.3.7 Forecasts of the Future](#calibre_link-125) - [» The Wall Street Journal (wsj.com)](#calibre_link-126) - [» Questions](#calibre_link-127) - [5.4 SUMMARY](#calibre_link-127) - [5.5 KEY TERMS](#calibre_link-127) - [5.6 QUESTIONS](#calibre_link-128) - [5.7 PROJECT](#calibre_link-128) - [5.8 CASE APPLICATION](#calibre_link-129) - [5.9 REFERENCES](#calibre_link-130) - [6 MARKETING IN GLOBAL MARKETS](#calibre_link-131) - [» LEARNING OBJECTIVES](#calibre_link-131) - [6.1 GOOD LUCK GETTING INTO CHINA](#calibre_link-131) - [6.2 INTRODUCTION](#calibre_link-132) - [6.3 DEFINING INTERNATIONAL MARKETING](#calibre_link-132) - [6.4 STANDARDIZATION AND CUSTOMIZATION](#calibre_link-133) - [6.5 REASONS FOR ENTERING INTERNATIONAL MARKETS](#calibre_link-134) - [6.6 REASONS TO AVOID INTERNATIONAL MARKETS](#calibre_link-135) - [6.7 THE STAGES OF GOING INTERNATIONAL](#calibre_link-135) - [6.7.1 Exporting](#calibre_link-136) - [6.7.2 Licensing](#calibre_link-137) - [6.7.3 Joint Ventures](#calibre_link-137) - [6.7.4 Direct Investment](#calibre_link-137) - [6.7.5 US Commercial Centers](#calibre_link-138) - [» Review](#calibre_link-138) - [6.7.6 Trade Intermediaries](#calibre_link-139) - [6.7.7 Alliances](#calibre_link-139) - [6.8 THE INTERNATIONAL MARKETING PLAN](#calibre_link-139) - [» Integrated marketing](#calibre_link-140) - [6.8.1 The Corporate Level](#calibre_link-141) - [6.8.2 The Business Level](#calibre_link-142) - [6.8.3 The Functional Level](#calibre_link-142) - [6.8.4 Product/Promotion](#calibre_link-143) - [6.8.5 Pricing](#calibre_link-144) - [6.8.6 Distribution and Logistics](#calibre_link-145) - [» Review](#calibre_link-146) - [6.9 THE INTERNATIONAL MARKETING ENVIRONMENT](#calibre_link-147) - [6.9.1 The Social/Cultural Environment](#calibre_link-147) - [6.9.1.1 Language](#calibre_link-148) - [6.9.1.2 Colors](#calibre_link-148) - [6.9.1.3 Customs and Taboos](#calibre_link-148) - [6.9.1.4 Values](#calibre_link-149) - [6.9.1.5 Aesthetics](#calibre_link-149) - [6.9.1.6 Time](#calibre_link-149) - [6.9.1.7 Business Norms](#calibre_link-150) - [» Integrated marketing](#calibre_link-150) - [6.9.1.8 Religious Beliefs](#calibre_link-151) - [6.9.2 The Political/Legal Environment](#calibre_link-152) - [6.9.2.1 Political Stability](#calibre_link-152) - [6.9.2.2 Monetary Circumstances](#calibre_link-152) - [6.9.2.3 Trading Blocs and Agreements](#calibre_link-153) - [6.9.2.4 Tariffs](#calibre_link-154) - [6.9.2.5 Expropriation](#calibre_link-154) - [6.9.3 The Technological Environment](#calibre_link-154) - [6.9.4 The Economic Environment](#calibre_link-155) - [6.9.5 The Competitive Environment](#calibre_link-156) - [6.9.5.1 Marketing Objectives](#calibre_link-156) - [» The Wall Street Journal (wsj.com)](#calibre_link-157) - [» Questions](#calibre_link-158) - [6.10 SUMMARY](#calibre_link-158) - [6.11 KEY TERMS](#calibre_link-159) - [6.12 QUESTIONS](#calibre_link-160) - [6.13 PROJECT](#calibre_link-160) - [6.14 CASE APPLICATION](#calibre_link-160) - [6.14.1 UNILEVER'S GLOBAL BRAND](#calibre_link-160) - [6.15 REFERENCES](#calibre_link-161) - [7 INTRODUCING AND MANAGING THE PRODUCT](#calibre_link-162) - [» LEARNING OBJECTIVES](#calibre_link-162) - [7.1 JAPANESE CARS ON THE DECLINE](#calibre_link-162) - [7.2 INTRODUCTION](#calibre_link-163) - [7.3 DEFINING THE PRODUCT](#calibre_link-164) - [7.4 CLASSIFICATION OF PRODUCTS](#calibre_link-165) - [7.4.1 Consumer Goods and Industrial Goods](#calibre_link-165) - [7.4.1.1 Classification of Consumer Goods](#calibre_link-165) - [7.4.1.2 Classification of Industrial Goods](#calibre_link-166) - [7.4.2 Goods Versus Services](#calibre_link-167) - [7.4.2.1 Characteristics of Service Products](#calibre_link-167) - [7.4.2.1.1 Intangible](#calibre_link-167) - [7.4.2.1.2 Simultaneous Production and Consumption](#calibre_link-168) - [7.4.2.1.3 Little Standardization](#calibre_link-168) - [7.4.2.1.4 High Buyer Involvement](#calibre_link-168) - [7.5 PRODUCT PLANNING AND STRATEGY FORMULATION](#calibre_link-169) - [7.5.1 The Determination of Product Objectives](#calibre_link-169) - [7.5.2 The Product Plan](#calibre_link-170) - [7.5.2.1 The Product Lifecycle](#calibre_link-170) - [7.5.3 Product Strategies](#calibre_link-171) - [7.5.3.1 Approaches to the Market](#calibre_link-171) - [7.5.3.2 Key Product Management Decisions](#calibre_link-172) - [7.5.3.2.1 Product Features](#calibre_link-172) - [7.5.3.2.2 Packaging](#calibre_link-172) - [7.5.3.2.3 Branding](#calibre_link-173) - [7.5.3.2.4 Related Services](#calibre_link-174) - [7.5.3.2.5 Product Mix Strategies](#calibre_link-175) - [7.5.3.2.6 Product Line Decisions](#calibre_link-176) - [7.5.3.2.7 Product Deletion](#calibre_link-177) - [» Integrated marketing](#calibre_link-178) - [7.5.4 Strategies for Developing New Products](#calibre_link-178) - [» Review](#calibre_link-179) - [7.5.4.1 Defining the "New" in a New Product](#calibre_link-179) - [7.5.4.1.1 The Consumer's Viewpoint](#calibre_link-180) - [7.5.4.1.2 The Firm's Viewpoint](#calibre_link-181) - [7.5.4.2 Strategies for Acquiring New Products](#calibre_link-182) - [7.5.4.2.1 Internal Sources](#calibre_link-182) - [7.5.4.2.2 External Sources](#calibre_link-183) - [7.5.4.3 The New Product Development Process](#calibre_link-184) - [7.5.4.3.1 Step 1: Generating New Product Ideas](#calibre_link-185) - [» Newsline: New ideas are rare](#calibre_link-185) - [7.5.4.3.2 Step 2: Screening Product Development Ideas](#calibre_link-186) - [7.5.4.3.3 Step 3: Business Analysis](#calibre_link-187) - [7.5.4.3.4 Step 4: Technical and Marketing Development](#calibre_link-188) - [7.5.4.3.5 Step 5: Manufacturing Planning](#calibre_link-188) - [7.5.4.3.6 Step 6: Marketing Planning](#calibre_link-189) - [7.5.4.3.7 Step 7: Test Marketing](#calibre_link-189) - [» Integrated marketing](#calibre_link-190) - [7.5.4.3.8 Step 8: Commercialization](#calibre_link-191) - [» Review](#calibre_link-192) - [» The Wall Street Journal (wsj.com)](#calibre_link-192) - [» Questions](#calibre_link-193) - [7.6 SUMMARY](#calibre_link-193) - [7.7 KEY TERMS](#calibre_link-194) - [7.8 QUESTIONS](#calibre_link-194) - [7.9 PROJECT](#calibre_link-195) - [7.10 CASE APPLICATION](#calibre_link-195) - [7.10.1 HERSHEY CHOCOLATE MILK](#calibre_link-195) - [7.11 REFERENCES](#calibre_link-196) - [8 COMMUNICATING TO MASS MARKETS](#calibre_link-197) - [» LEARNING OBJECTIVES](#calibre_link-197) - [8.1 AMERICAN EXPRESS: COMMUNICATING BIG IDEAS](#calibre_link-197) - [8.2 INTRODUCTION](#calibre_link-198) - [8.3 THE ROLE OF IMC](#calibre_link-199) - [8.3.1 Primary Tasks](#calibre_link-200) - [» Integrated marketing](#calibre_link-201) - [8.3.2 Integrated Marketing Communication](#calibre_link-202) - [8.4 THE MEANING OF MARKETING COMMUNICATION](#calibre_link-202) - [8.5 THE OBJECTIVES OF MARKETING COMMUNICATION](#calibre_link-203) - [8.6 HOW WE COMMUNICATE](#calibre_link-204) - [8.6.1 Basic Elements of Communication](#calibre_link-204) - [» Review](#calibre_link-205) - [8.6.1.1 Types of Communication Systems](#calibre_link-206) - [8.6.1.1.1 Interpersonal Communication Systems](#calibre_link-206) - [8.6.1.1.2 Organizational Communication Systems](#calibre_link-206) - [8.6.1.1.3 Public Communication Systems](#calibre_link-207) - [8.6.1.1.4 Mass Communication Systems](#calibre_link-207) - [8.6.2 Marketing Communications](#calibre_link-207) - [8.7 DESIGNING AN IMC STRATEGY](#calibre_link-208) - [8.7.1 The Promotion Mix](#calibre_link-209) - [8.7.2 The Campaign](#calibre_link-210) - [» Review](#calibre_link-211) - [8.8 UNDERSTANDING ADVERTISING](#calibre_link-212) - [8.8.1 The Organization of Advertising](#calibre_link-212) - [8.8.1.1 The Advertising Department](#calibre_link-213) - [8.8.2 The Advertising Agency](#calibre_link-213) - [8.8.3 Developing the Creative Strategy](#calibre_link-213) - [8.8.4 Developing the Media Plan](#calibre_link-214) - [8.8.4.1 Stating Media Objectives](#calibre_link-214) - [8.8.4.2 Evaluating Media](#calibre_link-215) - [8.8.4.3 Selection and Implementation](#calibre_link-216) - [8.8.4.4 Determining the Media Budget](#calibre_link-216) - [8.8.5 Banner Advertisements](#calibre_link-216) - [8.9 SALES PROMOTION AND PUBLIC RELATIONS](#calibre_link-217) - [8.9.1 Sales Promotion: A Little Bit of Everything](#calibre_link-218) - [8.9.1.1 Types of Sales Promotion](#calibre_link-219) - [8.9.2 Public Relations: The Art of Maintaining Goodwill](#calibre_link-220) - [8.9.2.1 Public Relation's Publics](#calibre_link-221) - [8.9.2.2 Public Relations Techniques](#calibre_link-221) - [» Review](#calibre_link-222) - [8.9.3 Personal Selling and the Marketing Communication Mix](#calibre_link-222) - [» Integrated marketing](#calibre_link-223) - [8.9.3.1 Types of Selling](#calibre_link-224) - [8.9.3.1.1 Inside Versus Outside Selling](#calibre_link-225) - [8.9.3.1.2 Company Salespeople Versus Manufacturer Representatives](#calibre_link-225) - [8.9.3.1.3 Direct Versus Indirect Selling](#calibre_link-225) - [8.9.3.2 The Selling Process](#calibre_link-225) - [» Review](#calibre_link-226) - [8.9.4 Strengths and Weaknesses of Personal Selling](#calibre_link-226) - [8.9.5 The Sales Force of the Future](#calibre_link-227) - [» Newsline: New toys for sales success?](#calibre_link-228) - [» The Wall Street Journal (wsj.com)](#calibre_link-229) - [» Questions](#calibre_link-230) - [8.10 SUMMARY](#calibre_link-230) - [8.11 KEY TERMS](#calibre_link-231) - [8.12 QUESTIONS](#calibre_link-232) - [8.13 PROJECT](#calibre_link-233) - [8.14 CASE APPLICATION](#calibre_link-233) - [8.14.1 THE MICRORECORDER](#calibre_link-233) - [8.15 REFERENCES](#calibre_link-234) - [9 PRICING THE PRODUCT](#calibre_link-235) - [» LEARNING OBJECTIVES](#calibre_link-235) - [9.1 THE MCDONALD'S EFFECT](#calibre_link-235) - [9.2 INTRODUCTION](#calibre_link-236) - [9.3 PRICE DEFINED: THREE DIFFERENT PERSPECTIVES](#calibre_link-236) - [9.3.1 The Customer's View of Price](#calibre_link-237) - [9.3.2 Price from a Societal Perspective](#calibre_link-238) - [9.3.2.1 Rational Man Pricing: An Economic Perspective](#calibre_link-238) - [9.3.2.2 Irrational Man Pricing: Freedom Rules](#calibre_link-239) - [9.3.3 The Marketer's View of Price](#calibre_link-240) - [9.4 PRICING OBJECTIVES](#calibre_link-241) - [» Review](#calibre_link-242) - [9.5 DEVELOPING A PRICING STRATEGY](#calibre_link-242) - [» Integrated marketing](#calibre_link-243) - [9.5.1 Nonprice Competition](#calibre_link-244) - [9.5.2 Competitive Pricing](#calibre_link-245) - [9.5.2.1 Approaches to the Market](#calibre_link-245) - [9.5.2.1.1 Pricing to Meet Competition](#calibre_link-245) - [9.5.2.1.2 Pricing Above Competitors](#calibre_link-246) - [9.5.2.1.3 Pricing Below Competitors](#calibre_link-246) - [9.6 New Product Pricing](#calibre_link-247) - [» Newsline: The risk of free PCs](#calibre_link-248) - [9.7 PRICE LINES](#calibre_link-249) - [9.8 PRICE FLEXIBILITY](#calibre_link-249) - [9.8.1 Discounts and Allowances](#calibre_link-250) - [» Integrated marketing](#calibre_link-251) - [9.9 PRICE BUNDLING](#calibre_link-252) - [9.10 PSYCHOLOGICAL ASPECTS OF PRICING](#calibre_link-252) - [» Review](#calibre_link-253) - [9.11 ALTERNATIVE APPROACHES TO DETERMINING PRICE](#calibre_link-254) - [9.11.1 Cost-Oriented Pricing: Cost-Plus and Mark-Ups](#calibre_link-254) - [9.11.2 Break-Even Analysis](#calibre_link-255) - [9.11.3 Target Rates of Return](#calibre_link-255) - [9.11.4 Demand-Oriented Pricing](#calibre_link-256) - [9.11.5 Value-Based Pricing](#calibre_link-256) - [» Review](#calibre_link-257) - [9.12 The Future of Pricing](#calibre_link-257) - [» The Wall Street Journal (wsj.com)](#calibre_link-257) - [» Questions](#calibre_link-258) - [9.13 SUMMARY](#calibre_link-258) - [9.14 KEY TERMS](#calibre_link-259) - [9.15 QUESTIONS](#calibre_link-259) - [9.16 PROJECT](#calibre_link-260) - [9.17 CASE APPLICATION](#calibre_link-260) - [9.17.1 UNITED TECHTRONICS](#calibre_link-260) - [9.18 REFERENCES](#calibre_link-261) - [10 CHANNEL CONCEPTS: DISTRIBUTING THE PRODUCT](#calibre_link-262) - [» LEARNING OBJECTIVES](#calibre_link-262) - [10.1 SAM SIGHTINGS ARE EVERYWHERE](#calibre_link-262) - [10.2 INTRODUCTION](#calibre_link-263) - [10.3 THE DUAL FUNCTIONS OF CHANNELS](#calibre_link-263) - [10.4 THE EVOLUTION OF THE MARKETING CHANNEL](#calibre_link-264) - [10.5 FLOWS IN MARKETING CHANNELS](#calibre_link-265) - [10.6 FUNCTIONS OF THE CHANNEL](#calibre_link-266) - [10.7 CHANNEL INSTITUTIONS: CAPABILITIES AND LIMITATIONS](#calibre_link-267) - [10.7.1 Producer and Manufacturer](#calibre_link-267) - [10.7.2 Retailing](#calibre_link-268) - [10.7.2.1 The Structure of Retailing](#calibre_link-268) - [10.7.2.1.1 Department Stores](#calibre_link-268) - [10.7.2.1.2 Chain Stores](#calibre_link-269) - [10.7.2.1.3 Supermarkets](#calibre_link-269) - [10.7.2.1.4 Discount Houses](#calibre_link-269) - [10.7.2.1.5 Warehouse Retailing](#calibre_link-270) - [10.7.2.1.6 Franchises](#calibre_link-270) - [10.7.2.1.7 Planned Shopping Centers/Malls](#calibre_link-270) - [» Newsline: The mall: a thing of the past?](#calibre_link-271) - [10.7.2.1.8 Nonstore Retailing](#calibre_link-271) - [» Integrated marketing](#calibre_link-272) - [10.7.3 Wholesaling](#calibre_link-273) - [10.7.3.1 Functions of the Wholesaler](#calibre_link-274) - [10.7.3.2 Types of Wholesalers](#calibre_link-275) - [10.7.4 Physical Distribution](#calibre_link-276) - [» Review](#calibre_link-277) - [10.8 ORGANIZING THE CHANNEL](#calibre_link-278) - [10.8.1 Conventional Channels](#calibre_link-278) - [10.8.2 Vertical Marketing Systems](#calibre_link-279) - [10.8.2.1 Administered VMS](#calibre_link-279) - [10.8.2.2 Contractual VMS](#calibre_link-279) - [10.8.2.3 Corporate VMS](#calibre_link-280) - [10.8.3 Horizontal Channel Systems](#calibre_link-280) - [10.9 THE CHANNEL MANAGEMENT PROCESS](#calibre_link-280) - [10.9.1 Analyze the Consumer](#calibre_link-280) - [10.9.2 Establish the Channel Objectives](#calibre_link-281) - [10.9.3 Specify Distribution Tasks](#calibre_link-281) - [10.9.4 Evaluate and Select from Channel Alternatives](#calibre_link-282) - [10.9.4.1 Number of Levels](#calibre_link-282) - [10.9.4.2 Intensity at Each Level](#calibre_link-282) - [10.9.4.3 Types of Intermediaries](#calibre_link-283) - [10.9.4.4 Who Should Lead](#calibre_link-284) - [10.9.5 Evaluating Channel Member Performance](#calibre_link-284) - [10.9.5.1 Correcting or Modifying the Channel](#calibre_link-285) - [10.10 THE HUMAN ASPECT OF DISTRIBUTION](#calibre_link-285) - [10.10.1 Role](#calibre_link-286) - [10.10.2 Communication](#calibre_link-286) - [10.10.3 Conflict](#calibre_link-286) - [10.10.4 Power](#calibre_link-287) - [» Review](#calibre_link-287) - [» The Wall Street Journal (wsj.com)](#calibre_link-288) - [» Questions](#calibre_link-289) - [10.11 SUMMARY](#calibre_link-289) - [10.12 KEY TERMS](#calibre_link-290) - [10.13 QUESTIONS](#calibre_link-291) - [10.14 PROJECT](#calibre_link-291) - [10.15 CASE APPLICATION](#calibre_link-291) - [10.15.1 CONNECTING CHANNEL MEMBERS](#calibre_link-291) - [10.16 REFERENCES](#calibre_link-292) - [Photo Credits](#calibre_link-293) ::: 
