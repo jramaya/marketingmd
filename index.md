@@ -182,8 +182,6 @@ statement or company goals) that governs its approach toward its ultimate set of
 
 * Marketing differs from the other functional areas in that its primary concern is with exchanges that take place in markets, outside the organization (called a *transaction*).
 
-[]{#calibre_link-337}9
-
 * Marketing is most successful when the philosophy, tasks, and manner of
 
 implementing available technology are coordinated and complementary.
@@ -202,7 +200,7 @@ Admittedly, marketing is often a critical part of a firm's success. Nevertheless
 
 marketing effort. Conversely, for regulated industries (such as utilities, social services, or medical care or small businesses providing a one-of-a-kind product) marketing may be little more than a few informative brochures. There are literally thousands of examples of businesses many quite small that have neither the resources nor the inclination to support an elaborate marketing organization and strategy. These businesses rely less on research than on common sense. In all these cases, the marketing program is worth the costs only if it fits the organization and facilitates its ability to reach its goals.
 
-[]{#calibre_link-8}![](images/000099.png){.calibre2}
+![](images/000099.png)
 
 **Fig. 1.2: The website for L.L. Bean represents the newest form of marketing communication.**
 
@@ -398,11 +396,7 @@ Relationship marketing identifies "high value" customers and prospects and bonds
 **1.3.3.4 Competition** 
 
 
- We have already mentioned the importance that competition plays in a marketing organization. At a minimum, marketing companies must thoroughly understand their
-
-[]{#calibre_link-14}16
-
-competitors' strengths and weaknesses. This means more than making sweeping
+ We have already mentioned the importance that competition plays in a marketing organization. At a minimum, marketing companies must thoroughly understand their competitors' strengths and weaknesses. This means more than making sweeping
 
 generalizations about the competitors. It means basing intelligent marketing decisions on facts about how competitors operate and determining how best to respond. Often the identification of competitors is fairly straightforward. It is the supermarket on the next block, or the three other companies that manufacture replacement windshields.
 
@@ -934,8 +928,6 @@ opportunities.
 existence: the customer.
 
 A second guideline is to establish a company image that clearly reflects the values and aspirations of the company to employees, customers, intermediaries, and the general public. Philips Petroleum has done this for years with their advertising campaign that focuses on how their company benefits society.
-
-[]{#calibre_link-26}31
 
 Third, while marketing requires work that is clearly distinct from other business activities, it should be central to the entire organization. Marketing is the aspect of the business that customers see. If they see something they do not like, they look elsewhere.
 
@@ -1614,8 +1606,6 @@ coming of African-American-focused content and online
 
 consumers," says Omar J. Wasow, executive director of [BlackPlanet.](http://www.blackplanet.com/)
 
-[]{#calibre_link-340}51
-
 [com](http://www.blackplanet.com/)([http://www.blackplanet.com/)](http://www.blackplanet.com/), a black-oriented online community. "You ignore it at your peril."
 
 With good reason, African-Americans have become smitten with the
@@ -1954,8 +1944,6 @@ iii. usage
 
 24; Jinnefer Gilbert, "New Teen Obsession," *Advertising Age*, February 14, 2000, p. 38; Christina Merrill, "The Ripple Effect Reaches Gen Y." *American Demographics*, November 1999, pp. 15-16; Lauren Goldstein, ''The Alpha Teenager," *Fortune*, December 20, 1999, pp. 201-203.
 
-[]{#calibre_link-49}61
-
 iv. psychological
 
 b. organizations
@@ -2242,8 +2230,6 @@ something unique. So Mullen and his cohorts devised a successful program that co
 
 4. *Source*: Kathy Thacker. "Solutions: Winning Number," *Adweek* (October 28, 1999): pp. 40-41.
 
-[]{#calibre_link-344}67
-
 13. William D. Wells, "Psychographies: A Critical Review," *Journal of Marketing* *Research*, May 1975, pp. 196-213.
 
 14. Joseph T. Plummer, "The Concept and Application of LifeStyle Segmentation,"
@@ -2393,11 +2379,7 @@ and third-highest concerns, respectively, in the previous survey.
 
 "The new research priorities indicate that a shift is taking place in
 
-marketing practice", notes Donald Lehmann, executive director of
-
-[]{#calibre_link-59}72
-
-the institute. "Market orientation has taken hold and the increasing
+marketing practice", notes Donald Lehmann, executive director of the institute. "Market orientation has taken hold and the increasing
 
 power of the consumer is apparent in the movement away from
 
@@ -2625,8 +2607,6 @@ There are three common methods used to collect primary information: observation,
 
 Since the beginning of commerce, merchants have been watching their customers and noncustomers engage in a variety of behaviors. Examples include shopping, purchase, return, complaint behavior, and so forth. A local fast food manager might simply observe the expression on customers' faces as they eat a new sandwich. More formal observation techniques are also employed. Video cameras or audio systems can be targeted at customers. Researchers can also be hired to do license plate surveys in parking lots or simply record observations in a prescribed manner. There are even observational techniques that are quite intrusive. For instance, in the case of a *pantry* *(cabinet) audit*, the researcher comes to the consumer's home and actually takes an inventory of products found. *Ethnography* requires that the researcher practically move in with the consumer and observe various relevant behaviors. This technique is illustrated in the Newsline box that follows.
 
-[]{#calibre_link-67}80
-
 **Newsline: Where's the beef?**
 
 A woman in suburban Baltimore is shopping for her family's meals
@@ -2713,11 +2693,7 @@ questionnaire easily and accurately.
 
 The design of a questionnaire is a function of how the questionnaire is administered, and vice versa. Four techniques for administering a questionnaire are currently used: mail, telephone, personal interview, and online. In the *mail technique*, the questionnaire is distributed and returned through the mail. A typical packet might contain a cover letter explaining the purpose of the research, a copy of the
 
-questionnaire, a stamped self-addressed return envelope, and an incentive for compliance (cash, merchandise, contribution to charity, or copy of report). Mail questionnaires allow the researcher to ask a large number of questions over a broad
-
-[]{#calibre_link-345}82
-
-range of topics. They also allow the respondent to answer the questionnaire at their leisure. Finally, the standardized format does not allow for subjective bias.
+questionnaire, a stamped self-addressed return envelope, and an incentive for compliance (cash, merchandise, contribution to charity, or copy of report). Mail questionnaires allow the researcher to ask a large number of questions over a broad range of topics. They also allow the respondent to answer the questionnaire at their leisure. Finally, the standardized format does not allow for subjective bias.
 
 Unfortunately, these advantages can become limitations. The longer the
 
@@ -2735,11 +2711,7 @@ issues, and encourage the respondent to complete the questionnaire. With freedom
 
 There are several *online* information-gathering techniques that allow the respondent more freedom in providing answers. As one would expect, there has been a recent rapid technological evolution in this area. Online questionnaires can help website sponsors to gauge customer satisfaction, profile visitors, and provide a way to measure traffic for advertisers beyond banner click-throughs. By using research tools such as exit surveys, etailers can find out why people are leaving their sites and why they might not come back.
 
-There are four popular types of *online* research. *Pop-up surveys* occur when visitors are intercepted when they leave certain pages of the website. A questionnaire then appears in a box on top of their main browser screens asking for responses. With *e-mail/web surveys*, a company sends an e-mail message asking the recipient to complete a survey. Sometimes the survey is embedded in the e-mail itself. Other times the e-mail lists either a passworded location to visit or a unique location that only the addressee can access to fill out the survey. *Online groups* are much like traditional focus groups, but are conducted in a web-based chat room where select individuals are invited by the company or its research firm. Finally, in the case of
-
-[]{#calibre_link-346}83
-
-*moderated e-mail groups*, discussions take place over a period of time with a group communicating by e-mail. A moderator compiles the answers and sends the summary back to the group for comments and follow-up.
+There are four popular types of *online* research. *Pop-up surveys* occur when visitors are intercepted when they leave certain pages of the website. A questionnaire then appears in a box on top of their main browser screens asking for responses. With *e-mail/web surveys*, a company sends an e-mail message asking the recipient to complete a survey. Sometimes the survey is embedded in the e-mail itself. Other times the e-mail lists either a passworded location to visit or a unique location that only the addressee can access to fill out the survey. *Online groups* are much like traditional focus groups, but are conducted in a web-based chat room where select individuals are invited by the company or its research firm. Finally, in the case of *moderated e-mail groups*, discussions take place over a period of time with a group communicating by e-mail. A moderator compiles the answers and sends the summary back to the group for comments and follow-up.
 
 The third technique used to gather research information is *self-reporting*. This technique allows the respondent to deliver the information in a somewhat
 
@@ -3776,11 +3748,7 @@ segmentation and patronage motives. Patronage motives typically concern the
 
 consumer's reasons for shopping at a particular outlet. Consumers are classified, for example, as price-conscious, convenience-oriented, service-oriented, or in terms of some other motivating feature.
 
-A motive is the inner drive or pressure to take action to satisfy a need. To be motivated is to be a goal-oriented individual. Some goals are positive, some are negative, some individuals have a high level of goal orientation, some have a very low
-
-[]{#calibre_link-347}113
-
-level. In all cases, the need must be aroused or stimulated to a high enough level so that it can serve as a motive. It is possible (and usual) to have needs that are latent (unstimulated) and that therefore do not serve as the motive of behavior. The sources of this arousal may be internal (people get hungry), environmental (you see an ad for a Big Mac), or psychological (just thinking about food can cause hunger).
+A motive is the inner drive or pressure to take action to satisfy a need. To be motivated is to be a goal-oriented individual. Some goals are positive, some are negative, some individuals have a high level of goal orientation, some have a very low level. In all cases, the need must be aroused or stimulated to a high enough level so that it can serve as a motive. It is possible (and usual) to have needs that are latent (unstimulated) and that therefore do not serve as the motive of behavior. The sources of this arousal may be internal (people get hungry), environmental (you see an ad for a Big Mac), or psychological (just thinking about food can cause hunger).
 
 For motivation to be useful in marketing practice, a marketing manager must
 
@@ -4140,11 +4108,7 @@ b. The Connectedness Craze The urge to connect will pervade all
 
 aspects of consumers' lives and increasingly consumers will turn
 
-to the World Wide Web for a sense of community between buyers
-
-[]{#calibre_link-101}122
-
-and sellers, information suppliers and consumers, and friends and
+to the World Wide Web for a sense of community between buyers and sellers, information suppliers and consumers, and friends and
 
 family.
 
@@ -4197,8 +4161,6 @@ f. supplier selection
 g. order-routine specification
 
 h. performance review
-
-[]{#calibre_link-102}123
 
 **The Wall Street Journal (wsj.com)**
 
@@ -4923,8 +4885,6 @@ benefit consumers
 
 **Table 5.3: Ethical issues in marketing**
 
-[]{#calibre_link-348}140
-
 **Per cent of**
 
 **marketing**
@@ -5042,8 +5002,6 @@ Each can be measured relative to a marketer's external environment.
 * *Consumer spending patterns*: Amount of money spent on certain kinds of products and services each year.
 
 * *Comprehensive spending patterns*: The amount of income individuals allocate to expenditures for classes of products and services.
-
-[]{#calibre_link-116}142
 
 * *Product spending patterns*: The amount of income spent for specific products in a product class.
 
@@ -5221,11 +5179,7 @@ Let us fast forward a few years to see what opportunities technology will open u
 
 All these miracles are possible in the amazing world of tomorrow. These are not technologies in a lab, but working prototypes, many just about to hit the market. The potential for marketers in just five years makes today's Web offerings look like a warm up act. While these services will rely on the Internet to communicate between newfangled gadgets and more intelligent servers, most of the services will not be based on HTML, for practical reasons. For example, you cannot effectively run a Web browser on a cell phone screen, and you do not want one inside your shirt.
 
-The pitfalls for marketers are also obvious. While today's Web is open, each of these new technologies has a potential gatekeeper cell phone operators, cable companies,
-
-[]{#calibre_link-119}146
-
-appliance makers, and, as noted in "Integrated marketing", consumers who are not enthralled with the computer.
+The pitfalls for marketers are also obvious. While today's Web is open, each of these new technologies has a potential gatekeeper cell phone operators, cable companies, appliance makers, and, as noted in "Integrated marketing", consumers who are not enthralled with the computer.
 
 **Integrated marketing**
 
@@ -5319,11 +5273,7 @@ with nearly 2 per cent in the 1980s. Marketing communicators must plan for a
 
 greater number of middle-aged households, consumers who are experienced
 
-3. *Sources*: Karen Thomas, "Not Everyone's E-Namored With the Net," *USA Today*, September 25, 2000, p. 3D; Dana Blankenhorn, "Hype Blasters," *Advertising Age*, June 9, 2000, pp. 58-62.
-
-[]{#calibre_link-350}148
-
-and have a better understanding of price and value. These consumers should
+3. *Sources*: Karen Thomas, "Not Everyone's E-Namored With the Net," *USA Today*, September 25, 2000, p. 3D; Dana Blankenhorn, "Hype Blasters," *Advertising Age*, June 9, 2000, pp. 58-62. and have a better understanding of price and value. These consumers should
 
 have an interest in high-quality household goods and in-home health care.
 
@@ -5572,11 +5522,7 @@ moved out of the house. Classifying Americans by the life events they have
 
 experienced, rather than by demographic traits, can yield insights and
 
-understanding into a market that might otherwise have been overlooked. In
-
-[]{#calibre_link-126}155
-
-conjunction with *Modern Maturity*, Roper has identified seven life stage segments that demonstrate the appeal and rewards of marketing to consumers by life
+understanding into a market that might otherwise have been overlooked. In conjunction with *Modern Maturity*, Roper has identified seven life stage segments that demonstrate the appeal and rewards of marketing to consumers by life
 
 stage.
 
@@ -5858,9 +5804,7 @@ opportunities and challenges. Given these circumstances, it could be argued that
 opportunities to survive with a purely domestic strategy are increasingly limited to small and medium-sized companies in local niche markets.
 
 1. *Sources*: Nell Chowdury, "Dell Cracks China," *Fortune*, June 21,1999, pp. 120-129; Normandy Madden, "OM's Buick Rides Luxury into China," *Advertising Age*, June 24,1999, p. 16; Carolyn Edy, "The Olympics of Marketing," *American* *Demographics*, June 1999, p. 47.
-
-[]{#calibre_link-352}162
-
+ 
 Perhaps partly because of the rapid evolution of international marketing, a vast array of terms have emerged that suggest various facets of international marketing.
 
 Clarification of these terms is a necessary first step before we can discuss this topic more thoroughly.
@@ -6219,10 +6163,6 @@ with overseas distributors. 2
 
 "Are You Smart Enough to Sell Globally?" *Sales and Marketing Management*, July 1998, pp. 53-55; Erica Rasmusson, "Global Warning," *Sales and Marketing Management*, Nov. 2000, p. 17.
 
-[]{#calibre_link-142}![](images/000196.png){.calibre2} 
-
- 172
-
 factors we have discussed in the earlier sections. The level of resources that the company is willing to commit should be determined by the strategy that needed to achieve the objectives that have been set.
 
 **6.8.2 The Business Level** 
@@ -6247,11 +6187,7 @@ Undoubtedly, environmental factors have received the most attention from markete
 
  Having set the objectives for the company, both at the corporate level and the business level, the company can now develop a detailed program of functional
 
-activities to achieve the objectives. Following the integrated approach employed throughout this text, each of the functional elements (e.g. finance, human resources, research) must be considered jointly. The best international marketing strategy is
-
-[]{#calibre_link-143}![](images/000163.png){.calibre2}
-
-doomed to failure if human resources cannot find and train the appropriate
+activities to achieve the objectives. Following the integrated approach employed throughout this text, each of the functional elements (e.g. finance, human resources, research) must be considered jointly. The best international marketing strategy is doomed to failure if human resources cannot find and train the appropriate
 
 employees, or research cannot modify the product so that it is acceptable to
 
@@ -6282,11 +6218,7 @@ Another critical element that is closely aligned with the product and promotion 
 
 change to ensure the product's success in Russia. Namely, a fatter-looking Morris was created for packaging. Another discovery: while Americans tend to treat their kitties with tuna, Russian cat-lovers prefer to serve beef-flavored food.
 
-As discussed earlier, product positioning is a key success factor and reflects the customer's perceptions of the product or service. However, in countries at different stages of economic development, the customer segments that are likely to be able to
-
-[]{#calibre_link-144}![](images/000170.png){.calibre2}
-
-purchase the product and the occasions on which it is bought may be significantly different. For example, while Kentucky Fried Chicken (KFC) and McDonald's
+As discussed earlier, product positioning is a key success factor and reflects the customer's perceptions of the product or service. However, in countries at different stages of economic development, the customer segments that are likely to be able to purchase the product and the occasions on which it is bought may be significantly different. For example, while Kentucky Fried Chicken (KFC) and McDonald's
 
 restaurants aim at everyday eating for the mass market in the developed countries, in less-developed countries they are perceived as places for special-occasion eating, and are beyond the reach of the poorest segments of the population. The product
 
@@ -6317,8 +6249,6 @@ Nagle12 has suggested nine factors that influence the sensitivity of customers t
 
 * the greater the perceived quality;
 
-[]{#calibre_link-145}![](images/000173.png){.calibre2}
-
 * the less aware consumers are of substitutes in the market;
 
 * if it is difficult to make comparisons;
@@ -6344,11 +6274,7 @@ Finally, obtaining payment promptly and in a suitable currency from less develop
 **6.8.6 Distribution and Logistics** 
 
 
- *Distribution channels* are the means by which goods are distributed from the manufacturer to the end user. *Logistics*, or physical distribution management, is concerned with the planning, implementing, and control of physical flows of materials
-
-[]{#calibre_link-146}176
-
-and final goods from points of origin to points of use to meet customer needs at a profit.
+ *Distribution channels* are the means by which goods are distributed from the manufacturer to the end user. *Logistics*, or physical distribution management, is concerned with the planning, implementing, and control of physical flows of materials and final goods from points of origin to points of use to meet customer needs at a profit.
 
 Essentially there are three channel links between the seller and buyer. The first link is the seller's headquarters organization, which is responsible for supervising the channel, and acts as part of the channel itself. Channels between countries represent the second link. They are responsible for getting products to overseas markets and payment in return. Finally, the third link is the channel structure (logistics) within countries, which distributes the products from their point of entry to the final consumer.
 
@@ -6390,11 +6316,7 @@ d. the economic environment
 
 e. the competitive environment
 
-[]{#calibre_link-147}![](images/000186.png){.calibre2} 
-
- 177
-
-6.9 THE INTERNATIONAL MARKETING ENVIRONMENT {#the-international-marketing-environment .calibre5}               - 
+6.9 THE INTERNATIONAL MARKETING ENVIRONMENT
 
 
  A number of factors constitute the international environment: social, cultural, political, legal, competitive, economic, plus technology. Each should be evaluated before a company makes a decision to go international.
@@ -6441,8 +6363,6 @@ American coffee.
 **Table 6.1: Illustrations of potential areas of misunderstanding due**
 
 **to differences in cultural norms**
-
-[]{#calibre_link-353}178
 
 General Motors' "Body by Fisher" slogan became "Corpse by
 
@@ -6504,9 +6424,6 @@ politely take their leave.
 
 **to differences in cultural norms**
 
-[]{#calibre_link-148}![](images/000188.png){.calibre2} 
-
-
 This task is not as easy as it sounds as various features of a culture can create an illusion of similarity. Even a common language does not guarantee similarity of interpretation. For example, in the US we purchase "cans" of various grocery products, but the British purchase "tins". A number of cultural differences can cause marketers problems in attempting to market their products overseas. These include: (a)
 
 language, (b) color, (c) customs and taboos, (d) values, (e) aesthetics, (f) time, (g) business norms, (h) religion, and (i) social structures. Each is discussed in the following sections.
@@ -6531,9 +6448,6 @@ Consider how the following examples could be used in development of internationa
 * In Russia, it is acceptable for men to greet each other with a kiss, but this custom is not acceptable in the US.
 
 * Germans prefer their salad dressing in a tube, while Americans prefer it in a bottle.
-
-[]{#calibre_link-149}![](images/000205.png){.calibre2} 
-
 
 * In France, wine is served with most meals, but in America, milk, tea, water, and soft drinks are popular.
 
@@ -6563,8 +6477,6 @@ cleanliness. In Italy, salespeople call on women only if their husbands are at h
 Punctuality and deadlines are routine business practices in the US. However,
 
 salespeople who set definite appointments for sales calls in the Middle East and Latin America will have a lot of time on their hands, as business people from both of these cultures are far less bound by time constraints. To many of these cultures, setting a deadline such as "I have to know next week" is considered pushy and rude.
-
-[]{#calibre_link-150}![](images/000118.png){.calibre2}
 
 **6.9.1.7 Business Norms** 
 
@@ -6632,9 +6544,6 @@ about 400 thin-screen computers in this very cool environment with
 a little coffee on the side."
 
 Of course, the story in Europe goes far beyond email and Internet
-
-[]{#calibre_link-151}![](images/000120.png){.calibre2}
-
 cafes. They are just the top of the innovation revolution sweeping
 
 Europe from the North to the South. Consider easyGroup, which
@@ -6686,9 +6595,6 @@ That is, it is more difficult to move upward in a social structure that is rigid
 
 3. Sources: Henry Heilbrunn, "Interactive Marketing in Europe," *Direct Marketing*, March 1998, pp. 98-101; Michael Krauss, "Europe Forges Ahead with Web Innovations," *Marketing News*, August 14, 2000, p. 8; Michael Plogell and Felix Hofer, "No-nos in Europe," *Promo*, April 2000, pp. 23-24.
 
-[]{#calibre_link-152}![](images/000122.png){.calibre2} 
-
-
 **6.9.2 The Political/Legal Environment** 
 
 
@@ -6724,8 +6630,6 @@ The result is that consumers in the foreign nation pay high prices, get less sat
 
  The *exchange rate* of a particular nation's currency represents the value of that currency in relation to that of another country. Governments set some exchange rates independently of the forces of supply and demand. The forces of supply and demand set others. If a country's exchange rate is low compared to other countries, that country's consumers must pay higher prices on imported goods. While the concept of exchange rates appears relatively simple, these rates fluctuate widely and often, thus creating high risks for exporters and importers.
 
-[]{#calibre_link-153}![](images/000127.png){.calibre2}
-
 **6.9.2.3 Trading Blocs and Agreements** 
 
 
@@ -6743,12 +6647,7 @@ Almost all the countries in the Western hemisphere have entered into one or more
 
 companies with global operations.
 
-The creation of the single European market in 1992 was expected to change the way marketing is done worldwide. It meant the birth of a market that was larger than the United States, and the introduction of European Currency Units (Euros) in place of the individual currencies of member nations. Experience in multilingual marketing would help non-European companies succeed in this gigantic market. With new technologies such as multilingual processing programs, it would be possible to target potential customers anywhere in Europe, in any language, and in the same marketing
-
-campaign.
-
-[]{#calibre_link-154}![](images/000128.png){.calibre2} 
-
+The creation of the single European market in 1992 was expected to change the way marketing is done worldwide. It meant the birth of a market that was larger than the United States, and the introduction of European Currency Units (Euros) in place of the individual currencies of member nations. Experience in multilingual marketing would help non-European companies succeed in this gigantic market. With new technologies such as multilingual processing programs, it would be possible to target potential customers anywhere in Europe, in any language, and in the same marketing campaign.
 
 Progress toward European unification has been slow many doubt that complete
 
@@ -6779,11 +6678,7 @@ companies with a strong business tradition in a foreign country may support tari
 
  The level of technological development of a nation affects the attractiveness of doing business there, as well as the type of operations that are possible. Marketers in developed nations cannot take many technological advances for granted. They may not be available in lesser developed nations. Consider some of the following
 
-technologically related problems that firms may encounter in doing business
-
-overseas:
-
-[]{#calibre_link-155}![](images/000199.png){.calibre2}
+technologically related problems that firms may encounter in doing business overseas:
 
 * Foreign workers must be trained to operate unfamiliar equipment.
 
@@ -6812,10 +6707,6 @@ population bases, market saturation for many products already exists. The develo
 
 currently import limited goods and services, the long-run potential for growth in these nations exists. Dependent societies seek products that satisfy basic needs food, clothing, housing, medical care, and education. Marketers in such nations must be educators, emphasizing information in their market programs. As the degree of economic development increases, so does the sophistication of the marketing effort focused on the countries.
 
-[]{#calibre_link-156}![](images/000210.png){.calibre2} 
-
- 187
-
 **6.9.5 The Competitive Environment** 
 
 
@@ -6839,8 +6730,6 @@ important and varies significantly, depending on the size of the business, the n
 objectives might be:
 
 * financial performance, including return on investment and profitability;
-
-[]{#calibre_link-157}188
 
 * market penetration, including sales (by volume and value), market share by
 
@@ -6922,8 +6811,6 @@ business articles.
 
 Select one major headline in the **Asia**, **Europe**, and **The Americas**
 
-[]{#calibre_link-158}![](images/000040.png){.calibre2}
-
 sections. Use the **Country News** menu to select the specific countries
 
 discussed and to look for additional information about the articles
@@ -6975,8 +6862,6 @@ When a firm chooses to market its products internationally, it must decide wheth
 
 Others use a standardized marketing mix. In making the decision to customize or standardize, there is a wide range of possibilities for adapting a firm's product, price, promotion, and distribution strategies.
 
-[]{#calibre_link-159}![](images/000042.png){.calibre2}
-
 6.11 KEY TERMS {#key-terms-5 .calibre5}     -- 
 
 
@@ -7016,9 +6901,6 @@ manufacturing process, brand name, or sales knowledge in return for some payment
 
 **Communication adaptation** A strategy used in foreign markets when the same product can be used to satisfy different needs, or if a product is used in a different way in foreign market.
 
-[]{#calibre_link-160}![](images/000043.png){.calibre2} 
-
-
 **Product adaptation** A product is changed to meet individual foreign target market needs.
 
 6.12 QUESTIONS {#questions-5 .calibre5}     -- 
@@ -7056,8 +6938,6 @@ manufacturing process, brand name, or sales knowledge in return for some payment
 
  Unilever division Unipath is to begin the global rollout of a contraceptive product that has been 15 years in secret development and that the company is hailing as a major brand launch.
 
-[]{#calibre_link-161}![](images/000046.png){.calibre2}
-
 "The biggest thing to happen to contraception since the 60s," as the UK print and poster ads through Ogilvy & Mather Worldwide, London, describes it. Persona is the fruit of tens of millions of dollars investment.
 
 "This is going to be a big Unilever brand," said Senior Brand Development Manager, Susannah Day, at its UK launch, backed by a USD 7.8 million marketing campaign that also includes an Internet site, a free phone "careline", retailer training, point of purchase displays, and direct mailings to the medical profession. Ogilvy & Mather (O&M), a Unilever roster agency, was appointed in 1995 to create ads that would work internationally.
@@ -7093,8 +6973,6 @@ Will these costs present problems?
 
 4. Source: Suzanne Bedlake, "Birth of a Global Brand," *Ad Age international*, March 1997, p. 126; Rainer Hengst, "Plotting Your Global Strategy." *Direct Marketing*, August 2000, pp. 52-55; Eileen P. Moran, "Include Overseas Markets the Right Way." *Marketing News*, April 24, 2000, pp. 47-48.
 
-[]{#calibre_link-354}193
-
 2. Theodore Levitt. "The Globalization of Markets." *Harvard Business Review*, May-June 1983, pp. 92-102.
 
 3. Philip Kotler, "Global Standardization-Courting Danger," *Journal of Consumer* *Marketing*, Vol. 3, No.2, Spring, 1986, pp. 13-20.
@@ -7116,12 +6994,6 @@ Will these costs present problems?
 11. Warren J. Keegan, Conceptual Framework for Multinational Marketing," *Columbia* *Journal of World Business*, Vol. 7, November 1973, p.67.
 
 12. TT Nagle, *The Strategies and Tactics of Pricing*, Prentice-Han, Inc. Englewood Cliffs, N.J.,1999.
-
-[]{#calibre_link-162}![](images/000047.png){.calibre2} 
-
- 194
-
-::: {.calibre6} :::
 
 Chapter 7 INTRODUCING AND {#chapter-7-introducing-and .calibre5 title="Chapter 7 INTRODUCING AND, **MANAGING THE PRODUCT**"}         -
 
@@ -7165,8 +7037,6 @@ recreational vehicles to sleek luxury sedans such as the USD 37,000 Aristo. Mats
 
 For Japanese carmakers preparing to roll out their new fleets at the Tokyo Motor Show, consumers such as Matsuda illustrate why 2000 was such a tough year. Despite a flurry of new launches, the recent increase in Japan's consumption tax from 3 per cent to 5 per cent has caused car sales to decline for six months in a row. Dealers sold nine per cent fewer cars in September then in the same month a year earlier, and several have now fallen into the red or have gone bankrupt.
 
-[]{#calibre_link-163}![](images/000049.png){.calibre2}
-
 So carmakers are desperately hoping their 2000 models will boost sales. The Motor Show's new lines have the latest in breaking, engine, transmission technology, more sporty designs, and more environmentally friendly engines including a "hybrid" car that can get 66 miles per gallon on a combination of gasoline and electricity. "Every maker is preparing new launches to keep sales from falling through the floor," says Christopher Redl, automotive analyst at ING Barrings Limited.
 
 But Japanese consumers are already overwhelmed with choices. "There are now over 190 car models available in the market," says Atsushi Fuyi, member of the board of directors in charge of domestic sales at Nissan Motor Company, "and the average consumer can only remember about 11 of them."
@@ -7186,9 +7056,7 @@ The answer is quite obvious. None of those other functions serve any useful purp
 
 1. Sources: Jean Halliday, "Carmakers Learn to Mine Databases," *Advertising Ages*, April 17, 2000, p. S6; Emily Thorton, "Too Many Cars, Too Few Buyer," *Business Week*, October 20,1997, p. 56; Alison S. Wellner, "Hot Wheels," *American* *Demographics*, August 2000,pp. 4; David Kiley, "Not Your Father's SUV," *American Demographics*, January 1999, pp. 44-45.
 
-[]{#calibre_link-164}![](images/000050.png){.calibre2}
-
-7.3 DEFINING THE PRODUCT {#defining-the-product .calibre5}          
+7.3 DEFINING THE PRODUCT      
 
 
  In essence, the term "product" refers to anything offered by a firm to provide customer satisfaction, be it tangible or intangible. It can be a single product, a combination of products, a product-service combination, or several related products and services. It normally has at least a generic name (e.g. banana) and usually a brand name (e.g. Chiquita). Although a product is normally defined from the perspective of the manufacturer, it is also important to note two other points-of-view, those of the consumer and other relevant publics.
@@ -7211,7 +7079,7 @@ There are four levels of a product: core, tangible, augmented, and promised (see
 
 individualized, and oftentimes vague, a full-time task of the marketer is to accurately identify the core product for a particular target market.
 
-[]{#calibre_link-303}![](images/000052.png){.calibre2}
+![](images/000052.png)
 
 **Fig. 7.1: Levels of the product.**
 
@@ -7223,12 +7091,7 @@ At the next level lies the augmented product. Every product is backed up by a ho
 
 products, the role of the augmented product is clearly increasing.
 
-The outer ring of the product is referred to as the *promised product.* Every product has an implied promise. An implied promise is a characteristic that is attached to the product over time. The car industry rates brands by their trade-in value. There is no definite promise that a Mercedes-Benz holds its value better than a BMW. There will always be exceptions. How many parents have installed a swimming pool based on
-
-[]{#calibre_link-165}![](images/000053.png){.calibre2} 
-
-
-the implied promise that their two teenagers will stay home more or that they entertain friends more often?
+The outer ring of the product is referred to as the *promised product.* Every product has an implied promise. An implied promise is a characteristic that is attached to the product over time. The car industry rates brands by their trade-in value. There is no definite promise that a Mercedes-Benz holds its value better than a BMW. There will always be exceptions. How many parents have installed a swimming pool based on the implied promise that their two teenagers will stay home more or that they entertain friends more often?
 
 Having discussed the components of a product, it is now relevant to examine ways of classifying products in order to facilitate the design of appropriate product strategies.
 
@@ -7253,11 +7116,7 @@ distribution is the primary marketing strategy. The product must be available in
 
 products are usually of low unit value, are highly standardized, and frequently are nationally advertised. Yet, the key is to convince resellers, *i.e.* wholesalers and retailers, to carry the product. If the product is not available when, where, and in a form desirable by the consumer, the convenience product will fail.
 
-From the consumer's perspective, little time, planning, or effort go into buying convenience goods. Consequently, marketers must establish a high level of brand awareness and recognition. This is accomplished through extensive mass advertising, sales promotion devices such as coupons and point-of-purchase displays, and
-
-[]{#calibre_link-166}![](images/000057.png){.calibre2}
-
-effective packaging. The fact that many of our product purchases are often on impulse is evidence that these strategies work. Availability is also important. Consumers have come to expect a wide spectrum of products to be conveniently located at their supermarkets, ranging from packaged goods used daily, *e.g.* bread and soft drinks, to products purchased rarely or in an emergency such as snow shovels, carpet cleaners, and flowers.
+From the consumer's perspective, little time, planning, or effort go into buying convenience goods. Consequently, marketers must establish a high level of brand awareness and recognition. This is accomplished through extensive mass advertising, sales promotion devices such as coupons and point-of-purchase displays, and effective packaging. The fact that many of our product purchases are often on impulse is evidence that these strategies work. Availability is also important. Consumers have come to expect a wide spectrum of products to be conveniently located at their supermarkets, ranging from packaged goods used daily, *e.g.* bread and soft drinks, to products purchased rarely or in an emergency such as snow shovels, carpet cleaners, and flowers.
 
 In contrast, consumers want to be able to compare products categorized as *shopping* *goods.* Automobiles, appliances, furniture, and homes are in this group. Shoppers are willing to go to some lengths to compare values, and therefore these goods need not be distributed so widely. Although many shopping goods are nationally advertised, often it is the ability of the retailer to differentiate itself that creates the sale. The differentiation could be equated with a strong brand name, such as Sears Roebuck or Marshall Field; effective merchandising; aggressive personal selling; or the availability of credit. Discounting, or promotional price-cutting, is a characteristic of many shopping goods because of retailers' desire to provide attractive shopping values. In the end, product turnover is slower, and retailers have a great deal of their capital tied-up in inventory. This combined with the necessity to price discount and provide exceptional service means that retailers expect strong support from manufacturers with shopping goods.
 
@@ -7269,8 +7128,6 @@ In contrast, consumers want to be able to compare products categorized as *shopp
  Consumer goods are characterized as products that are aimed at and purchased by the ultimate consumer.2 Although consumer products are more familiar to most
 
 readers, industrial goods represent a very important product category, and in case of some manufacturers, they are the only product sold. The methods of industrial marketing are somewhat more specialized, but in general the concepts presented in this text are valid for the industrial marketer as well as for the consumer goods marketer.
-
-[]{#calibre_link-355}200
 
 Industrial products can either be categorized from the perspective of the producer and how they shop for the product or from the perspective of the manufacturer and how they are produced and how much they cost. The latter criteria offers a more insightful classification for industrial products.
 
@@ -7293,9 +7150,6 @@ service.
 *Supplies and service* do not enter the finished product at all but are nevertheless consumed in conjunction with marking the product. Supplies would include paper, pencils, fuel oil, brooms, soap, and so forth. These products are normally purchased as convenience products with a minimum of effort and evaluation. Business services include maintenance (e.g. office cleaning), repairs (e.g. plumbing), and advisory (e.g.
 
 legal). Because the need for services tends to be unpredictable, they are often contracted for a relatively long period of time.
-
-[]{#calibre_link-167}![](images/000058.png){.calibre2} 
-
 
 **7.4.2 Goods Versus Services** 
 
@@ -7320,7 +7174,7 @@ Although you pay your money and consume the service, there is nothing tangible t
 
 19.50 for a ticket and spend nearly three hours taking in the entertainment.
 
-[]{#calibre_link-168}![](images/000062.png){.calibre2} 
+![](images/000062.png)
 
 
 **Fig. 7.2: Shoes are a traditional goods product.**
@@ -7340,7 +7194,7 @@ Although you pay your money and consume the service, there is nothing tangible t
 
  With many service products, the purchaser may provide a great deal of input into the final form of the product. For example, if you wanted to take a Caribbean cruise, a
 
-[]{#calibre_link-304}![](images/000066.png){.calibre2}
+![](images/000066.png)
 
 good travel agent would give you a large selection of brochures and pamphlets describing the various cruise locations, options provided in terms of cabin location and size, islands visited, food, entertainment, prices, and whether they set up for children. Although the task may be quite arduous, an individual can literally design every moment of the vacation.
 
@@ -7353,10 +7207,6 @@ While this discussion implies that service products are marketed differently tha
 service products (i.e. those on the extreme ends of the continuum) tend to reflect characteristics and responses from customers that suggest opposite marketing
 
 strategies. Admittedly, offering an exceptional product at the right price, through the most accessible channels, promoted extensively and accurately, should work for any type of product. The goods/services classification provides the same useful insights provided by the consumer/industrial classification discussed earlier.
-
-[]{#calibre_link-169}![](images/000067.png){.calibre2} 
-
- 204
 
 7.5 PRODUCT PLANNING AND STRATEGY FORMULATION {#product-planning-and-strategy-formulation .calibre5}                 
 
@@ -7382,10 +7232,6 @@ An objective related to growth in sales is *finding new uses for established pro
 
 Often, the sales force provides the impetus for this objective in that they may need a more complete product line to offer their customers or the resellers themselves may request a greater assortment.
 
-[]{#calibre_link-170}![](images/000069.png){.calibre2} 
-
- 205
-
 *Expanding a product's appeal to new market segments* is a common objective. John Deere is attempting to increase its small share of the consumer power products market by aiming at suburbanites and women farmers. They have introduced a series of redesigned lawn and garden tractors, tillers, and snow blowers that are easier for women to operate.
 
 Although this represents a limited selection of objectives, it does suggest that there must be a reason for all product-related activities. These reasons are best expressed in the form of specific objectives.
@@ -7410,11 +7256,9 @@ The five stages of the PLC and their components can be defined as follows:
 
 more new users.
 
-* *Maturity:* the period during which competition becomes serious. Towards the end of this period, competitors' products cut deeply into the company's market
+* *Maturity:* the period during which competition becomes serious. Towards the end of this period, competitors' products cut deeply into the company's market position.
 
-position.
-
-[]{#calibre_link-305}![](images/000071.png){.calibre2}
+![](images/000071.png)
 
 * *Decline:* the product becomes obsolete and its competitive disadvantage result in decline in sales and, eventually, deletion.
 
@@ -7427,10 +7271,6 @@ Of course, changes in other elements of the marketing mix may also affect the pe
 Usually the improvements brought about by non-product tactics are relatively short-lived and basic alterations to product offerings provide longer benefits.
 
 Whether one accepts the S-shaped curve as a valid product-sales pattern or as a pattern that holds only for some products (but not for others), the product lifecycle concept can still be very useful. It offers a framework for dealing systematically with product management issues and activities. Thus, the marketer must be cognizant of the generalizations that apply to a given product as it moves through the various stages. This process begins with product development and ends with the deletion (discontinuation) of the product.
-
-[]{#calibre_link-171}![](images/000072.png){.calibre2} 
-
- 207
 
 **7.5.3 Product Strategies** 
 
@@ -7450,12 +7290,7 @@ Unfortunately, market extension strategies are extremely easy for competitors to
 
 *Market segmentation* is the final approach. As discussed in an earlier chapter, segmentation is identifying a group of consumers that tend to respond to some aspect of the market mix in a similar way. Rather than trying to appeal to the whole market, you concentrate your efforts and resources on a part of that market. The trend towards segmenting markets occurs most among branded goods. Even
 
-industrial products, such as the many varieties of diesel trucks, is an industry in which small firms survive by concentrating on some special segment of that heterogeneous total market. A company like the Coca-Cola Company found that there were pockets of
-
-[]{#calibre_link-172}![](images/000074.png){.calibre2} 
-
-
-consumers that, for various reasons, did not purchase Coke. Through the introduction of Tab many years ago, followed by Diet Coke and Caffeine-Free Coke, they feel that most of the market is now covered.
+industrial products, such as the many varieties of diesel trucks, is an industry in which small firms survive by concentrating on some special segment of that heterogeneous total market. A company like the Coca-Cola Company found that there were pockets of consumers that, for various reasons, did not purchase Coke. Through the introduction of Tab many years ago, followed by Diet Coke and Caffeine-Free Coke, they feel that most of the market is now covered.
 
 **7.5.3.2 Key Product Management Decisions** 
 
@@ -7480,13 +7315,7 @@ aesthetically pleasing. When the entire product is put together, it must create 
 **7.5.3.2.2 Packaging** 
 
 
- With the increased importance placed on self-service marketing, the role of packaging is becoming quite significant. For example, in a typical supermarket a shopper passes about 600 items per minute, or one item every tenth of a second. Thus, the only way to get some consumers to notice the product is through displays, shelf-hangers, tear-off coupon blocks, other point-of-purchase devices, and, last but not least, effective
-
-[]{#calibre_link-173}![](images/000077.png){.calibre2}
-
-packages. Common uses of packaging include protection, communication, and utility/
-
-ease of use.6
+ With the increased importance placed on self-service marketing, the role of packaging is becoming quite significant. For example, in a typical supermarket a shopper passes about 600 items per minute, or one item every tenth of a second. Thus, the only way to get some consumers to notice the product is through displays, shelf-hangers, tear-off coupon blocks, other point-of-purchase devices, and, last but not least, effective packages. Common uses of packaging include protection, communication, and utility/ease of use.
 
 Considering the importance placed on the package, it is not surprising that a great deal of research is spent on motivational research, color testing, psychological manipulation, and so forth, in order to ascertain how the majority of consumers will react to a new package. Based on the results of this research, past experience, and the current and anticipated decisions of competitors, the marketer will initially determine the primary role of the package relative to the product. Should it include quality, safety, distinction, affordability, convenience, or aesthetic beauty? For the automobile oil industry, the package has become more important to promote than product
 
@@ -7506,8 +7335,6 @@ Is it distinctive? Aesthetically pleasing? Acceptable by dealers?
 advertising and distinguished from substitutes, (b) make it easier for the customer to track down products, and (c) be given legal protection. Also, branding often provides an interesting carryover effect: satisfied customers will associate quality products with an established brand name.
 
 Before going any further it is necessary to distinguish several terms:
-
-[]{#calibre_link-174}![](images/000079.png){.calibre2}
 
 * *Brand*: A name, term, sign, symbol, design, or a combination of these that is intended to identify the goods or services of one seller or group of sellers and to differentiate them from those of competitors.
 
@@ -7536,11 +7363,7 @@ For most companies, both brand names and trademarks are vital in the identificat
 
  Behind every product is a series of supporting services, such as warranties and money-back guarantees. In many instances, such services may be as important as the product itself. In fact, at times it is difficult to separate the associated services from the product features. Consequently, companies must constantly monitor the services offered by the company and its competitors.
 
-Based on the results of data-gathering devices such as customer surveys, consumer complaints, and suggestion boxes, the product manager can determine the types of services to offer, the form the service will take, and the price charged. For example, consumers are very reluctant to purchase a stereo that can be serviced only by
-
-[]{#calibre_link-356}211
-
-sending it to the factory, and paying the postage and a high service fee. Maytag, however, has been very effective in selling their appliances with service contracts and local repair. Banks are still uncertain as to whether they should charge the customer for checks, ATM (automated teller machine) use, safety deposit boxes, and overdrafts.
+Based on the results of data-gathering devices such as customer surveys, consumer complaints, and suggestion boxes, the product manager can determine the types of services to offer, the form the service will take, and the price charged. For example, consumers are very reluctant to purchase a stereo that can be serviced only by sending it to the factory, and paying the postage and a high service fee. Maytag, however, has been very effective in selling their appliances with service contracts and local repair. Banks are still uncertain as to whether they should charge the customer for checks, ATM (automated teller machine) use, safety deposit boxes, and overdrafts.
 
 An industrial customer might be keenly interested in related services such as prompt delivery, reliable price quotations, credit, test facilities, demonstration capabilities, liberal return policies, engineering expertise, and so forth.
 
@@ -7572,11 +7395,7 @@ computer companies have been forced to provide such services. The slow
 
 development of video products or product types that have a history of
 
-breakdown and extensive maintenance must offer this service to the customer. In addition, it must be provided quickly and effectively. Although product service and maintenance has been provided to industrial customers for several years,
-
-this service is still new to many customer product manufacturers.
-
-[]{#calibre_link-175}![](images/000080.png){.calibre2}
+breakdown and extensive maintenance must offer this service to the customer. In addition, it must be provided quickly and effectively. Although product service and maintenance has been provided to industrial customers for several years, this service is still new to many customer product manufacturers.
 
 **7.5.3.2.5 Product Mix Strategies** 
 
@@ -7595,11 +7414,7 @@ particular attributes of the product and competing products are perceived as mos
 
 This evaluative process requires the product manager to arrange for marketing research studies to learn of improvements buyers might want, evaluate the market reception given to the competitors' improvement and evaluate improvements that have been developed within the company. Also required is a relationship with the product research and development (R&D) department. Ideally, R&D should be able to respond quickly to the marketing department's request for product upgrading and should maintain ongoing programs of product improvement and cost reduction. Even suppliers and distributors should be encouraged to submit suggestions.
 
-*Product positioning* is a strategic management decision that determines the place a product should occupy in a given market its market niche. Given this context, the word "positioning" includes several of the common meanings of position: a place (what place does the product occupy in its market?), a rank (how does the product fare against its competitors in various evaluative dimensions?), a mental attitude (what are consumer attitudes?), and a strategic process (what activities must be attempted in order to create the optimal product position?). Thus, positioning is both a concept and a process. The positioning process produces a position for the product, just as the segmentation process produces alternative market segments. Positioning can be applied to any type of product at any stage of the lifecycle. Approaches to positioning
-
-[]{#calibre_link-176}![](images/000081.png){.calibre2}
-
-range from gathering sophisticated market research information on consumers'
+*Product positioning* is a strategic management decision that determines the place a product should occupy in a given market its market niche. Given this context, the word "positioning" includes several of the common meanings of position: a place (what place does the product occupy in its market?), a rank (how does the product fare against its competitors in various evaluative dimensions?), a mental attitude (what are consumer attitudes?), and a strategic process (what activities must be attempted in order to create the optimal product position?). Thus, positioning is both a concept and a process. The positioning process produces a position for the product, just as the segmentation process produces alternative market segments. Positioning can be applied to any type of product at any stage of the lifecycle. Approaches to positioning range from gathering sophisticated market research information on consumers'
 
 preferences and perceptions of brands to the intuition of the product manager or a member of his staff.
 
@@ -7636,11 +7451,7 @@ disadvantages.
 
 *Line extensions strategies* involve adding goods related to the initial product, whose purchase or use is keyed to the product. For example, a computer company may
 
-provide an extensive selection of software to be used with its primary hardware. This strategy not only increases sales volume, it also strengthens the manufacturer's name, strengthens the association with the owner of the basic equipment, and offers dealers a broader line. These added items tend to be similar to existing brands with no innovations. They also have certain risks. Often the company may not have a high
-
-[]{#calibre_link-357}214
-
-level of expertise either producing or marketing these related products. Excessive costs, inferior products, and the loss of goodwill with distributors and customers are all possible deleterious outcomes. There is also a strong possibility that such a product decision could create conflict within the channel of distribution. In the computer example just described, this company may have entered the software business over the strong objection of their long-term supplier of software. If their venture into the software business fails, re-establishing a positive relationship with this supplier could be quite difficult.
+provide an extensive selection of software to be used with its primary hardware. This strategy not only increases sales volume, it also strengthens the manufacturer's name, strengthens the association with the owner of the basic equipment, and offers dealers a broader line. These added items tend to be similar to existing brands with no innovations. They also have certain risks. Often the company may not have a high level of expertise either producing or marketing these related products. Excessive costs, inferior products, and the loss of goodwill with distributors and customers are all possible deleterious outcomes. There is also a strong possibility that such a product decision could create conflict within the channel of distribution. In the computer example just described, this company may have entered the software business over the strong objection of their long-term supplier of software. If their venture into the software business fails, re-establishing a positive relationship with this supplier could be quite difficult.
 
 A line extension strategy should only be considered when the producer is certain that the capability exists to efficiently manufacture a product that compares well with the base product. The producer should also be sure of profitable competition in this new market.
 
@@ -7666,11 +7477,7 @@ Assuming that we decide to fill out our product line further, there are several 
 
 In addition to the demand of consumers or pressures from competitors, there are other legitimate reasons to engage in these tactics. First, the additional products may have a greater appeal and serve a greater customer base than did the original product. Second, the additional product or brand can create excitement both for the manufacturer and distributor. Third, shelf space taken by the new product means it cannot be used by competitors. Finally, the danger of the original product becoming outmoded is hedged. Yet, there is serious risk that must be considered as well: unless there are markets for the proliferations that will expand the brand's share, the newer forms will cannibalize the original product and depress profits.
 
-*Line-pruning strategies* involve the process of getting rid of products that no longer contribute to company profits. A simple fact of marketing is that sooner or later a
-
-[]{#calibre_link-177}![](images/000082.png){.calibre2}
-
-product will decline in demand and require pruning. Timex has stopped selling home computers. Hallmark has stopped selling talking cards.
+*Line-pruning strategies* involve the process of getting rid of products that no longer contribute to company profits. A simple fact of marketing is that sooner or later a product will decline in demand and require pruning. Timex has stopped selling home computers. Hallmark has stopped selling talking cards.
 
 A great many of the components used in the latest automobile have replaced far more expensive parts, due to the increased costs in other areas of the process, *e.g.* labor costs. Using modern robotics technology has halved the manufacturing costs of several products. Through such implementation, Keebler Cookies moved from
 
@@ -7694,8 +7501,6 @@ reputation, and so forth.
 Missed opportunity costs reflect the final reason for product deletion. Even if a mature product is making a profit contribution and its indirect cost consequences are recognized and considered justifiable, the company might still be better off without the product because of its opportunity cost. The opportunity cost of a mature product is the profit contribution that a new and healthy product could produce if the effort and resources being devoted to the mature item were redirected.
 
 The final issue is actually going through a product deletion procedure. Sometimes, however, a product can be revived (see "Integrated marketing").
-
-[]{#calibre_link-178}![](images/000083.png){.calibre2}
 
 **Integrated marketing**
 
@@ -7772,8 +7577,6 @@ Consequently, professional management has become an integral part of this proces
 
 2. Sources: Michael McCarthy and Emily Fromm, "An American Icon Fades Away," *Adweek*, April 26, 1999, pp.28-35; Alice Z. Cuneo, "Levi's Makes Move to Drop All the Hype and Push Products," *Advertising Age*, April 17,2000, pp. 4, 69; Louis Lee, "Can Levi's Be Cool Again?" *Business Week*, March 13, 2000, pp.144-145; Diane Brady."Customizing for the Masses." *Business Week*, March 20, 2000, pp. 130-131.
 
-[]{#calibre_link-179}![](images/000084.png){.calibre2}
-
 As a result, many firms develop new products based on an orderly procedure,
 
 employing comprehensive and relevant data, and intelligent decision making.9
@@ -7819,13 +7622,7 @@ Indeed, companies have often been guilty of using the word "new" in conjunction 
 
 Computer manufacturers, for instance, have slightly modified some of the basic hardware or developed some software for a particular customer (banks, churches), and have felt free to claim newness. Finally, manufacturers may add an existing product to their product line and call it new, even though it is not new to the consumer.
 
-Does technology make a product new, or features, or even the price? It is important to understand the concept of "new" in a new product, since there is sufficient evidence
-
-[]{#calibre_link-180}![](images/000085.png){.calibre2} 
-
- 218
-
-that suggests that each separate category of "newness" may require a different marketing strategy.
+Does technology make a product new, or features, or even the price? It is important to understand the concept of "new" in a new product, since there is sufficient evidence that suggests that each separate category of "newness" may require a different marketing strategy.
 
 Perhaps the best way to approach this problem is to view it from two perspectives; that of the consumer and that of the manufacturer.
 
@@ -7847,8 +7644,6 @@ Although conceptualizing new products in terms of how they modify consumer
 consumption patterns is useful, there is another basis for classification. New task experience can also be a criterion. An individual may live in a house for several years without ever having to repair a broken window. One day a mishap occurs, and Mr.
 
 Smith is forced to go to the hardware store to buy the necessary supplies required to install a new window pane. As he has no experience at all with this task, all those products are new to Mr. Smith. The glazing compound, the new glass and molding, and metal tacks, as well as the appropriate tools, are as new to Mr. Smith as a home computer. Using the model proposed by Robertson, products can also be placed on a continuum according to degree of task experience. Clearly, a product that has existed for a great many years, such as a carpenter's level, may be perceived as totally new by the person attempting to build a straight wall. In this case, newness is in the eye of the beholder.
-
-[]{#calibre_link-181}![](images/000088.png){.calibre2}
 
 The obvious difficulty with this classification is that it tends to be person-specific. Just because replacing a new washer in your bathroom faucet constitutes a new product for you does not mean it is a new product for me. However, it is conceivable that marketing research would show that for certain types of products, large groups of people have very limited experience. Consequently, the marketing strategy for such products might include very detailed instructions, extra educational materials, and sensitivity on the part of the sales clerk to the ignorance of the customer.
 
@@ -7875,8 +7670,7 @@ perspective of the business, can take the following forms:11
 
 A final consideration in defining "new" is the legal ruling provided by the Federal Trade Commission. Since the term is so prevalent in product promotion, the FTC felt obliged to limit the use of "new" to products that are entirely new or changed in a functionally significant or substantial respect. Moreover, the term can be used for a six-month period of time. Given the limited uniqueness of most new products, this ruling appears reasonable.
 
-[]{#calibre_link-182}![](images/000089.png){.calibre2} 
-
+![](images/000089.png)
 
 **Fig. 7.6: The "Got Milk" campaign made an old product new.**
 
@@ -7894,7 +7688,7 @@ However, very few companies make exclusive use of their own internal R&D. On the
 
 National Science Foundation (NSF) (1957-77) divides R&D into three parts:
 
-[]{#calibre_link-183}![](images/000092.png){.calibre2}
+![](images/000092.png)
 
 * *Basic research*: original investigations for the advancement of scientific knowledge that do not have specific commercial objectives, although they may be in fields of present or potential interest to the reporting company.
 
@@ -7921,10 +7715,6 @@ emerges, primarily, when either the risk or capital requirements are too great f
 
 between foreign and domestic partners. Joint ventures have obvious application to product development. For example, small firms with technological resources are afforded an opportunity to acquire capital or marketing expertise provided by a larger firm.
 
-[]{#calibre_link-184}![](images/000093.png){.calibre2} 
-
- 222
-
 **7.5.4.3 The New Product Development Process** 
 
 
@@ -7932,11 +7722,7 @@ between foreign and domestic partners. Joint ventures have obvious application t
 
 **Fig. 7.7: The new product development process.**
 
-Before starting our discussion of the eight-step process of new product development, a necessary caveat should be considered: a great many new products fail. Depending on definitions used for products actually introduced, failure rates range between 20
-
-[]{#calibre_link-185}![](images/000095.png){.calibre2}
-
-per cent and 30 per cent, but have been as high as 80 per cent. Of more concern than the level of failure are the reasons for failure. Possibilities include: technical problems, bad timing, misunderstanding the consumer, actions by competitors, and
+Before starting our discussion of the eight-step process of new product development, a necessary caveat should be considered: a great many new products fail. Depending on definitions used for products actually introduced, failure rates range between 20 per cent and 30 per cent, but have been as high as 80 per cent. Of more concern than the level of failure are the reasons for failure. Possibilities include: technical problems, bad timing, misunderstanding the consumer, actions by competitors, and
 
 misunderstanding the environment.
 
@@ -7978,8 +7764,6 @@ There are probably as many approaches to collecting new product ideas as there a
 New product ideas can come from anywhere and everywhere. It is
 
 exciting when a new product idea comes from out of the blue,
-
-[]{#calibre_link-358}224
 
 prototypes test well among consumers, and purchase interest scores
 
@@ -8058,10 +7842,7 @@ revealed that these consumers were not the least bit influenced by
 brand. Overall taste was the dominant factor. Second, a new
 
 chocolate product held the most promise. Of all flavors explored,
-
-[]{#calibre_link-186}![](images/000098.png){.calibre2}
-
-chocolate captivated consumers most. In fact, the ideal product is
+ chocolate captivated consumers most. In fact, the ideal product is
 
 chocolate filled chocolates with chocolate dipping sauce. 3
 
@@ -8145,8 +7926,6 @@ X
 "On Your Mark," *Entrepreneur*, April 1999, pp. 161-162; Laurie Freeman, "Brach's Fruit Snacks Shapes,"
 
 *Advertising Age*, June 28, 1999, pp. 5-7.
-
-[]{#calibre_link-359}226
 
 **-satisfaction**
 
@@ -8311,8 +8090,6 @@ X
 ### **be produced** {#be-produced .sigilnotintoc}
 
 **Table 7.1: Screening product ideas**
-{.calibre2}
-[]{#calibre_link-187}![](images/000100.png){.calibre2}
 
 **in existing**
 
@@ -8385,10 +8162,6 @@ A complete cost appraisal is also necessary as part of the business analysis. It
 
 * and management cost.
 
-[]{#calibre_link-188}![](images/000175.png){.calibre2} 
-
- 228
-
 **7.5.4.3.4 Step 4: Technical and Marketing Development** 
 
 
@@ -8411,10 +8184,6 @@ The product itself can be exposed to consumer taste or use tests. Packaging, lab
 
 Finally, manufacturing planning must consider the other areas of the organization and what is required of each. More specifically, they should determine how to secure the availability of required funds, facilities, and personnel at the intended time, as well as the methods of coordinating this effort.
 
-[]{#calibre_link-189}![](images/000103.png){.calibre2} 
-
- 229
-
 **7.5.4.3.6 Step 6: Marketing Planning** 
 
 
@@ -8434,8 +8203,6 @@ Initial product testing and test marketing are not the same. Product testing is 
 adjustment in the marketing mix before the product is introduced on a large scale.
 
 However, running test marketing is not without inherent risks. First, there are substantial costs in buying the necessary plant and machinery needed to manufacture the product or locating manufacturers willing to make limited runs. There are also promotional costs, particularly advertising, and personal selling. Although not always easy to identify, there are indirect costs as well. For example, the money used to test market could be used for other activities. The risk of losing consumer goodwill through the testing of an inferior product is also very real. Finally, engaging in a test market might allow competitors to become aware of the new product and quickly copy it.
-
-[]{#calibre_link-190}230
 
 Because of the special expertise needed to conduct test markets and the associated expenses, most manufacturers employ independent marketing research agencies
 
@@ -8509,8 +8276,6 @@ c. Make your site Web-friendly do not assume everyone is
 
 technically competent.
 
-[]{#calibre_link-191}![](images/000105.png){.calibre2}
-
 d. Spread the word publicize your Web address, offline as well as on
 
 the Net, by putting it everywhere you do business.
@@ -8567,8 +8332,6 @@ success? It is the purpose of the lifecycle marketing plan to answer this questi
 4. Sources: Sreenath Sreenivasan, "Wrestling with the Web," *Business Week*, May 24, 1999, pp. FI6; PeggyPulliam,
 
 "To Web or Not to Web," *Internet Marketing*, June 2000, pp. 37-41; Kara Swisher, "Reality Check," *The Wall Street* *Journal*, April 17, 2000, p. R19; Erin Strout, "Launching an E-Business," *Sales & Marketing Management*, July 2000, pp. 89-91.
-
-[]{#calibre_link-192}232
 
 **Review**
 
@@ -8640,8 +8403,6 @@ companies.
 
 Return to the **Front Section** and select **Starting a Business** under **Resources** in the left menu. This link sends you to the **Startup**
 
-[]{#calibre_link-193}![](images/000107.png){.calibre2}
-
 **Journal**, a site designed to provide new business with a variety of
 
 tools. Navigate the bar at the top of the site for information about
@@ -8697,11 +8458,7 @@ products.
 
  The ability of the organization to consistently produce new products and effectively manage existing products looms as one of the most important and difficult tasks faced by the company. This chapter provides an overview of the components that constitute a product, and the product planning process.
 
-The process begins with the task of defining the product. In order to provide an accurate portrayal of the product, it is important to consider the perspective of the consumer, the manufacturer, and the various publics. All three perspectives must be understood and satisfied. In addition, the three components of the product are discussed. The core product identifies what the consumer expects when purchasing the product. The tangible product is reflected in its quality level, features, brand name,
-
-[]{#calibre_link-360}234
-
-styling, and packaging. The augmented product is reflected by the services supporting the core/tangible product. The promised product suggests what the product delivers in the long term.
+The process begins with the task of defining the product. In order to provide an accurate portrayal of the product, it is important to consider the perspective of the consumer, the manufacturer, and the various publics. All three perspectives must be understood and satisfied. In addition, the three components of the product are discussed. The core product identifies what the consumer expects when purchasing the product. The tangible product is reflected in its quality level, features, brand name, styling, and packaging. The augmented product is reflected by the services supporting the core/tangible product. The promised product suggests what the product delivers in the long term.
 
 There are also several classification schemes that are useful in improving our understanding of the product into three categories: convenience, shopping, and specialty. A convenience good is one that requires a minimum amount of effort on the part of the consumer. In contrast, consumers want to be able to compare products categorized as shopping goods. Specialty goods are so unique, at least from the perspective of the consumer, that they will go to great lengths to seek out and purchase them.
 
@@ -8721,12 +8478,7 @@ New products can be acquired from several internal and external resources. The f
 
 products. Or they can use the external route: mergers and acquisitions, licenses and patents, and joint ventures.
 
-[]{#calibre_link-194}![](images/000108.png){.calibre2} 
-
- 235
-
-7.7 KEY TERMS {#key-terms-6 .calibre5}     - 
-
+7.7 KEY TERMS
 
  **Product** Anything, either tangible or intangible, offered by the firm as a solution to the needs and wants of the consumer, that is profitable or potentially profitable and meets the requirements of the various publics governing or influencing society.
 
@@ -8763,9 +8515,6 @@ temporary or permanent price change for a mature product?
 
 * How would you define the term "product"? Differentiate between the points of view of the manufacturer and the customer.
 
-[]{#calibre_link-195}![](images/000110.png){.calibre2} 
-
- 236
 
 * Distinguish between convenience goods, shopping goods, and specialty goods.
 
@@ -8804,8 +8553,6 @@ He admits that the Hershey packaging also has had an important consumer impact.
 According to Hershey sales figures, Hershey chocolate milk is the number-one
 
 chocolate milk in the country. These results are indeed admirable considering the gamble Hershey took with their chocolate milk. It was the first time Hershey had attempted to sell a premixed beverage or promote a product not under its direct control. Hershey is licensing the use of its name on the chocolate milk another big first for the company. Hershey sells powdered chocolate to large dairies which mix the product with their milk, package it, and handle distribution. Following strict standards, Hershey has selected only certain dairies to be licensed to use the Hershey chocolate powder and label. Each dairy must follow detailed specification on mixing. To make sure there are no slip-ups, Hershey has printed a toll-free telephone number for consumers to call if they have complaints about the chocolate milk.
-
-[]{#calibre_link-196}![](images/000113.png){.calibre2}
 
 For Hershey, the taste of success is sweet.
 
@@ -8854,15 +8601,7 @@ Stephanie Thompson, "Brand Buddies," *Brandweek*, February 23, 1998, pp. 22-30.
 
 86-87.
 
-[]{#calibre_link-361}238
-
 13. Abbie Griffin, "PDMA Research on New Product Development Practices: Updating Trends and Benchmarking Best Practices *," Journal of Product Innovation* Management, Vol. 14, November 1997, pp. 429-458.
-
-[]{#calibre_link-197}![](images/000114.png){.calibre2} 
-
- 239
-
-::: {.calibre6} :::
 
 Chapter 8 COMMUNICATING TO {#chapter-8-communicating-to .calibre5 title="Chapter 8 COMMUNICATING TO, **MASS MARKETS**"}         --
 
@@ -8906,11 +8645,7 @@ Express, has discovered an idea that is exactly what he is looking for something
 
 It's what we do best it's the Big Idea."
 
-This is one in a long string of big ideas. Big ideas that have turned American Express in what some experts say is the nation's top marketer. Big ideas like the "Interesting Lives" ad campaign, which taught corporate America a whole new way of selling to women. Promotion like the company's cause-related campaign to aid the restoration
-
-[]{#calibre_link-198}![](images/000116.png){.calibre2}
-
-of the Statue of Liberty that gave doing good deeds a gilt edge. Each time the credit card was used, the company made a donation, which netted USD 1.7 million for Miss Liberty and made millions for the company in fees from increased card use.
+This is one in a long string of big ideas. Big ideas that have turned American Express in what some experts say is the nation's top marketer. Big ideas like the "Interesting Lives" ad campaign, which taught corporate America a whole new way of selling to women. Promotion like the company's cause-related campaign to aid the restoration of the Statue of Liberty that gave doing good deeds a gilt edge. Each time the credit card was used, the company made a donation, which netted USD 1.7 million for Miss Liberty and made millions for the company in fees from increased card use.
 
 The ability of American Express to communicate to the public in new ways made it the most successful provider of credit cards, travel, and financial services. In 1993, the American Express card (the heart of the company's business) rang nearly USD 80
 
@@ -8947,8 +8682,6 @@ marketers. How can a marketer clearly and effectively communicate the story
 
 "Advertising Campaigns: Amex Unrivaled in Advenising Spending," *Financial Service Marketing*, Vol. 2, May 15, 2000, p. 8.
 
-[]{#calibre_link-199}![](images/000214.png){.calibre2}
-
 (message) in a society that is so over communicated that the typical consumer is both overwhelmed with the vast number of messages and annoyed at the thousands of
 
 messages that have no relevance whatsoever to that person's needs and wants? The amount of sameness, and the amount of communication clutter is so excessive, that the approach employed by American Express appears to be the only answer. Yet, as we have noted throughout this text, the needs and capabilities of marketers vary, and not all marketers are blessed with a creative genius like Jerry Walsh. Nor do all marketers require a multimillion dollar national advertising campaign in order to reach objectives. All marketers, however, must learn to communicate their strategy to their target market.
@@ -8964,11 +8697,7 @@ This chapter also provides a discussion of four of the IMC mix elements advertis
 
  The heart of every transactional exchange is communication between parties. The buyer seeks certain basic information about product features, price, quality, support service, reputation of the seller, and so forth. All this information is intended to assess how close each alternative is to meeting desired needs and wants. We seek
 
-information to reduce possible risk associated with the transaction. Presumably, the more solid the information we have, the more secure we feel in our decision. The seller also desires information. The seller wants to know whether you qualify as a buyer (i.e. do you really need the product and can you pay for it), which product features are important to you, what other choices you are considering, are you ready to buy, how much do you know about my product, and so forth. Therefore, all the parties enter a transaction with a whole set of questions they want answered. Some of these questions are quite explicit: "How much does it cost?" Others are quite vague and may almost be subconscious: "Will this product make me feel better about
-
-[]{#calibre_link-200}![](images/000218.png){.calibre2}
-
-myself?" All these decisions relate to the marketer's ability to integrate marketing communications.
+information to reduce possible risk associated with the transaction. Presumably, the more solid the information we have, the more secure we feel in our decision. The seller also desires information. The seller wants to know whether you qualify as a buyer (i.e. do you really need the product and can you pay for it), which product features are important to you, what other choices you are considering, are you ready to buy, how much do you know about my product, and so forth. Therefore, all the parties enter a transaction with a whole set of questions they want answered. Some of these questions are quite explicit: "How much does it cost?" Others are quite vague and may almost be subconscious: "Will this product make me feel better about myself?" All these decisions relate to the marketer's ability to integrate marketing communications.
 
 The primary role of IMC is to systematically evaluate the communication needs and wants of the buyer and, based on that information, design a communication strategy that will (a) provide answers to primary questions of the target audience, (b) facilitate the customer ability to make correct decisions, and (c) increase the probability that the choice they make most often will be the brand of the information provider, *i.e.* the sponsor or marketer.1 Marketers know that if they learn to fulfill this role, a lasting relationship with the customer can be established.
 
@@ -8989,11 +8718,7 @@ customer requests.
 
 Finally, there must be an acknowledgement that target customers may not be the same as target audiences. While the target market is concerned primarily with individuals who are users and potential users of the product, the target audience may encompass a much larger or smaller group of people. More specifically, the target audience includes all individuals, groups, and institutions that receive the marketing message and employ this information either as a basis for making a product decision or in some way employ it to evaluate the sponsoring business. Thus, the target market for E.P.T. pregnancy tests might be women between the ages of 18-34, with a college education; the target audience might also include parents of the youngest of these women, who either approve or disapprove of this product based on advertising
 
-messages, government agencies who assess the truthfulness of the product claims, and potential stockholders who determine the future success of the firm based on the perceived quality of the messages. IMC must identify all members of the target
-
-[]{#calibre_link-201}243
-
-audience and must consider how the communication strategy must change in
+messages, government agencies who assess the truthfulness of the product claims, and potential stockholders who determine the future success of the firm based on the perceived quality of the messages. IMC must identify all members of the target audience and must consider how the communication strategy must change in
 
 response to this membership.
 
@@ -9081,10 +8806,6 @@ what they are supposed to do: deliver a message or an incentive.
 
 The second part of the matrix is the impact we expect the activity to
 
-[]{#calibre_link-202}![](images/000223.png){.calibre2} 
-
- 244
-
 have short-term or long-term. What will be the basis for the
 
 measurement of the impact of the planned communications
@@ -9121,8 +8842,6 @@ will become a salient part of marketing communication. (More was said about IMC 
 
  Defining the concept of marketing communication (MC) is not an easy task, because in a real sense, everything the company does has communication potential. The price placed on a product communicates something very specific about the product. A company that chooses to distribute their products strictly through discount stores tells 2. Sources: Don E. Schultz, "A New IMC Mantra," *The Marketing News*, May 26, 1997, p. 8; Richard Linnett, "Full Court Press," *Adweek*, January 31, 2000, pp. 3-6; Don E. Schultz, "Structural Straight Jackets Stifle Integrated Success," *The Marketing News*, March 1, 1999, p. 8; Don E. Schultz, "How to Create Your Own Worst Enemy," *The* *Marketing News*, July 3, 2000, p. 10.
 
-[]{#calibre_link-362}245
-
 the consumer a great deal. Yet if all of these things are considered communication, the following definition is offered:
 
 *Marketing communication includes all the identifiable efforts on the part of the seller* *that are intended to help persuade buyers to accept the seller's message and store it* *in retrievable form.*
@@ -9149,8 +8868,6 @@ different forms, such as sales calls by a field representative (field selling), 
 
 purchasing and dealer effectiveness. These activities include displays, shows and exhibitions, demonstrations, and various nonrecurring selling efforts not in the ordinary routine. As the provision for an additional incentive to buy, these tools can be directed at consumers, the trade, or the manufacturer's own sales force.
 
-[]{#calibre_link-203}![](images/000235.png){.calibre2}
-
 8.5 THE OBJECTIVES OF MARKETING COMMUNICATION {#the-objectives-of-marketing-communication .calibre5}                 
 
 
@@ -9172,10 +8889,6 @@ In conclusion, effective marketing communication should present useful ideas
 
 (information) in a manner that makes them clearly understood (communicate), cause the consumer to believe the message is true (convince), and is as appealing or more appealing than the message delivered by competitors (compete).
 
-[]{#calibre_link-204}![](images/000346.png){.calibre2} 
-
- 247
-
 8.6 HOW WE COMMUNICATE {#how-we-communicate .calibre5}        - 
 
 
@@ -9196,7 +8909,7 @@ The *output subsystem* includes the messages and other behaviors produced by the
 
 physical behaviors. All of these become input (feedback) for other people and can have both intentional and unintentional effects on them.
 
-[]{#calibre_link-205}![](images/000350.png){.calibre2}
+![](images/000350.png)
 
 **Fig. 8.1: A model of human communication**
 
@@ -9229,9 +8942,6 @@ system that includes all the identifiable efforts on the part of the
 seller that are intended to help persuade buyers to accept the
 
 seller's message and store it in retrievable form.
-
-[]{#calibre_link-206}![](images/000294.png){.calibre2} 
-
 
 * The four components that make up marketing communication are:
 
@@ -9276,12 +8986,7 @@ communicate, convince, and compete.
 **8.6.1.1.2 Organizational Communication Systems** 
 
 
- The organizational communication context represents a much more complex system than interpersonal communication. Examples include a bank, a factory, a retail store, or the government attempting to communicate with one another. These systems
-
-[]{#calibre_link-207}![](images/000338.png){.calibre2} 
-
-
-include a large collection of subsystems, all organized around a common goal(s).
+ The organizational communication context represents a much more complex system than interpersonal communication. Examples include a bank, a factory, a retail store, or the government attempting to communicate with one another. These systems include a large collection of subsystems, all organized around a common goal(s).
 
 Interactive technology has changed these types of systems in a dramatic way.
 
@@ -9314,20 +9019,16 @@ cannot be telling a customer one story and stockholders another. The flow of
 
 marketing communication is depicted in [Figure 8.2.](#calibre_link-208)
 
-[]{#calibre_link-208}![](images/000363.png){.calibre2} 
-
- 251
+![](images/000363.png)
 
 **Fig. 8.2: The flow of marketing communication**
 
 8.7 DESIGNING AN IMC STRATEGY {#designing-an-imc-strategy .calibre5}          -- 
 
 
- The design of an effective IMC strategy is a very difficult and time-consuming process that requires the efforts of many members of the marketing staff. Although there has been a great deal of variety in designing this process, the steps depicted in [Figure 8.3](#calibre_link-306)
+ The design of an effective IMC strategy is a very difficult and time-consuming process that requires the efforts of many members of the marketing staff. Although there has been a great deal of variety in designing this process, the steps depicted in [Figure 8.3] are most common.
 
-are most common.
-
-[]{#calibre_link-306}![](images/000365.png){.calibre2}
+![](images/000365.png)
 
 **Fig. 8.3: The IMC Strategy**
 
@@ -9339,7 +9040,7 @@ Although the ultimate buyer behavior desired is product purchase, several
 
 intermediate responses may prove important as well. Examples of these intermediate responses are shown in [Figure 8.4](#calibre_link-307).
 
-[]{#calibre_link-307}![](images/000401.png){.calibre2}
+![](images/000401.png)
 
 **Fig. 8.4: Goals of integrated marketing communication.**
 
@@ -9356,8 +9057,6 @@ effectively when moving with the current consumer demand rather than against it.
 Companies such as IBM have been actively promoting their business computers,
 
 which are increasing in popularity, rather than home computers, which are not doing as well.
-
-[]{#calibre_link-308}254
 
 The third consideration is *selecting the target audience* for the IMC. This is undoubtedly the most important factor in the IMC strategy, yet it is probably the issue that many companies slight or overlook entirely. Marketing messages must be directed at the specific target for which the overall marketing program is being designed. However, very seldom is there a single group of consumers at which to direct promotion. Many individuals affect the buying process, and the IMC program must be designed to reach all of them. In addition to the primary purchasers and users of the product, individuals who influence the purchase decision must also be considered. For example,
 
@@ -9423,8 +9122,6 @@ objectives and sum amounts
 
 **Table 8.1: Summary of techniques: setting the IMC budget**
 
-[]{#calibre_link-209}![](images/000369.png){.calibre2}
-
 Once you decide how much to spend, the amounts to be spent on personal selling, advertising, publicity, and sales promotion must be decided. After determining the major allocations, each of these figures must be broken down into much finer
 
 increments. For example, the advertising budget must be reallocated by media
@@ -9452,8 +9149,6 @@ promotion plans. The same is true for public relations.
 
 * *Nature of the product*: The basic characteristics of product (highly technical) suggest the need for demonstration and explanation through personal selling, or mass advertising in the case of a product with emotional appeal (perfume).
 
-[]{#calibre_link-210}![](images/000372.png){.calibre2}
-
 * *Place in the product lifecycle*: Products in the introductory stage in the life cycle often need mass advertising and sales promotion, those in maturity need
 
 personal selling, and those in decline employ sales promotion.
@@ -9475,11 +9170,7 @@ A campaign revolves around a theme *,* a central idea or focal point. This theme
 
 In a successfully operated campaign, the efforts of all groups concerned will be meshed effectively. The advertising program will consist of a series of related, well-timed, carefully placed ads. The personal selling effort can be tied in by having the sales person explain and demonstrate the product benefits stressed in ads. Also, the sales force will be fully informed about the advertising part of the campaign the theme, media used, schedule of appearance of ads, appeals used, *etc.* The sales force will also inform the middlemen, *i.e.* wholesalers and retailers, about this campaign, and convince them to incorporate it into their total marketing effort. Sales
 
-promotional devices will be coordinated with the other aspects of the campaign. For each campaign, new display materials must be prepared, reflecting the ads and
-
-[]{#calibre_link-211}257
-
-appeals used in the current campaign, in order to maximize the campaign's impact at the point of sale. Personnel responsible for the physical distribution activities must ensure that adequate stocks of the product are available in all outlets prior to the start of the campaign. Finally, people working in public relations must be constantly kept aware of new products, product demonstrations, new product applications, and so forth. Of course, it is extremely important to provide enough lead time so that the public relations effort can take advantage of optimum timing.
+promotional devices will be coordinated with the other aspects of the campaign. For each campaign, new display materials must be prepared, reflecting the ads and appeals used in the current campaign, in order to maximize the campaign's impact at the point of sale. Personnel responsible for the physical distribution activities must ensure that adequate stocks of the product are available in all outlets prior to the start of the campaign. Finally, people working in public relations must be constantly kept aware of new products, product demonstrations, new product applications, and so forth. Of course, it is extremely important to provide enough lead time so that the public relations effort can take advantage of optimum timing.
 
 **Review**
 
@@ -9523,10 +9214,6 @@ communication efforts built around a single theme or idea and
 
 designed to reach a predetermined goal.
 
-[]{#calibre_link-212}![](images/000375.png){.calibre2} 
-
- 258
-
 8.8 UNDERSTANDING ADVERTISING {#understanding-advertising .calibre5}          -- 
 
 
@@ -9558,9 +9245,6 @@ advertising agency, if any agency is used;
 * who in the organization has the authority to develop advertising work and/or approves the advertising programs presented by the advertising agency;
 
 * who pays the advertising bill;
-
-[]{#calibre_link-213}![](images/000001.png){.calibre2} 
-
 
 * who determines the extent to which advertisements help reach the stated
 
@@ -9597,11 +9281,7 @@ Clients employ advertising agencies because they believe that the agency can: (a
 **8.8.3 Developing the Creative Strategy** 
 
 
- Once all the relevant facts are gathered and evaluated, the process of actually creating the advertisement is appropriate. This process is very complex, and a complete
-
-[]{#calibre_link-309}260
-
-description of it is well beyond the scope of this book. However, it is possible to highlight the primary parts of this process.
+ Once all the relevant facts are gathered and evaluated, the process of actually creating the advertisement is appropriate. This process is very complex, and a complete description of it is well beyond the scope of this book. However, it is possible to highlight the primary parts of this process.
 
 To begin with, the person or persons actually responsible for the complete
 
@@ -9672,10 +9352,6 @@ most popular is an appeal that has been around
 for a long time.
 
 **Table 8.2: Primary advertising appeals**
-
-[]{#calibre_link-214}![](images/000385.png){.calibre2} 
-
- 261
 
 Generic
 
@@ -9758,8 +9434,6 @@ The standard media plan consists of four stages: (a) stating media objectives; (
 
 
  Media objectives are normally started in terms of three dimensions:
-
-[]{#calibre_link-215}![](images/000021.png){.calibre2}
 
 * *Reach:* number of different persons or households exposed to a particular media vehicle or media schedule at least once during a specified time period.
 
@@ -9861,8 +9535,6 @@ time
 message
 
 **Table 8.3: An appraisal of mass media**
-
-[]{#calibre_link-363}263
 
 **Type**
 
@@ -10026,9 +9698,6 @@ calendars, etc.)
 
 **Table 8.3: An appraisal of mass media**
 
-[]{#calibre_link-216}![](images/000388.png){.calibre2} 
-
-
 **Type**
 
 **Strengths**
@@ -10078,8 +9747,6 @@ viewer reports of the programs watched, while outdoor audience exposure estimate
 
  Before leaving the topic of advertising, both creative and media, it is important to introduce a new form of advertising  *banner advertising.* Banner ads are the dominant form of online advertising. Banner ads are graphic images in Web pages that are often animated and can include small pieces of software code to allow further interaction.
 
-[]{#calibre_link-217}![](images/000032.png){.calibre2}
-
 Most importantly, they are "clickable", and take a viewer to another Web location when chosen.
 
 Banner ads typically run at the top and bottom of the page, but they can be
@@ -10107,8 +9774,6 @@ organization and across situations, sales promotion is often viewed as a catchal
 
 Public relations, too, is difficult to define as it deals with the ultimate intangible creating a positive image of the company. Not only is this difficult to accomplish, but it is also virtually impossible to ascertain if you have succeeded and to what extent. An organization, for instance, might sponsor a free barbecue for a Fourth of July celebration in the US and never really know if the money spent produced additional business. Management has a difficult time appreciating an activity that produces indirect results.
 
-[]{#calibre_link-218}![](images/000035.png){.calibre2}
-
 **8.9.1 Sales Promotion: A Little Bit of Everything** 
 
 
@@ -10122,7 +9787,7 @@ As in most aspects of marketing, the rationale of sales promotion is to provide 
 
 The same sort of problem comes up when studying strategies run by firms in service industries. If a hotel offers cut-price accommodations at off-peak times of the year, is it a feature of the hotel management's pricing policy or is it a promotional tactic? If the hotel management provides price reductions on tickets to local theaters for their guests, is it part of the product or is it a device to attract customers for a limited period only? Again, answer can only be given once the question about performance is asked. Even then, there still tend to be elements of advertising, personal selling, public relations and sales promotion in many promotional vehicles, and this may be the right approach. A candy manufacturer, for instance, has made substantial contributions of both cash and products to the local heart fund telethon. Immediately following the telethon, they run a full-page ad in several magazines describing their contributions, and describing a special rebate of USD .05 for every candy wrapper mailed in. The USD .05 can be donated to the heart fund if the customer wishes. The sales reps also have copies of this promotion to show their customers. Clearly, this strategy has all four components of the IMC mix.
 
-[]{#calibre_link-219}![](images/000337.png){.calibre2} 
+![](images/000337.png)
 
 
 **Fig. 8.5: Here's an excellent example of a sales promotion**
@@ -10133,8 +9798,6 @@ The same sort of problem comes up when studying strategies run by firms in servi
 
 
  There are a great many techniques that are considered sales promotion. One way of organizing this myriad of techniques is in terms of audience. As shown in [Table 8.4](#calibre_link-310),
-
-[]{#calibre_link-310}268
 
 sales promotions are directed at consumers, employees, distributors, and dealers.
 
@@ -10234,10 +9897,6 @@ prizes, or awards
 
 **Table 8.4: Types of sales promotion techniques**
 
-[]{#calibre_link-220}![](images/000342.png){.calibre2} 
-
- 269
-
 **Audience/**
 
 **Technique**
@@ -10283,7 +9942,7 @@ discounts, goods, or cash
 
 **Fig. 8.7: StartSampling offers its more than 1.5 million members the chance to try a wide variety of** **samples while helping marketers more effectively connect with their target audience.**
 
-[]{#calibre_link-319}![](images/000247.png){.calibre2}
+![](images/000247.png)
 
 **Fig. 8.8: Both StartSampling and FreeSamples.com have systems in place to prevent inventory** **depletion.**
 
@@ -10302,10 +9961,6 @@ The definition that encompasses all these considerations, and was coined at the 
 *implementing planned programs of action, which serve both the*
 
 *organizations and the public interest.7 "*
-
-[]{#calibre_link-221}![](images/000348.png){.calibre2} 
-
- 271
 
 **8.9.2.1 Public Relation's Publics** 
 
@@ -10331,13 +9986,11 @@ techniques. Public relations is different than any other type of promotion, beca
 
 reprocessed through a third party that is not employed by the company. Therefore, if I wished for the local newspaper and television station to carry a story detailing the grand opening of my new store, I have no guarantee that either will send
 
-[]{#calibre_link-320}![](images/000351.png){.calibre2}
+![](images/000351.png)
 
 representatives to cover the store opening or that they will cover it the way I would have liked. Even if I were to write the story myself and send it to the newspaper, including appropriate photographs, the editor might choose not to print it or to modify it. The fact that PR is characterized by a low level of control necessitates that PR people establish a positive relationship with the various media. Without first accomplishing this goal, the tools employed by the PR person are usually doomed to failure. Various public relations techniques are described in the [Table 8.5](#calibre_link-311).
 
 **Fig. 8.9: The Catholic Campaign for Human Development is hoping to convey the message that one in** **nine Americans lives below poverty line.**
-
-[]{#calibre_link-311}273
 
 **Technique**
 
@@ -10429,8 +10082,6 @@ publics
 
 **Table 8.5: Public relations techniques**
 
-[]{#calibre_link-222}![](images/000352.png){.calibre2}
-
 **Review**
 
 * Advertising is the marketing communication technique that
@@ -10472,7 +10123,7 @@ Don Schultz, a professor of marketing and proponent of IMC at Northwestern
 
 University in Illinois, USA, supports this notion of the modern salesperson. "If you create long-term affiliations, then you don't sell. You form relationships that help people buy." He observes that because products have become more sophisticated, the businesses that buy are often smaller than those that sell. "Today, I think the sales force is primarily focused on learning about the product and not about the market.
 
-[]{#calibre_link-321}![](images/000326.png){.calibre2}
+![](images/000326.png)
 
 We're talking about flipping that around," he concludes. In short, effective personal selling must focus on customer relationships.
 
@@ -10487,8 +10138,6 @@ The underlying rationale for personal selling is facilitating exchange. As sugge
 "non-manipulative selling", and the emphasis of this view is that selling should build mutual trust and respect between buyer and seller. Benefit must come to both
 
 parties. This perspective is developed further in the integrated marketing box that follows.
-
-[]{#calibre_link-223}276
 
 **Integrated marketing**
 
@@ -10574,8 +10223,6 @@ improve the way they do business. 3
 
 4-5; Diana Ray, "Value-based Selling," *Selling Power*, September 1999, pp. 30-33; Rochelle Garner, "The Ties That Bind," *Sales & Marketing Management*, October 1999, pp. 71-74.
 
-[]{#calibre_link-224}![](images/000349.png){.calibre2}
-
 **8.9.3.1 Types of Selling** 
 
 
@@ -10653,7 +10300,7 @@ Service selling involves the following participants:
 
 * *Route or merchandising salesperson:* predominantly an order taker, but works in the field; for example, the soap or spice salesperson calling on retailers.
 
-[]{#calibre_link-312}![](images/000361.png){.calibre2}
+![](images/000361.png)
 
 * *Missionary salesperson:* position where the salesperson is not expected or permitted to take an order but to build goodwill or to educate the actual or
 
@@ -10683,9 +10330,6 @@ organization, usually a committee, only one of whom can say yes, but all of whom
 
 While the developmental-service and oriented classifications are helpful to better our understanding of the selling job, there are several other traditional classifications.
 
-[]{#calibre_link-225}![](images/000017.png){.calibre2} 
-
-
 **8.9.3.1.1 Inside Versus Outside Selling** 
 
 
@@ -10706,17 +10350,14 @@ While the developmental-service and oriented classifications are helpful to bett
 
  To better understand the job of a salesperson and how it should be managed, the selling process can be broken into a series of steps. Each step in the process may not be required to make every sale, but the salesperson should become skilled in each area in case it is needed. The steps are shown in [Figure 8.12.](#calibre_link-313)
 
-[]{#calibre_link-313}![](images/000413.png){.calibre2}
+![](images/000413.png)
 
 **Fig. 8.12: The selling process: steps involved.**
 
 **Prospecting.** *Prospecting* is defined as the seller's search for, and identification of, qualified potential buyers of the product or service. Prospecting can be thought of as a two stage process: (1) identifying the individuals and/or the organizations that might be prospects, and (2) screening potential prospects against evaluative qualifying criteria. Potential prospects that compare favorably to the evaluative criteria can then be classified as qualified prospects.
 
-**Preapproach.** After the prospect has been qualified, the salesperson continues to gather information about the prospect. This process is called the preapproach. The preapproach can be defined as obtaining as much relevant information as possible regarding the prospect prior to making a sales presentation. The knowledge gained during the preapproach allows the tailoring of the sales presentation to the particular prospect. In many cases, salespeople make a preliminary call on the prospect for the purpose of conducting the preapproach. This is perfectly acceptable, and most professional buyers understand that such a call may be necessary before a
+**Preapproach.** After the prospect has been qualified, the salesperson continues to gather information about the prospect. This process is called the preapproach. The preapproach can be defined as obtaining as much relevant information as possible regarding the prospect prior to making a sales presentation. The knowledge gained during the preapproach allows the tailoring of the sales presentation to the particular prospect. In many cases, salespeople make a preliminary call on the prospect for the purpose of conducting the preapproach. This is perfectly acceptable, and most professional buyers understand that such a call may be necessary before a presentation can be made.
 
-presentation can be made.
-
-[]{#calibre_link-364}281
 
 **Planning the presentation.** Regardless of the sales situation, some planning should be done before the sales presentation is attempted. The amount of planning that will be necessary and the nature of the planning depend on many factors, including: (a) the objective or objectives of the presentation, (b) how much knowledge the
 
@@ -10743,8 +10384,6 @@ Salespeople can overcome objections by following certain guidelines including vi
 There may be several opportunities to attempt to close during a presentation, or opportunity may knock only once. In fact, sometimes opportunities to close may not present themselves at all and the salesperson must create an opportunity to close.
 
 Situations where a closing attempt is logical include:
-
-[]{#calibre_link-226}![](images/000422.png){.calibre2}
 
 * when a presentation has been completed without any objectives from the
 
@@ -10795,8 +10434,6 @@ salesperson, salesperson engaged in multiple sales.
 
  Personal selling has several important advantages and disadvantages compared with the other elements of marketing communication mix (see [Table 8.6](#calibre_link-224)). Undoubtedly, the most significant strength of personal selling is its flexibility. Salespeople can tailor their presentations to fit the needs, motives, and behavior of individual customers. As salespeople see the prospect's reaction to a sales approach, they can immediately adjust as needed.
 
-[]{#calibre_link-365}283
-
 Personal selling also minimizes waste effort. Advertisers typically expend time and money to send a mass message about a product to many people outside the target market. In personal selling, the sales force pinpoints the target market, makes a contact, and expends effort that has a strong probability of leading to a sale.
 
 Consequently, an additional strength of personal selling is that measuring
@@ -10821,11 +10458,7 @@ Companies can also reduce sales costs by using complementary techniques, such as
 
 Another disadvantage of personal selling is the problem of finding and retaining high quality people. First, experienced salespeople sometimes realize that the only way their income can outpace their cost-of-living increase is to change jobs. Second, because of the push for profitability, businesses try to hire experienced salespeople away from competitors rather than hiring college graduates, who take three to five years to reach the level of productivity of more experienced salespeople. These two staffing issues have caused high turnover in many sales forces.
 
-Another weakness personal selling is message inconsistency. Many salespeople view themselves as independent from the organization, so they design their own sales techniques, use their own message strategies, and engage in questionable ploys to create a sale. Consequently, it is difficult to find a unified company or product
-
-[]{#calibre_link-227}![](images/000373.png){.calibre2}
-
-message within a sales force, or between the sales force and the rest of the marketing communication mix.
+Another weakness personal selling is message inconsistency. Many salespeople view themselves as independent from the organization, so they design their own sales techniques, use their own message strategies, and engage in questionable ploys to create a sale. Consequently, it is difficult to find a unified company or product message within a sales force, or between the sales force and the rest of the marketing communication mix.
 
 A final weakness is that sales force members have different levels of motivation.
 
@@ -10850,11 +10483,7 @@ Procter & Gamble is one company that has adopted the team approach. P&G has 22
 
 sales executives who coordinate the sales effort of various P&G divisions in their assigned market areas. Each manager coordinates key account teams composed of sales executives from P&G's grocery division. As many as three key account teams may sell in each market. The marketing manager supervises a logistics team
 
-composed primarily of computer systems and distribution executives. The team works closely with retailers to develop mutually compatible electronic data and distribution
-
-[]{#calibre_link-228}285
-
-systems. P&G hopes the team approach will reduce the pressure for trade promotions because the team provides greater service to resellers.
+composed primarily of computer systems and distribution executives. The team works closely with retailers to develop mutually compatible electronic data and distribution systems. P&G hopes the team approach will reduce the pressure for trade promotions because the team provides greater service to resellers.
 
 Salespeople of the future will have to adjust to new forms of competition. With the increased capabilities and greater use of direct marketing, for example, salespeople must recognize that some customers will buy a product without contact with a
 
@@ -10911,8 +10540,6 @@ they can boost your productivity.
 job, so it pays to spend a little more for equipment that will not let
 
 you down. Carefully assess your technology needs, then shop around
-
-[]{#calibre_link-229}286
 
 for equipment that meets those needs without a lot of bells and
 
@@ -11000,8 +10627,6 @@ relevant sites for additional information. Identify the marketing
 
 "How to Move Customers Online," *Sales & Marketing Management*, March 2000, pp. 27-28; Neil Rackman, "The Other Revolution in Sales," *Sales & Marketing Management*, March 2000, pp. 34-35.
 
-[]{#calibre_link-230}![](images/000377.png){.calibre2}
-
 communication strategies the company uses and argue their
 
 effectiveness. Support your conclusions with facts and chapter
@@ -11035,11 +10660,7 @@ Sales promotion and public relations are two components that are both
 
 misunderstood and misused. The second part of this chapter develops some basic concepts related to both strategies. Reasons for sales promotion and types of sales promotion are discussed. Public relation is viewed in terms of its two publics, internal and external. Several techniques used to reach these publics are proposed.
 
-Professional selling has been defined as personal contact aimed at successfully persuading prospects to buy products or services from which they can derive suitable benefits. Selling is a major force in our economy, both in terms of employment and its impact on the success of various organizations. The product, customer, competition,
-
-[]{#calibre_link-231}![](images/000378.png){.calibre2}
-
-and environment must all be considered in determining the relative emphasis to place on personal selling in the promotional mix. The activities of a salesperson can be broken into a series of steps called the sales process. Not all of the steps are required for every sale, but the complete process includes prospecting, preapproach, planning the presentation, delivering the presentation, handling objectives, closing, and follow-up.
+Professional selling has been defined as personal contact aimed at successfully persuading prospects to buy products or services from which they can derive suitable benefits. Selling is a major force in our economy, both in terms of employment and its impact on the success of various organizations. The product, customer, competition, and environment must all be considered in determining the relative emphasis to place on personal selling in the promotional mix. The activities of a salesperson can be broken into a series of steps called the sales process. Not all of the steps are required for every sale, but the complete process includes prospecting, preapproach, planning the presentation, delivering the presentation, handling objectives, closing, and follow-up.
 
 8.11 KEY TERMS {#key-terms-7 .calibre5}     -- 
 
@@ -11071,8 +10692,6 @@ resources and lead consumers to engage in behavior that may not be in their best
 **Rebates** A refund of a fixed amount of money for a certain amount of time.
 
 **Premium offers** A tangible reward received for performing a particular act, usually purchasing a product.
-
-[]{#calibre_link-232}![](images/000003.png){.calibre2}
 
 **Consumer sampling** Getting the physical product into the hands of the consumer.
 
@@ -11108,10 +10727,6 @@ implementing planned programs of action that serve both the organization's and t
 * Assume that top management for General Equipment, Inc. hired you to
 
 determine if promotional opportunity exists for a fabricated part that has been developed for heavy-duty equipment. What criteria would you use as a basis of investigation?
-
-[]{#calibre_link-233}![](images/000007.png){.calibre2} 
-
- 290
 
 * Define the phrase "sales promotion". Cite some examples of how sales promotion can supplement or complement the other components of the IMC
 
@@ -11151,11 +10766,7 @@ responsibilities should be mentioned in the job description for this position?
 **8.14.1 THE MICRORECORDER** 
 
 
- One of the fastest growing industries in the United States in the past ten years has been the direct marketing of a wide variety of consumer goods and services. Today it is not unusual for most of us to shop by mail (or use some other form of direct marketing) for almost anything imaginable. Among the most well-known and
-
-[]{#calibre_link-366}291
-
-successful direct marketers is Neiman Marcus, a retail department store that also discovered the additional profits of selling such unusual gifts as elephants, airplanes and USD 1,000 boxes of chocolate candy all by mail.
+ One of the fastest growing industries in the United States in the past ten years has been the direct marketing of a wide variety of consumer goods and services. Today it is not unusual for most of us to shop by mail (or use some other form of direct marketing) for almost anything imaginable. Among the most well-known and successful direct marketers is Neiman Marcus, a retail department store that also discovered the additional profits of selling such unusual gifts as elephants, airplanes and USD 1,000 boxes of chocolate candy all by mail.
 
 However, Neiman Marcus is certainly not alone. There are literally thousands of companies selling via direct marketing. One of these companies is American Import Corporation. American Import was started in 1969 by Tom and Sally Struven. They started their business by importing a line of Japanese-made sports watches and selling them for USD 29.95 with advertisements in *The Wall Street Jour, The Rotarian, Elks* *Magazine,* and the *Legionnoire*. At that time, comparable watches were retailing for USD 49.95 to USD 79.95. The Struvens were successful, and in the next few years they continued to expand their product lines, compiled their own customer list, and eventually issued a shopping catalog. Although the catalog was successful, they discovered the most successful way to introduce a new item was to advertise it separately.
 
@@ -11180,8 +10791,6 @@ advertising campaign in *Barron's,* the *Wall Street Journal,* the *New York Tim
 The Struvens were very excited about the sales prospects of their new micro-recorder, and while the media portion of their advertising campaign was rather obvious, they could not decide on the best creative approach for the product.
 
 Several possible themes came to mind. For example, should the product be sold on the basis of its comparatively low price? Its simplicity of operation? Its flexibility of use?
-
-[]{#calibre_link-234}![](images/000016.png){.calibre2}
 
 Its size/convenience? Perhaps they should use a competitive-comparison strategy?
 
@@ -11220,12 +10829,6 @@ The products had arrived from Korea. The media schedule had been set. Shipping p
 
 9. Don E. Schultz, "Make Communications Worth the Profits," *The Marketing News*, January 15, 2001, p. 13.
 
-[]{#calibre_link-235}![](images/000387.png){.calibre2} 
-
- 293
-
-::: {.calibre6} :::
-
 Chapter 9 PRICING THE PRODUCT {#chapter-9-pricing-the-product .calibre5}          -- 
 
 
@@ -11260,10 +10863,6 @@ Well, McDonald's executives should have realized that there is, in fact, a bette
 
 Apparently they took no notice of the fallout when Phillip Morris announced deep cuts on "Marlboro Friday," or of "Grape Nuts Monday", when the Post unit of Kraft Foods kicked off a cereal price war. Predictably, "Hamburger Wednesday" sent investors on a Big Mac attack, slicing 9 per cent off McDonald's share price in three days and dragging rival fast-food issues down with it. "It looks almost desperate," says Piper Jaffray, Inc. analyst Allan Hickok of the USD 0.55 come-on. Adds Damon Brundage of NatWest Securities Corporation: "They have transformed one of the great brands in American business into a commodity."
 
-[]{#calibre_link-236}![](images/000026.png){.calibre2} 
-
- 294
-
 In theory, McDonald's plan will payoff, because customers only get the discount if they buy a drink and french-fries, too. Yet that gimmick-within-a-gimmick threatens to undermine pricier "Extra Value Meals," one of the most successful marketing initiatives. Consumers expecting cut-rate combos will not go back to paying full price, especially if other fast-feeders discount their package deals. 1
 
 9.2 INTRODUCTION {#introduction-8 .calibre5}      - 
@@ -11284,9 +10883,6 @@ effective pricing is the same as the key to effective product, distribution, and
 
 1. Sources: Greg Burns, "McDonald's: Now, It's Just Another Burger Joint," *Business Week*, March 17, 1997, pp. 3-8; Bill McDowell, "McDonald's Falls Back to Price-Cutting Tactics," *Advertising Age*, 3, 1997, pp. 5-7; Michael Hirsch, ''The Price is Right," *Time*, February 10, 1997, p. 83; Louise Kramer, "More-Nimble McDonald's is Getting Back on Track," *Advertising* *Age*, January 18, 1999, p. 6; David Leonhardt, "Getting Off Their McButts," *Business Week*, February 22, 1999, pp. 84-85; Bruce Horovitz, "Fast-Food Facilities Face Sales Slowdown," *USA Today*, Wednesday, February 21 , 2001, p. 3B.
 
-[]{#calibre_link-237}![](images/000393.png){.calibre2} 
-
- 295
 
 **9.3.1 The Customer's View of Price** 
 
@@ -11302,10 +10898,6 @@ Therefore, for the business to increase value (i.e. create the competitive advan
 alternative. Computer manufacturers now compete on value-added components such as free delivery setup, training, a 24-hour help line, trade-in, and upgrades.
 
 Perceived costs include the actual dollar amount printed on the product, plus a host of additional factors. As noted, these perceived costs are the mirror-opposite of the benefits. When finding a gas station that is selling its highest grade for USD 0.06 less per gallon, the customer must consider the 16 mile (25.75 kilometer) drive to get there, the long line, the fact that the middle grade is not available, and heavy traffic.
-
-[]{#calibre_link-238}![](images/000396.png){.calibre2} 
-
- 296
 
 Therefore, inconvenience, limited choice, and poor service are possible perceived costs. Other common perceived costs include risk of making a mistake, related costs, lost opportunity, and unexpected consequences, to name but a few. A new cruise traveler discovers he or she really does not enjoy that venue for several reasons e.g.
 
@@ -11337,9 +10929,7 @@ As a seller changes the price requested to a lower level, the product or service
 
 Additionally, a lower price may cause buyers to shift purchases from competitors,
 
-[]{#calibre_link-239}![](images/000403.png){.calibre2} 
-
- 297
+![](images/000403.png)
 
 assuming that the competitors do not meet the lower price. If primary demand does not expand and competitors meet the lower price the result will be lower total revenue for all sellers.
 
@@ -11352,11 +10942,7 @@ Federal Reserve determines interest rates charged by banks as well as the money 
 **9.3.2.2 Irrational Man Pricing: Freedom Rules** 
 
 
- There are simply too many examples to the contrary to believe that the economic assumptions posited under the rational man model are valid. Prices go up and people buy more. Prices go down and people become suspicious and buy less. Sometimes we simply behave in an irrational manner. Clearly, as noted in our earlier discussion on consumers, there are other factors operating in the marketplace. The ability of paying a price few other can afford may be irrational, but it provides important personal
-
-[]{#calibre_link-240}![](images/000405.png){.calibre2}
-
-status. There are even people who refuse to buy anything on sale. Or, others who buy everything on sale. Often businesses are willing to hire a USD 10,000 consultant, who does no more than a USD 5,000 consultant, simply to show the world they are
+ There are simply too many examples to the contrary to believe that the economic assumptions posited under the rational man model are valid. Prices go up and people buy more. Prices go down and people become suspicious and buy less. Sometimes we simply behave in an irrational manner. Clearly, as noted in our earlier discussion on consumers, there are other factors operating in the marketplace. The ability of paying a price few other can afford may be irrational, but it provides important personal status. There are even people who refuse to buy anything on sale. Or, others who buy everything on sale. Often businesses are willing to hire a USD 10,000 consultant, who does no more than a USD 5,000 consultant, simply to show the world they are
 
 successful.
 
@@ -11387,11 +10973,7 @@ product can represent a challenge, as there is often no historical basis for pri
 
 * Technology has led to existing products having shorter marketplace lives. New products are introduced to the market more frequently, reducing the "shelf life"
 
-of existing products. As a result, marketers face pressures to price products to recover costs more quickly. Prices must be set for early successes including fast sales growth, quick market penetration, and fast recovery of research and
-
-development costs.
-
-[]{#calibre_link-241}![](images/000407.png){.calibre2}
+of existing products. As a result, marketers face pressures to price products to recover costs more quickly. Prices must be set for early successes including fast sales growth, quick market penetration, and fast recovery of research and development costs.
 
 9.4 PRICING OBJECTIVES {#pricing-objectives .calibre5}        - 
 
@@ -11424,8 +11006,6 @@ Again, pricing strategy is one of the tools that is significant in creating and 
 
 convey the message to the community that the firm offers good value, that it is fair in its dealings with the public, that it is a reliable place to patronize, and that it stands behind its products and services.
 
-[]{#calibre_link-242}![](images/000126.png){.calibre2}
-
 **Review**
 
 * Price should be viewed from three perspectives:
@@ -11453,11 +11033,7 @@ convey the message to the community that the firm offers good value, that it is 
 
  While pricing a product or service may seem to be a simple process, it is not. As an illustration of the typical pricing process, consider the following quote: "Pricing is guesswork. It is usually assumed that marketers use scientific methods to determine the price of their products. Nothing could be further from the truth. In almost every case, the process of decision is one of guesswork."2
 
-Good pricing strategy is usually based on sound assumptions made by marketers. It is also based on an understanding of two other perspectives discussed earlier. Clearly, sale pricing may prove unsuccessful unless the marketer adopts the consumer's perspective toward price. Similarly, a company should not charge high prices if it hurts society's health. Hertz illustrates how this can be done in the "Integrated marketing"
-
-below.
-
-[]{#calibre_link-243}301
+Good pricing strategy is usually based on sound assumptions made by marketers. It is also based on an understanding of two other perspectives discussed earlier. Clearly, sale pricing may prove unsuccessful unless the marketer adopts the consumer's perspective toward price. Similarly, a company should not charge high prices if it hurts society's health. Hertz illustrates how this can be done in the "Integrated marketing" below.
 
 **Integrated marketing**
 
@@ -11543,10 +11119,6 @@ focus, they often price according to their own costs. Companies can
 
 profit from customizing prices to different customers. The value of a
 
-[]{#calibre_link-244}![](images/000412.png){.calibre2} 
-
- 302
-
 product can vary widely depending on factors such as age and
 
 location. 2
@@ -11561,9 +11133,6 @@ A pricing decision that must be made by all organizations concerns their competi
 **Fig. 9.3: An example of nonprice competition.**
 
 2. Sources: Ginger Conlon, "Making Sure the Price is Right," *Sales and Marketing Management*, May 1996, pp. 92-93; Thomas T. Nagle and Reed K. Holden, *The Strategy and Tactics of Pricing*, 2nd ed., Upper Saddle River, N.J.: Prentice Hall, Inc. 1995; William C. Symonds, "'Build a Better Mousetrap' is No Claptrap," *Business Week*, February 1, 1999, p. 47; Marcia Savage, "Intel to Slash Pentium II Prices," *Company Reseller News*, February 8, 1999, pp. 1, 10.
-
-[]{#calibre_link-245}![](images/000172.png){.calibre2} 
-
 
 Competing on the basis of price may also have a deleterious impact on company profitability. Unfortunately, when most businesses think about price competition, they view it as matching the lower price of a competitor, rather than pricing smarter. In fact, it may be wiser not to engage in price competition for other reasons. Price may simply not offer the business a competitive advantage (employing the value equation).
 
@@ -11587,10 +11156,6 @@ alternatives. It also contributes to the company's position. In general, a busin
 The keys to implementing a strategy of meeting competitive prices are an accurate definition of competition and a knowledge of competitor's prices. A maker of handcrafted leather shoes is not in competition with mass producers. If he/she attempts to compete with mass producers on price, higher production costs will make the
 
 business unprofitable. A more realistic definition of competition for this purpose would be other makers of handcrafted leather shoes. Such a definition along with a knowledge of their prices would allow a manager to put the strategy into effect. Banks shop competitive banks every day to check their prices.
-
-[]{#calibre_link-246}![](images/000212.png){.calibre2} 
-
- 304
 
 **9.5.2.1.2 Pricing Above Competitors** 
 
@@ -11618,13 +11183,7 @@ Another possible drawback when pricing below competition is the company's inabil
 
 How can companies cope with the pressure created by reduced prices? Some are
 
-redesigning products for ease and speed of manufacturing or reducing costly features
-
-[]{#calibre_link-247}![](images/000423.png){.calibre2} 
-
- 305
-
-that their customers do not value. Other companies are reducing rebates and
+redesigning products for ease and speed of manufacturing or reducing costly features that their customers do not value. Other companies are reducing rebates and
 
 discounts in favor of stable, everyday low prices (ELP). In all cases, these companies are seeking shelter from pricing pressures that come from the discount mania that has been common in the US for the last two decades.
 
@@ -11638,8 +11197,6 @@ discounts in favor of stable, everyday low prices (ELP). In all cases, these com
 **Fig. 9.4: Penetration and skimming: pricing strategies as they relate to the demand curve.**
 
 Which strategy is best depends on a number of factors. A penetration strategy would generally be supported by the following conditions: price-sensitive consumers, opportunity to keep costs low, the anticipation of quick market entry by competitors, a high likelihood for rapid acceptance by potential buyers, and an adequate resource base for the firm to meet the new demand and sales.
-
-[]{#calibre_link-248}306
 
 A skimming strategy is most appropriate when the opposite conditions exist. A premium product generally supports a skimming strategy. In this case, "premium"
 
@@ -11703,10 +11260,6 @@ as it becomes available in their areas. *3*
 
 *Advertising Age, August 2, 1999, pp. 12-13.*
 
-[]{#calibre_link-249}![](images/000428.png){.calibre2} 
-
- 307
-
 9.7 PRICE LINES {#price-lines .calibre5}       
 
 
@@ -11731,9 +11284,6 @@ system is suggested.
 
  Another pricing decision relates to the extent of price flexibility. A flexible pricing policy means that the price is bid or negotiated separately for each exchange. This is a common practice when selling to organizational markets where each transaction is typically quite large. In such cases, the buyer may initiate the process by asking for bidding on a product or service that meets certain specifications. Alternatively, a buyer may select a supplier and attempt to negotiate the best possible price. Marketing effectiveness in many industrial markets requires a certain amount of price flexibility.
 
-[]{#calibre_link-250}![](images/000433.png){.calibre2} 
-
- 308
 
 **9.8.1 Discounts and Allowances** 
 
@@ -11744,11 +11294,7 @@ system is suggested.
 
 **Fig. 9.5: A rebate can be a very effective price discount.**
 
-*Seasonal discounts* are price reductions given on out-of-season merchandise. An example would be a discount on snowmobiles during the summer. The intention of such discounts is to spread demand over the year. This can allow fuller use of
-
-[]{#calibre_link-251}309
-
-production facilities and improved cash flow during the year. Electric power
+*Seasonal discounts* are price reductions given on out-of-season merchandise. An example would be a discount on snowmobiles during the summer. The intention of such discounts is to spread demand over the year. This can allow fuller use of production facilities and improved cash flow during the year. Electric power
 
 companies use the logic of seasonal discounts to encourage customers to shift consumption to off-peak periods. Since these companies must have production
 
@@ -11795,10 +11341,6 @@ from under Priceline's established travel businesses.
 Priceline could soon face stiff competition from its own suppliers.
 
 Hyatt, Marriott, Starwood, and Cendant most of which sell excess
-
-[]{#calibre_link-252}![](images/000306.png){.calibre2} 
-
- 310
 
 hotel rooms through Priceline are having serious discussions about
 
@@ -11856,8 +11398,6 @@ meaning is often referred to as the *psychological aspect* of pricing. Inferring
 
 *3, 2000, p. J2; "Priceline teams up with 3 phone companies to sell long distance," Wall Street Journal, May 2000, p. 16.*
 
-[]{#calibre_link-367}311
-
 cost-of-production, raw material, or workmanship perspective, this may or may not be the case. The seller may be able to secure the higher price by nonprice means such as offering alterations and credit or the benefit to the buyer may be in meeting some psychological need such as ego enhancement. In some situations, the higher price may oe paid simply due to lack of information or lack of comparative shopping skills.
 
 For some products or services, the quantity demanded may actually rise to some extent as price is increased. This might be the case with an item such as a fur coat.
@@ -11878,7 +11418,7 @@ movement toward even pricing; however, odd pricing is still very common. A
 
 somewhat related pricing strategy is *combination pricing*. Examples are two-for-one, buy-one-get-one-free. Consumers tend to react very positively to these pricing techniques.
 
-[]{#calibre_link-253}![](images/000439.png){.calibre2}
+![](images/000439.png)
 
 **Fig. 9.6: Winning an award is a psychological aspect of price**
 
@@ -11908,10 +11448,6 @@ customers and/or under different situations.
 
 charges a total price that is lower than if they were sold separately.
 
-[]{#calibre_link-254}![](images/000441.png){.calibre2} 
-
- 313
-
 * Certain pricing strategies, such as prestige pricing, customary
 
 pricing, or odd pricing, play on the psychological perspectives of
@@ -11938,8 +11474,6 @@ When middlemen use the term *mark-up*, they are referring to the difference betw
 
 For example, a man's tie costs USD 4.60 and is sold for USD 8. The dollar mark-up is USD 3.40. The mark-up may be designated as a per cent of selling price or as a per cent of cost of the merchandise. In this example, the mark-up is 74 per cent of cost (USD 3.40/USD 4.60) or 42.5 per cent of the retail price (USD 3.40/USD 8).
 
-[]{#calibre_link-368}314
-
 There are several reasons why expressing mark-up as a percentage of selling price is preferred to expressing it as a percentage of cost. One is that many other ratios are expressed as a percentage of sales. For instance, selling expenses are expressed as a percentage of sales. If selling costs are 8 per cent, this means that for each USD
 
 100,000 in net sales, the cost of selling the merchandise is USD 8,000. Advertising expenses, operating expenses, and other types of expenses are quoted in the same way. Thus, there is a consistency when making comparisons in expressing all
@@ -11960,12 +11494,7 @@ distribution + USD 4.39 taxes + USD 7.50 mark-up (retailer) + USD 7.50 net margi
 
 Certainly costs are an important component of pricing. No firm can make a profit until it covers its costs. However, the process of determining costs and then setting a price based on costs does not take into consideration what the customer is willing to pay at the marketplace. As a result, many companies that have set out to develop a product have fallen victim to the desire to continuously add features to the product, thus adding cost. When the product is finished, these companies add some percentage to the cost and expect customers to pay the resulting price. These companies are often disappointed, as customers are not willing to pay this cost-based price.
 
-[]{#calibre_link-255}![](images/000445.png){.calibre2} 
-
- 315
-
 **9.11.2 Break-Even Analysis** 
-
 
  A somewhat more sophisticated approach to cost-based pricing is the break-even analysis. The information required for the formula for break-even analysis is available from the accounting records in most firms. The break-even price is the price that will produce enough revenue to cover all costs at a given level of production. Total cost can be divided into fixed and variable (total cost = fixed cost + variable cost). Recall that fixed cost does not change as the level of production goes up or down. The rent paid for the building to house the operation might be an example. No cost is fixed in the long run, but in the short run, many expenses cannot realistically be changed.
 
@@ -11982,13 +11511,7 @@ Assume, for example, that the firm with the costs illustrated in the previous ex
 
 information concerning the demand for the product at the desired price. It is assumed that all of the units will be sold at the price which provides the desired return.
 
-It would be necessary, therefore, to determine whether the desired price is in fact attractive to potential customers in the marketplace. If break-even pricing is to be used, it should be supplemented by additional information concerning customer perceptions of the relevant range of prices for the product. The source of this information would most commonly be survey research, as well as a thorough review
-
-[]{#calibre_link-256}![](images/000448.png){.calibre2} 
-
- 316
-
-of pricing practices by competitors in the industry. In spite of their shortcomings, break-even pricing and target return pricing are very common business practices.
+It would be necessary, therefore, to determine whether the desired price is in fact attractive to potential customers in the marketplace. If break-even pricing is to be used, it should be supplemented by additional information concerning customer perceptions of the relevant range of prices for the product. The source of this information would most commonly be survey research, as well as a thorough review of pricing practices by competitors in the industry. In spite of their shortcomings, break-even pricing and target return pricing are very common business practices.
 
 **9.11.4 Demand-Oriented Pricing** 
 
@@ -12020,8 +11543,6 @@ prices within a product category e.g. ketchup is typically worse. So *price know
 
 How much do you expect to pay for a large pizza? Color TV? DVD? Newspaper?
 
-[]{#calibre_link-369}317
-
 Swimming pool? These expectations create a phenomenon called "sticker shock" as exhibited by gasoline, automobiles, and ATM fees.
 
 A second factor influencing value-based pricing is *competitors*. As noted in earlier chapters, defining competition is not always easy. Of course there are like-category competitors such as Toyota and Nissan. We have already discussed the notion of pricing above, below, and at the same level of these direct competitors. However, there are also indirect competitors that consumers may use to base price
@@ -12045,8 +11566,6 @@ Ultimately, value-based pricing offers the following three tactical recommendati
 * Establish highest possible price level and justify it with comparable value.
 
 * Use price as a basis for establishing strong customer relationships.4
-
-[]{#calibre_link-257}![](images/000452.png){.calibre2}
 
 **Review**
 
@@ -12107,11 +11626,7 @@ consumer spending, it is important to understand economic
 
 indicators and their impact.
 
-The Business Focus section of Marketplace is a good resource for
-
-[]{#calibre_link-258}![](images/000454.png){.calibre2}
-
-articles that discuss various business marketing issues, including
+The Business Focus section of Marketplace is a good resource for articles that discuss various business marketing issues, including
 
 pricing.
 
@@ -12174,13 +11689,7 @@ in pricing?
 
 The objectives of price are five-fold: (a) survival, (b) profit, (c) sales, (d) market share, and (e) image. In addition, a pricing strategy can target to: meet competition, price above competition, and price below competition.
 
-Several pricing tactics were discussed. They include new product pricing, price lining, price flexibility, price bundling, and the psychological aspects of pricing. The chapter
-
-[]{#calibre_link-259}![](images/000455.png){.calibre2} 
-
- 320
-
-concludes with a description of the three alternative approaches to pricing: cost-oriented, demand-oriented, and value-based.
+Several pricing tactics were discussed. They include new product pricing, price lining, price flexibility, price bundling, and the psychological aspects of pricing. The chapter concludes with a description of the three alternative approaches to pricing: cost-oriented, demand-oriented, and value-based.
 
 9.14 KEY TERMS {#key-terms-8 .calibre5}     -- 
 
@@ -12222,10 +11731,6 @@ concludes with a description of the three alternative approaches to pricing: cos
 
 * Who typically has responsibility for setting prices in most organizations? Why?
 
-[]{#calibre_link-260}![](images/000459.png){.calibre2} 
-
- 321
-
 * Discuss the objectives which pricing policies can be established to accomplish.
 
 * What conditions are necessary if a "pricing above the competition" strategy is to be successful?
@@ -12260,11 +11765,7 @@ Cowing founded United Techtronics (UT) in Boston in 1959. Prior to that time, Co
 
 to manufacture and market products making use of some of the electronic inventions he had developed while at MIT. Sales were made mostly to the space program and the military.
 
-For a number of years, Cowing had been trying to reduce the company's dependency on government sales. One of the diversification projects that he had committed research and development monies to was the so-called video screen project. The objective of this project was to develop a system whereby a television picture could be
-
-[]{#calibre_link-370}322
-
-displayed on a screen as big as eight to ten feet diagonally. One of UT's engineers made the necessary breakthrough and developed working prototypes. Up to that
+For a number of years, Cowing had been trying to reduce the company's dependency on government sales. One of the diversification projects that he had committed research and development monies to was the so-called video screen project. The objective of this project was to develop a system whereby a television picture could be displayed on a screen as big as eight to ten feet diagonally. One of UT's engineers made the necessary breakthrough and developed working prototypes. Up to that
 
 point, UT had invested USD 600,000 in the project.
 
@@ -12296,13 +11797,7 @@ breakthrough. Cowing was unwilling to produce over 20,000 units a year in the fi
 
 Cowing wanted to establish a position in the consumer market for his product. He felt that the long-run potential was greater there than in the commercial market. With this end in mind, he hired a small economic research-consulting firm to undertake a consumer study to determine the likely reaction to alternative retail prices for the system. These consultants took extensive pricing histories of competitive products.
 
-They concluded that: "UT's video screen system would be highly price-elastic across a
-
-[]{#calibre_link-261}![](images/000400.png){.calibre2} 
-
- 323
-
-range of prices from USD 500 to USD 5,000 both in a primary and secondary demand sense." They went on to estimate the price elasticity of demand in this range to be between 4.0 and 6.5.
+They concluded that: "UT's video screen system would be highly price-elastic across a range of prices from USD 500 to USD 5,000 both in a primary and secondary demand sense." They went on to estimate the price elasticity of demand in this range to be between 4.0 and 6.5.
 
 Mr. Cowing was considering a number of alternative suggested retail prices. He said: "I can see arguments for pricing anywhere from above Advent's to substantially below Muntz's lowest price." A decision on pricing was needed soon.
 
@@ -12330,12 +11825,6 @@ Proceedings of the Southern Marketing Association 1975, pp. 55-57.
 160-162.
 
 **Fig. 9.7: A traditional retail ad.**
-
-[]{#calibre_link-262}![](images/000280.png){.calibre2} 
-
- 324
-
-::: {.calibre6} :::
 
 Chapter 10 CHANNEL CONCEPTS: {#chapter-10-channel-concepts .calibre5 title="Chapter 10 CHANNEL CONCEPTS:, **DISTRIBUTING THE PRODUCT**"}          -
 
@@ -12369,13 +11858,7 @@ Neighborhood Markets. Overall, they have more than 800,000 people working in mor
 
 Today, Wal-Mart is the largest seller of underwear, soap, toothpaste, children's clothes, books, videos, and compact discs. How can you challenge their Internet offerings that now number more than 500,000, with planned expansion of more than 3,000,000? Or the fact that Ol' Roy (named after Sam's Irish setter) is now the bestselling dog food brand in America? Besides Ol' Roy, Wal-Mart's garden fertilizer has also become the bestselling brand in the US in its category, as has its Spring Valley line of vitamins.
 
-So how do you beat a behemoth like Wal-Mart? One retail expert tackled this question in his autobiography. He suggests 10 ways to accomplish this goal: (a) have a strong commitment to your business; (b) involve your staff in decision making; (c) listen to your staff and your customers; (d) learn how to communicate; (e) appreciate a good job; (f) have fun; (g) set high goals for staff; (h) promise a lot, but deliver more; (i)
-
-[]{#calibre_link-263}![](images/000402.png){.calibre2} 
-
- 325
-
-watch your expenses; and (j) find out what the competition is doing and do something different. The author of this autobiography: *Made in America*-Sam Walton. 1
+So how do you beat a behemoth like Wal-Mart? One retail expert tackled this question in his autobiography. He suggests 10 ways to accomplish this goal: (a) have a strong commitment to your business; (b) involve your staff in decision making; (c) listen to your staff and your customers; (d) learn how to communicate; (e) appreciate a good job; (f) have fun; (g) set high goals for staff; (h) promise a lot, but deliver more; (i) watch your expenses; and (j) find out what the competition is doing and do something different. The author of this autobiography: *Made in America*-Sam Walton. 1
 
 10.2 INTRODUCTION {#introduction-9 .calibre5}      -- 
 
@@ -12393,9 +11876,7 @@ consumer (See [Figure 10.1](#calibre_link-264)).1 The first, called the *exchang
 
 1. *Sources*: Raphel, "Up Against the Wal-Mart," *Direct Marketing*, April 1999, pp. 82-84; Adrienne Sanders, "Yankee Imperialists," *Forbes*, December 13, 1999, p. 36; Jack Neff, "Wal-Mart Stores Go Private (Label)," *Advertising Age*, November 29, 1999, pp. 1,34,36; Alice Z. Cuneo, "Wal-Mart's Goal: To Reign Over Web," *Advertising Age*, July 5, 1999, pp. 1, 27.
 
-[]{#calibre_link-264}![](images/000141.png){.calibre2} 
-
- 326
+![](images/000141.png)
 
 **Fig. 10.1: Dual-flow system in marketing channels.**
 
@@ -12412,11 +11893,7 @@ The channel structure in a primitive culture is virtually nonexistent. The famil
 
 made available. As economies evolve, people begin to specialize in some aspect of economic activity. They engage in farming, hunting, or fishing, or some other basic craft. Eventually, this specialized skill produces excess products, which they exchange or trade for needed goods that have been produced by others. This exchange process or barter marks the beginning of formal channels of distribution. These early channels involve a series of exchanges between two parties who are producers of one product and consumers of the other.
 
-With the growth of specialization, particularly industrial specialization, and with improvements in methods of transportation and communication, channels of
-
-[]{#calibre_link-265}![](images/000187.png){.calibre2}
-
-distribution become longer and more complex. Thus, corn grown in Illinois may be processed into corn chips in West Texas, which are then distributed throughout the United States. Or, turkeys raised in Virginia are sent to New York so that they can be shipped to supermarkets in Virginia. Channels do not always make sense.
+With the growth of specialization, particularly industrial specialization, and with improvements in methods of transportation and communication, channels of distribution become longer and more complex. Thus, corn grown in Illinois may be processed into corn chips in West Texas, which are then distributed throughout the United States. Or, turkeys raised in Virginia are sent to New York so that they can be shipped to supermarkets in Virginia. Channels do not always make sense.
 
 The channel mechanism also operates for service products. In the case of medical care, the channel mechanism may consist of a local physician, specialists, hospitals, ambulances, laboratories, insurance companies, physical therapists, home care professionals, and so forth. All of these individuals are interdependent, and could not operate successfully without the cooperation and capabilities of all the others.
 
@@ -12447,9 +11924,7 @@ The structure and management of the marketing channel is thus in part a function
 
 These flows are illustrated for Perrier Water in [Figure 10.2.](#calibre_link-266)
 
-[]{#calibre_link-266}![](images/000417.png){.calibre2} 
-
- 328
+![](images/000417.png)
 
 **Fig. 10.2: Five flows in the marketing channel for Perrier Water.** *Source*: Bert Rosenbloom, *Marketing* *Channels: A Management View*, Dryden Press, Chicago, 1983, p.11.
 
@@ -12460,11 +11935,7 @@ The *product flow* refers to the movement of the physical product from the manuf
 
  The primary purpose of any channel of distribution is to bridge the gap between the producer of a product and the user of it, whether the parties are located in the same community or in different countries thousands of miles apart. The channel is
 
-composed of different institutions that facilitate the transaction and the physical exchange. Institutions in channels fall into three categories: (a) the producer of the product a craftsman, manufacturer, farmer, or other extractive industry producer; (b) the user of the product an individual, household, business buyer, institution, or
-
-[]{#calibre_link-371}329
-
-government; and (c) certain middlemen at the wholesale and/or retail level. Not all members perform the same function.
+composed of different institutions that facilitate the transaction and the physical exchange. Institutions in channels fall into three categories: (a) the producer of the product a craftsman, manufacturer, farmer, or other extractive industry producer; (b) the user of the product an individual, household, business buyer, institution, or government; and (c) certain middlemen at the wholesale and/or retail level. Not all members perform the same function.
 
 Heskett2 suggests that a channel performs three important functions:
 
@@ -12488,7 +11959,7 @@ Similarly, it may be important for the producer to maintain direct contact with 
 
 channels are common in industrial settings, as are door-to-door selling and catalogue sales. Indirect channels are more typical and result, for the most part, because producers are not able to perform the tasks provided by middlemen (See [Figure 10.3](#calibre_link-314)).
 
-[]{#calibre_link-314}![](images/000421.png){.calibre2}
+![](images/000421.png)
 
 **Fig. 10.3: Marketing channels of a manufacturer of electrical wire and cable.** *Source*: Edwin H. Lewis, *Marketing Electrical Apparatus and Supplies*, McGraw-Hill, Inc., 1961, p. 215.
 
@@ -12498,7 +11969,7 @@ Machines (ATMs), and other distribution systems. The medical community provides 
 
 In all three cases, the industries are attempting to meet the special needs of their target markets while differentiating their product from that of their competition. A channel strategy is evident.
 
-[]{#calibre_link-267}![](images/000222.png){.calibre2} 
+![](images/000222.png)
 
 
 **Fig. 10.4: The marketing channels for the performing arts.** *Sources*: John R. Nevin, "An Empirical Analysis of Marketing Channels for the Performing Arts," in Michael P. Mokwa, William M. Dawson, and E. Arthur Prieve (eds.). *Marketing the Arts*, New York: Praeger Publishers, 1980, p. 204.
@@ -12517,12 +11988,7 @@ Some are members, while others are nonmembers. The former perform negotiation fu
 
  These firms extract, grow, or make products. A wide array of products is included, and firms vary in size from a one-person operation to those that employ several thousand people and generate billions in sales. Despite these differences, all are in business to satisfy the needs of markets. In order to do this, these firms must be assured that their products are distributed to their intended markets. Most producing and
 
-manufacturing firms are not in a favorable position to perform all the tasks that would be necessary to distribute their products directly to their final user markets. A computer manufacturer may know everything about designing the finest personal
-
-[]{#calibre_link-268}![](images/000238.png){.calibre2} 
-
-
-computer, but know absolutely nothing about making sure the customer has access to the product.
+manufacturing firms are not in a favorable position to perform all the tasks that would be necessary to distribute their products directly to their final user markets. A computer manufacturer may know everything about designing the finest personal computer, but know absolutely nothing about making sure the customer has access to the product.
 
 In many instances, it is the expertise and availability of other channel institutions that make it possible for a producer or manufacturer to even participate in a particular market. Imagine the leverage that a company like Frito-Lay has with various
 
@@ -12549,9 +12015,6 @@ motels. Nevertheless, most retail sales are still made in brick-and-mortar store
 
  Department stores are characterized by their very wide product mixes. That is, they carry many different types of merchandise that may include hardware, clothing, and appliances. Each type of merchandise is typically displayed in a different section or department within the store. The depth of the product mix depends on the store.
 
-[]{#calibre_link-269}![](images/000275.png){.calibre2} 
-
-
 **10.7.2.1.2 Chain Stores** 
 
 
@@ -12575,9 +12038,6 @@ Supermarkets were among the first to experiment with such innovations as mass me
 
 Discount houses are characterized by an emphasis on price as their main sales appeal. Merchandise assortments are generally broad including both hard and soft goods, but assortments are typically limited to the most popular items, colors, and sizes. Such stores are usually large, self-service operations with long hours, free parking, and relatively simple fixtures.
 
-[]{#calibre_link-270}![](images/000438.png){.calibre2} 
-
-
 **10.7.2.1.5 Warehouse Retailing** 
 
 
@@ -12600,8 +12060,6 @@ By 1960 there were 4,500 such centers with both chains and nonchains vying for l
 Such regional shopping centers are successful because they provide customers with a wide assortment of products. If you want to buy a suit or a dress, a regional shopping center provides many alternatives in one location. *Regional centers* are those larger centers that typically have one or more department stores as major tenants.
 
 *Community centers* are moderately sized with perhaps a junior department store; while neighborhood centers are small, with the key store usually a supermarket. *Local* *clusters* are shopping districts that have simply grown over time around key intersections, courthouses, and the like. *String street locations* are along major traffic routes, while isolated locations are freestanding sites not necessarily in heavy traffic areas. Stores in isolated locations must use promotion or some other aspect of their marketing mix to attract shoppers. Still, as indicated in the next Newsline, malls are facing serious problems.
-
-[]{#calibre_link-271}![](images/000358.png){.calibre2}
 
 **Newsline: The mall: a thing of the past?**
 
@@ -12680,8 +12138,6 @@ the entertainment shopping experience. *2*
 
 *The Denver Post, June 4, 2000, pp. D1, D4.*
 
-[]{#calibre_link-372}336
-
 of merchandise, such as life insurance, cigarettes, magazines, books, CDs, and clothing.
 
 One type of nonstore retailing used by such companies as Avon, Electrolux, and many insurance agencies is *in-home sel ing*. Such sales calls may be made to preselected prospects or in some cases on a cold call basis. A variation of door-to-door selling is the *demonstration party*. Here one customer acts as a host and invites friends.
@@ -12711,8 +12167,6 @@ Marketers can carry on online marketing in four ways: (a) using e-mail; (b) part
 Today, more than 40,000 businesses have established a home page on the Internet, many of which serve as electronic storefronts. One can order clothing from Lands' End or J.C. Penney, books from B. Dalton or Amazon.com, or flowers from Lehrer's Flowers to be sent anywhere in the world. Essentially, a company can open its own store on the Internet.
 
 Companies and individuals can place ads on commercial online services in three different ways. First, the major commercial online services offer an ad section for listing classified ads; the ads are listed according to when they arrived, with the latest ones heading the list. Second, ads can be placed in certain online newsgroups that are basically set up for commercial purposes. Finally, ads can also be put on online billboards; they pop up while subscribers are using the service, even though they did not request an ad.
-
-[]{#calibre_link-272}337
 
 *Catalog marketing* occurs when companies mail one or more product catalogs to selected addresses that have a high likelihood of placing an order. Catalogs are sent by huge general-merchandise retailers --J.C. Penney's, Spiegel that carry a full line of merchandise. Specialty department stores such as Neiman-Marcus and Saks Fifth Avenue send catalogs to cultivate an upper-middle class market for high-priced, sometimes exotic merchandise.
 
@@ -12770,8 +12224,6 @@ For net upstarts, the cost per new customer is USD 82, compared
 
 to USD 31 for traditional retailers.
 
-[]{#calibre_link-273}![](images/000389.png){.calibre2}
-
 Etailers customer satisfaction levels were: 41 per cent for
 
 customer service; 51 per cent for easy returns; 57 per cent for
@@ -12825,8 +12277,6 @@ processing, a school buys audio-visual equipment for classroom use, or a dress s
 
 The vast majority of all goods produced in an advanced economy have wholesaling involved in their marketing. This includes manufacturers who operate sales offices to perform wholesale functions, and retailers, who operate warehouses or otherwise engage in wholesale activities. Even the centrally planned socialist economy needs a structure to handle the movement of goods from the point of production to other product activities or to retailers who distribute to ultimate consumers. Note that many *3. Sources: Heather Green, "Shake Out ETailers," Business Week, May 15, 2000, pp. 103-106; Ellen Neubome, "It's the* *Service, Stupid," Business Week, April 3, 2000, p. E8; Chris Ott, "Will Online Shopping Kill Traditional Retail?" The Denver* *Business Journal, Oct. 28, 1999, p. 46A; Steve Caulk, "Online Merchants Need More Effective Web Sites," Rocky Mountain* *News, Thursday, March 8, 2001, p. 5B.*
 
-[]{#calibre_link-274}![](images/000399.png){.calibre2}
-
 establishments that perform wholesale functions also engage in manufacturing or retailing. This makes it very difficult to produce accurate measures of the extent of wholesale activity. For purposes of keeping statistics, the Bureau of the Census of the United States Department of Commerce defines wholesaling in terms of the per cent of business done by establishments who are primary wholesalers. It is estimated that only about 60 per cent of all wholesale activity is accounted for in this way.
 
 Today there are approximately 600,000 wholesale establishments in the United States, compared to just fewer than 3 million retailers. These 600,000 wholesalers generate a total volume of over USD 1.3 trillion annually; this is approximately 75 per cent greater than the total volume of all retailers. Wholesale volume is greater because it includes sales to industrial users as well as merchandise sold to retailers for resale.
@@ -12856,11 +12306,7 @@ In addition, the wholesaler must perform ail the activities necessary for the op
 
 The five functions listed previously emphasize the nature of wholesaling as a link between the producer and the organizational buyer.
 
-By providing this linkage, wholesalers assist both the producer and the buyer. From the buyer's perspective, the wholesaler typically brings together a wide assortment of products and lessens the need to deal directly with a large number of producers. This makes the buying task much more convenient. A hardware store with thousands of items from hundreds of different producers may find it more efficient to deal with a smaller number of wholesalers. The wholesaler may also have an inventory in the local market, thus speeding delivery and improving service. The wholesaler assists the producer by making products more accessible to buyers. They provide the producer with wide market coverage information about local market trends in an efficient
-
-[]{#calibre_link-275}![](images/000411.png){.calibre2}
-
-manner. Wholesalers may also help with the promotion of a producer's products to a local or regional market via advertising or a sales force to call on organizational buyers.
+By providing this linkage, wholesalers assist both the producer and the buyer. From the buyer's perspective, the wholesaler typically brings together a wide assortment of products and lessens the need to deal directly with a large number of producers. This makes the buying task much more convenient. A hardware store with thousands of items from hundreds of different producers may find it more efficient to deal with a smaller number of wholesalers. The wholesaler may also have an inventory in the local market, thus speeding delivery and improving service. The wholesaler assists the producer by making products more accessible to buyers. They provide the producer with wide market coverage information about local market trends in an efficient manner. Wholesalers may also help with the promotion of a producer's products to a local or regional market via advertising or a sales force to call on organizational buyers.
 
 **10.7.3.2 Types of Wholesalers** 
 
@@ -12977,8 +12423,6 @@ permanent basis;
 
 **Table 10.1: Types of modern wholesalers**
 
-[]{#calibre_link-276}![](images/000419.png){.calibre2}
-
 **Type**
 
 **Definition**
@@ -13052,7 +12496,7 @@ materials from a source of supply to the beginning of the production line, and t
 
 Before discussing physical distribution, it is important to recognize that physical distribution and the channel of distribution are not independent decision areas. They must be considered together in order to achieve the organization's goal of satisfied
 
-[]{#calibre_link-322}![](images/000429.png){.calibre2}
+![](images/000429.png)
 
 customers. Several relationships exist between physical distribution and channels, including the following:
 
@@ -13070,7 +12514,7 @@ organization meets the standards of channel members.
 
 **Fig. 10.5: Andersen appeals to both institutions and individuals**
 
-[]{#calibre_link-277}![](images/000440.png){.calibre2}
+![](images/000440.png)
 
 **Fig. 10.6: The physical distribution management process.**
 
@@ -13097,10 +12541,6 @@ order to satisfy individual or family needs in contrast to business,
 institutional, or industrial use. The various types of retailers
 
 include:
-
-[]{#calibre_link-278}![](images/000451.png){.calibre2} 
-
- 344
 
 ◦ department stores
 
@@ -13148,12 +12588,7 @@ distribution reflect an observable organization structure. Three types are most 
 
  The *conventional channel* of distribution could be described as a group of independent businesses, each motivated by profit, and having little concern about any other member of the distribution sequence. There are no all-inclusive goals, and in many instances, the assignment of tasks and the evaluation process are totally informal.
 
-Consequently, channel frameworks might be working against one another, tasks may
-
-[]{#calibre_link-279}![](images/000211.png){.calibre2} 
-
-
-go undone, and ineffective channel member relationships may last for years. Despite these deficiencies, this type of channel structure remains most common, and there are numerous examples of such networks working.
+Consequently, channel frameworks might be working against one another, tasks may go undone, and ineffective channel member relationships may last for years. Despite these deficiencies, this type of channel structure remains most common, and there are numerous examples of such networks working.
 
 **10.8.2 Vertical Marketing Systems** 
 
@@ -13177,9 +12612,6 @@ independent. Eventually these independents may find themselves at a tremendous c
 
 
  There are instances when channel members wish to formalize their relationship by employing a contractual agreement, known as a *contractual VMS*. This provides additional control, and either explicitly or implicitly spells out the marketing functions to be performed by all the members of the channel. This is the most popular form of vertical marketing arrangement.
-
-[]{#calibre_link-280}![](images/000366.png){.calibre2} 
-
 
 **10.8.2.3 Corporate VMS** 
 
@@ -13207,11 +12639,7 @@ transportation rates that each could not obtain separately. Another common scena
 **10.9.1 Analyze the Consumer** 
 
 
- We begin the process of channel management by answering two questions. First, to whom shall we sell this merchandise immediately? Second, who are our ultimate users
-
-[]{#calibre_link-373}347
-
-and buyers? Depending upon a host of factors, including the type of product,
+ We begin the process of channel management by answering two questions. First, to whom shall we sell this merchandise immediately? Second, who are our ultimate users and buyers? Depending upon a host of factors, including the type of product,
 
 functions performed in the channel, and location in the channel, the immediate and ultimate customers may be identical or they may be quite separate. In both cases, some fundamental questions would apply. There is a need to know what the customer needs, where they buy, when they buy, why they buy from certain outlets, and how they buy.
 
@@ -13241,13 +12669,7 @@ This requires that a manufacturer contemplating distribution through particular 
 
 In much the same way that buying specifications of ultimate users are determined, the manufacturers must also discover buying specifications of resellers. Of particular impor tance is the question, "from whom do my retail outlets prefer to buy?" The answer to this question determines the types of wholesalers (if any) that the manufacturer should use. Although many retailers prefer to buy directly from the manufacturers, this is not always the case. Often, the exchange requirements
 
-manufacturers (e.g. infrequent visit, large order requirements, and stringent credit temls) are the opposite of those desired by retailers. Such retailers would rather buy
-
-[]{#calibre_link-281}![](images/000217.png){.calibre2} 
-
- 348
-
-from local distributors who have lenient credit terms and offer a wide assortment of merchandise.
+manufacturers (e.g. infrequent visit, large order requirements, and stringent credit temls) are the opposite of those desired by retailers. Such retailers would rather buy from local distributors who have lenient credit terms and offer a wide assortment of merchandise.
 
 **10.9.2 Establish the Channel Objectives** 
 
@@ -13283,9 +12705,6 @@ manufacturer might delineate the following tasks as being necessary in order to 
 
 * offer adequate storage space
 
-[]{#calibre_link-282}![](images/000323.png){.calibre2} 
-
-
 * provide credit to other intermediaries
 
 * facilitate a product return network
@@ -13314,8 +12733,6 @@ The number of levels in a particular industry might be the same for all the comp
 determine the actual number of channel components involved at each level. How many retailers in a particular market should be included in the distribution network?
 
 How many wholesalers? Although there are limitless possibilities, the categories shown in [Table 10.2](#calibre_link-283)have been used to describe the general alternatives.
-
-[]{#calibre_link-283}![](images/000006.png){.calibre2}
 
 1. Exclusive distribution (such as Ethan Allen and Drexel
 
@@ -13380,13 +12797,7 @@ The intensity decision is extremely critical, because it is an important part of
 
  As discussed earlier, there are several types of intermediaries that operate in a particular channel system. The objective is to gather enough information to have a general understanding of the distribution tasks these intermediaries perform. Based on this background information, several alternatives will be eliminated.
 
-Having identified several possible alternative channel structures, the channel manager is now at a place where he or she can evaluate these alternatives with respect to some
-
-[]{#calibre_link-284}![](images/000025.png){.calibre2} 
-
- 351
-
-set of criteria. Company factors, environmental trends, reputation of the reseller, experience of reseller are just a few examples.
+Having identified several possible alternative channel structures, the channel manager is now at a place where he or she can evaluate these alternatives with respect to some set of criteria. Company factors, environmental trends, reputation of the reseller, experience of reseller are just a few examples.
 
 **10.9.4.4 Who Should Lead** 
 
@@ -13408,13 +12819,8 @@ stimulation are relatively unimportant and when personal attention to the custom
 
  The need to evaluate the performance level of the channel members is just as
 
-important as the evaluation of the other marketing functions. Clearly, the marketing mix is quite interdependent and the failure of one component can cause the failure of the whole. There is one important difference, with the exception of the corporate VMS; the channel member is dealing with independent business firms, rather than employees and activities under the control of the channel member, and their
+important as the evaluation of the other marketing functions. Clearly, the marketing mix is quite interdependent and the failure of one component can cause the failure of the whole. There is one important difference, with the exception of the corporate VMS; the channel member is dealing with independent business firms, rather than employees and activities under the control of the channel member, and their willingness to change is lacking.
 
-willingness to change is lacking.
-
-[]{#calibre_link-285}![](images/000106.png){.calibre2} 
-
- 352
 
 Sales is the most popular performance criteria used in channel evaluation. Sales might further be subdivided into current sales compared with historical sales, comparisons of sales with other channel members, and comparisons of the channel member's
 
@@ -13446,9 +12852,6 @@ they buy and to whom they sell. A second reason is the tendency of channel membe
 
 incorporated into the study of channel behavior: roles, communication, conflict, and power. It is assumed that an understanding of these behavioral characteristics will increase the effectiveness of the channel.
 
-[]{#calibre_link-286}![](images/000225.png){.calibre2} 
-
-
 **10.10.1 Role** 
 
 
@@ -13474,11 +12877,7 @@ distribution, a great deal of research has been conducted in attempts to identif
 
 There is also a need to manage conflict in the channel. This consists of (a) establishing a mechanism for detecting conflict, (b) appraising the effects of the conflict, and (c) resolving the conflict. This last consideration is most difficult to implement.
 
-Techniques such as a channel committee, jomt goal setting, and bringing in an arbitrator have all been used. There are even cases when conflict is necessary. Such is the case in the e-marketplace. For example, Eric Schmidt, Chairman and CEO of
-
-[]{#calibre_link-287}![](images/000237.png){.calibre2}
-
-Google Inc., notes: "From my experience the most successful companies are the ones where there is enormous conflict. Conflict does not mean killing one another, but instead means there is a process by which there is a disagreement. It is okay to have different points of view and disagree, because tolerance of multiple opinions and people often leads to the right decision through some kind of process."
+Techniques such as a channel committee, jomt goal setting, and bringing in an arbitrator have all been used. There are even cases when conflict is necessary. Such is the case in the e-marketplace. For example, Eric Schmidt, Chairman and CEO of Google Inc., notes: "From my experience the most successful companies are the ones where there is enormous conflict. Conflict does not mean killing one another, but instead means there is a process by which there is a disagreement. It is okay to have different points of view and disagree, because tolerance of multiple opinions and people often leads to the right decision through some kind of process."
 
 **10.10.4 Power** 
 
@@ -13512,8 +12911,6 @@ conventional, vertical, and horizontal.
 ◦ conflict
 
 ◦ power
-
-[]{#calibre_link-288}355
 
 **The Wall Street Journal (wsj.com)**
 
@@ -13597,8 +12994,6 @@ organization. Support your conclusions with concepts form the
 
 chapter.
 
-[]{#calibre_link-289}![](images/000444.png){.calibre2}
-
 **Questions**
 
 * Why do organizations need to effectively manage their channels of
@@ -13636,11 +13031,7 @@ Physical distribution management involves the movement and storage of materials,
 
 Physical distribution activities are undertaken to facilitate exchange between marketers and customers. The basic objective of physical distribution is to provide an acceptable level of customer service at the lowest possible cost. This is done using the total cost concept, which requires that all the costs of each alternative distribution system be considered when a firm is attempting to provide a level of customer service.
 
-Channels exhibit behavior, as people do, and this behavior needs to be coordinated and managed in order to reach desired objectives. The four dimensions of behavior
-
-[]{#calibre_link-290}![](images/000029.png){.calibre2}
-
-examined are role, communication, conflict, and power. Strategies for effective channel management include: (a) analyze the consumer, (b) establish channel
+Channels exhibit behavior, as people do, and this behavior needs to be coordinated and managed in order to reach desired objectives. The four dimensions of behavior examined are role, communication, conflict, and power. Strategies for effective channel management include: (a) analyze the consumer, (b) establish channel
 
 objectives, (c) specify the channel tasks, (d) select the appropriate channel from available alternatives and (e) evaluate the results. The chapter concludes with a discussion of the legal factor's impact on channels.
 
@@ -13670,9 +13061,6 @@ objectives, (c) specify the channel tasks, (d) select the appropriate channel fr
 **Channel conflict** Personal and direct friction; often suggests a potential confrontation.
 
 **Channel power** A willingness to use force in a relationship.
-
-[]{#calibre_link-291}![](images/000055.png){.calibre2} 
-
 
 10.13 QUESTIONS {#questions-9 .calibre5}       
 
@@ -13713,11 +13101,7 @@ cooperatives with retailers? What the advantages to retailers?
 **10.15.1 CONNECTING CHANNEL MEMBERS** 
 
 
- Brokers are in the midst of an identity crisis. Today's brokers represent more than 3.000 manufacturers, comprising nearly 60 per cent of all commodity volume in package goods and 80 per cent of US grocery warehouse withdrawals. Mary brokers
-
-[]{#calibre_link-292}![](images/000231.png){.calibre2}
-
-rank among the top 10 vendors of their major retail customers. Much to their
+ Brokers are in the midst of an identity crisis. Today's brokers represent more than 3.000 manufacturers, comprising nearly 60 per cent of all commodity volume in package goods and 80 per cent of US grocery warehouse withdrawals. Mary brokers rank among the top 10 vendors of their major retail customers. Much to their
 
 continuing frustration, however, many manufacturers are experimenting with some combination of broker and direct resources in an attempt to deal with the new marketplace. Some of these models are working, but managers are not.
 
@@ -13744,8 +13128,6 @@ demographics, purchase behavior in a category, and measures of loyalty by accoun
 
  1. Wroe Alderson, "Factors Governing the Development of Marketing Channels," in R.M. Clewett (ed.), *Marketing Channels for Manufactured Products*, Homewood, IL: Richard D. Irwin, 1954, pp. 5-22.
 
-[]{#calibre_link-374}360
-
 2. James L. Heskett, *Marketing*, New York: Macmillan Publishing Co., Inc. , 1976, pp.
 
 265-267.
@@ -13753,8 +13135,6 @@ demographics, purchase behavior in a category, and measures of loyalty by accoun
 3. Roger M. Pegram, "Selecting and Evaluating Distributors," New York: The Conference Board, Business Policy Study No. 116, 1965, p. 24.
 
 4. Louis W. Stem, and Ronald H. Gorman, "Conflict in Distribution Channels: An Exploration," in *Distribution Channels: Behavioral Dimensions*, ed. Louis W. Stern, New York: Houghton-Mifflin Co., 1969, p. 156.
-
-[]{#calibre_link-293}![](images/000286.png){.calibre2}
 
 **Photo Credits** 
 
